@@ -1,0 +1,4513 @@
+com.oppo.cdo.common.domain.dto.config.AdSplashDto
+
+
+1
+https://cdofs.oppomobile.com/cdo-commerce/201905/07/cfc3a46a63b69ce9a8b312161d48ab23.jpg
+oap://mk/cardstyle?pk=60004926&p=%2Fcard%2Fstore%2Fv3%2Fsubjects%2F4926
+0039e815ebe9755ce3a18626a09d592e
+23dfc4d755dc088bb4eaf1dbafdaefd8
+{"adId":"37478","adType":"21","adSpec":"1","price":"0","grade":"2","adOwner":"0","planId":"1877","parEvtId":"302d454b33863a52db68afe677bdb274","displayTime":"1557296675000","adSource":"1","dealId":"32738","traceId":"1-ypZTssTc3h1bK0FsjLsznHl+Q36kbJDbRX+9H3huVbu10h/WdoF+Dta+hlAklaTd","creativeId":"18215","brand":""}
+40
+filter
+com.oppo.book|com.oppo.reader|com.oppo.community|com.nearme.instant.platform
+pu.upload.invl
+3
+floating
+com.oppo.cdo.card.domain.dto.ModuleDto
+{"page": {"codes": ["100", "200", "300"],"statPeriod": {"timestamp": 1536768000000,"interval": 86400000,"expose": 1}},"keyword": {"state": "on","statPeriod": {"timestamp": 1536768000000,"interval": 86400000,"expose": 2}}}
+首页
+smp
+com.oppo.cdo.card.domain.dto.ViewLayerDto
+{s:865675022944188,e:1493481600000}
+safe.host
+www.opposhop.cn|hd.oppo.com
+iq
+l30-m50-h75
+首页
+aht
+/card/store/v3/home
+60000
+com.oppo.cdo.card.domain.dto.ModuleDto
+wifi.update.strategy
+游戏
+{"autoUpdateNight":"23-24,0-2#0-2,2-4#2-4,4-6#4-23,23-2","autoUpdateDay":"0-2,2-5#2-5,5-7#5-7,7-9#7-9,9-11#9-11,11-13#11-13,13-15#13-15,15-19#15-19,19-2#19-22,22-5#22-24,2-7","updateTimes":"4"}
+com.oppo.cdo.card.domain.dto.ViewLayerDto
+pu.invl
+精选
+3
+/card/store/v3/game-chosen
+switch
+com.oppo.cdo.card.domain.dto.ViewLayerDto
+144463
+分类
+dx.ref
+/card/store/v3/cat/game
+{"com.oppo.mobad":"10067","com.wepie.snake.nearme.gamecenter":"10068","com.ad.1002":"20000","com.ad.1004":"20001","com.ad.1005":"20002","com.ad.1008":"20003","com.ad.1009":"20004","com.ad.1013":"20007","com.ad.1014":"20008"}
+com.oppo.cdo.card.domain.dto.ViewLayerDto
+udp.inner.apps
+热门
+com.coloros.wallet#com.oppo.ohome#com.coloros.colorfilestand#com.google.android.gms
+/card/store/v3/subject/5000931
+com.oppo.cdo.card.domain.dto.ModuleDto
+软件
+com.oppo.cdo.card.domain.dto.ViewLayerDto
+精选
+/card/store/v3/app-chosen
+com.oppo.cdo.card.domain.dto.ViewLayerDto
+分类
+/card/store/v3/cat/app
+com.oppo.cdo.card.domain.dto.ViewLayerDto
+教育
+/card/store/v3/subject/5000873
+com.oppo.cdo.card.domain.dto.ModuleDto
+排行
+com.oppo.cdo.card.domain.dto.ViewLayerDto
+游戏榜
+/card/store/v3/rank/game
+com.oppo.cdo.card.domain.dto.ViewLayerDto
+软件榜
+/card/store/v3/rank/app
+com.oppo.cdo.card.domain.dto.ModuleDto
+我的
+200
+ok
+首页
+com.oppo.cdo.card.domain.dto.NavCardDto
+displayMode
+com.oppo.cdo.card.domain.dto.BannerDto
+https://cdopic0.oppomobile.com/uploadFiles/admin_appstore/201905/07/0825973d624599e1297684f113e0e604.jpg
+oaps://mk/cardstyle?pk=50001102&p=%2Fcard%2Fstore%2Fv3%2Fsubject%2F50001102
+ods_id
+4077761
+com.oppo.cdo.card.domain.dto.BannerDto
+https://cdopic0.oppomobile.com/uploadFiles/admin_appstore/201905/07/053241226345835aaecf84c20adf3e00.jpg
+oaps://mk/cardstyle?pk=50001087&p=%2Fcard%2Fstore%2Fv3%2Fsubject%2F50001087
+ods_id
+4077762
+com.oppo.cdo.card.domain.dto.BannerDto
+https://cdopic0.oppomobile.com/uploadFiles/admin_appstore/201905/07/52e71a58a0236388691f0f8e8736972c.jpg
+oaps://mk/cardstyle?pk=50001114&p=%2Fcard%2Fstore%2Fv3%2Fsubject%2F50001114
+ods_id
+4077765
+com.oppo.cdo.card.domain.dto.BannerDto
+https://cdopic0.oppomobile.com/uploadFiles/admin_appstore/201905/07/132f076dea44a48a448c7ea6f9c2c6ef.jpg
+oaps://mk/cardstyle?pk=5000331&p=%2Fcard%2Fstore%2Fv3%2Fsubject%2F5000331
+ods_id
+4077766
+com.oppo.cdo.card.domain.dto.NavCardDto
+displayMode
+com.oppo.cdo.card.domain.dto.BannerDto
+https://cdopic0.oppomobile.com/uploadFiles/admin_appstore/201901/17/236d230668039cdae40b121bb0768707.png
+oap://mk/welfare?module={"title":"福利社","views":[{"name":"安装有礼","path":"/card/store/v3/installed","pageType":1,"pageId":3001,"focus":1},{"name":"优惠精选","path":"/card/store/v3/welfare","pageId":5021,"focus":0}]}
+ods_id
+4073030
+com.oppo.cdo.card.domain.dto.BannerDto
+https://cdopic0.oppomobile.com/uploadFiles/admin_appstore/201904/28/41aaded618561bccd8eab1ebc12800c1.jpg
+oap://mk/cardstyle?pk=60003239&p=%2Fcard%2Fstore%2Fv3%2Fsubjects%2F3239&module={"title":"至美奖","views":[{"name":"至美精选","path":"/card/store/v4/beauty/weekly","pageId":606,"focus":1},{"name":"至美合集","path":"/card/store/v3/subject/5000865","pageId":5000865,"focus":0}],"tabs":[{"name":"至美精选","path":"/card/store/v4/beauty/weekly?pageId=629","scroll":"horizontal","pageId":629,"focus":1},{"name":"至美合集","path":"/card/store/v4/beauty/weekly?pageId=628","scroll":"vertical","pageId":628,"focus":0}]}&beauty=true
+ods_id
+4077458
+com.oppo.cdo.card.domain.dto.NavCardDto
+displayMode
+com.oppo.cdo.card.domain.dto.BannerDto
+https://cdopic0.oppomobile.com/uploadFiles/admin_appstore/201904/04/ef70df50d227801781c14dfdffb2e47f.png
+oaps://mk/cardstyle?pk=500027&p=%2Fcard%2Fstore%2Fv3%2Fsubject%2F500027
+必备
+ods_id
+4076391
+com.oppo.cdo.card.domain.dto.BannerDto
+https://cdopic0.oppomobile.com/uploadFiles/admin_appstore/201901/18/c9805e6f1d5343ccab5546de0dfccf64.png
+oaps://mk/cardstyle?pk=500057&p=%2Fcard%2Fstore%2Fv3%2Fsubject%2F500057
+必玩
+ods_id
+4073066
+com.oppo.cdo.card.domain.dto.BannerDto
+https://cdopic0.oppomobile.com/uploadFiles/admin_appstore/201901/18/fd4de575eda33225cb89d860fdaa609d.png
+oaps://mk/cardstyle?pk=5000291&p=%2Fcard%2Fstore%2Fv3%2Fsubject%2F5000291
+热门
+ods_id
+4073067
+com.oppo.cdo.card.domain.dto.BannerDto
+https://cdopic0.oppomobile.com/uploadFiles/admin_appstore/201901/18/3d9d6d53de4f77f1bc767a840be0eaaf.png
+oap://mk/cats?module={"title":"分类","views":[{"name":"软件","path":"/card/store/v3/cat/app","pageId":201,"focus":1},{"name":"游戏","path":"/card/store/v3/cat/game","pageId":301,"focus":0}]}
+分类
+ods_id
+4073068
+com.oppo.cdo.card.domain.dto.BannerDto
+https://cdopic0.oppomobile.com/uploadFiles/admin_appstore/201901/18/82694752241f5e767474649dd51d34c1.png
+oap://mk/gc/home
+游戏中心
+ods_id
+4073069
+com.oppo.cdo.card.domain.dto.AppListCardDto
+com.oppo.cdo.common.domain.dto.ResourceDto
+抖音短视频
+com.ss.android.ugc.aweme
+6.1.0
+75.1MB
+
+
+https://cdopic0.oppomobile.com/img/201903/26/d3c4a61494b0bc3dadbf31e9cf3d7109.png
+36亿次安装
+https://istore.oppomobile.com/downloadx/v1/20965213
+100/20111/4/0
+{"adId":"101115102","adType":"1","planId":"101023123","adOwner":"1000045219","modId":"01","adGrp":"42049","extTp":"2","showTp":"128","spec":"1","alg":"GA1","chn":"2101","parEvtId":"1557296675974","traceId":"1-uAaCo14tRf8I5OOI4fpoh%2BCRyhFTaXs%2F%2FYG32KeVQrLdnA7WIkCqZlY%2BRgL1kggkh80WdEN3FsqT1rG%2FmgGEuQ%3D%3D"}
+抖音记录美好生活
+GA1_B
+gifIcon
+ods_id
+4058688
+com.oppo.cdo.common.domain.dto.ResourceDto
+和平精英
+com.tencent.tmgp.pubgmhd
+1.1.16
+1.89GB
+8810b464cd540d7b7cfdaafe18ae6df1
+2df2086e64bace670d899083b1e19053
+https://cdopic0.oppomobile.com/img/201905/08/80321a7e01facf8eb097c292e2ac3346.png
+5.5亿次安装
+https://istore.oppomobile.com/download/v1/20968324
+大吉大利百人反恐军事竞赛
+GA1_E40
+gifIcon
+ods_id
+4058688
+com.oppo.cdo.common.domain.dto.ResourceDto
+拼多多
+com.xunmeng.pinduoduo
+4.55.0
+18.1MB
+ff1fede1a11d0295621999c8b9eae49b
+1bced0a827a53f5491ff86a5a1340d3f
+https://cdopic0.oppomobile.com/img/201905/08/7cebc9acdd62459e64019545dbf495b5.png
+50.2亿次安装
+https://istore.oppomobile.com/download/v1/20968748
+100/20111/4/2
+{"adId":"101084575","adType":"1","planId":"101016618","adOwner":"1000044175","modId":"01","adGrp":"32027","extTp":"2","showTp":"128","spec":"1","alg":"GA1","chn":"2101","parEvtId":"1557296675974","traceId":"1-fC4M%2BITB%2FTokLCGDqMXMtKJM3Qat%2BTUl2qCKE6JIaivdnA7WIkCqZlY%2BRgL1kggkh80WdEN3FsqT1rG%2FmgGEuQ%3D%3D"}
+3亿人都在拼的购物App
+GA1_B
+gifIcon
+ods_id
+4058688
+com.oppo.cdo.common.domain.dto.ResourceDto
+火山小视频
+com.ss.android.ugc.live
+6.2.5
+30.3MB
+
+
+https://cdopic0.oppomobile.com/img/201901/15/a0a537626daa88466c73e4d288e78474.png
+11.8亿次安装
+https://istore.oppomobile.com/downloadx/v1/20965306
+100/20111/4/3
+{"adId":"101115104","adType":"1","planId":"101023124","adOwner":"1000045218","modId":"01","adGrp":"42051","extTp":"2","showTp":"128","spec":"1","alg":"GA1","chn":"2101","parEvtId":"1557296675974","traceId":"1-uAaCo14tRf8I5OOI4fpoh71EEHIvGrv8Ain5ueH573vdnA7WIkCqZlY%2BRgL1kggkh80WdEN3FsqT1rG%2FmgGEuQ%3D%3D"}
+在火山热爱生活
+GA1_B
+gifIcon
+ods_id
+4058688
+com.oppo.cdo.common.domain.dto.ResourceDto
+刷宝
+com.jm.video
+1.333
+16.6MB
+
+
+https://cdopic0.oppomobile.com/img/201901/18/b3a766328628e09c64be2a3dddaf809a.png
+2879万次安装
+https://istore.oppomobile.com/downloadx/v1/20941665
+100/20111/4/4
+{"adId":"101124104","adType":"1","planId":"101025337","adOwner":"1000045694","modId":"01","adGrp":"44877","extTp":"2","showTp":"128","spec":"1","alg":"GA1","chn":"2101","parEvtId":"1557296675974","traceId":"1-PtrQEH0Mit7kkOWq%2B7R8%2Br1EEHIvGrv8Ain5ueH573vdnA7WIkCqZlY%2BRgL1kggkh80WdEN3FsqT1rG%2FmgGEuQ%3D%3D"}
+看视频赚现金
+GA1_B
+gifIcon
+ods_id
+4058688
+/card/store/v3/recommend/context?fromPage=100&targetPage=865
+com.oppo.cdo.card.domain.dto.BannerCardDto
+com.oppo.cdo.card.domain.dto.BannerDto
+https://cdopic0.oppomobile.com/uploadFiles/admin_appstore/201905/07/28de5cf1794dca478c334192baca12df.jpg
+oaps://mk/cardstyle?pk=5000945&p=%2Fcard%2Fstore%2Fv3%2Fsubject%2F5000945
+ods_id
+4077769
+com.oppo.cdo.card.domain.dto.AppListCardDto
+com.oppo.cdo.common.domain.dto.ResourceDto
+京东
+com.jingdong.app.mall
+8.0.0
+83.8MB
+
+
+https://cdopic0.oppomobile.com/img/201902/12/9da6bca68c97db432dcd8d57d732c0eb.png
+12.1亿次安装
+https://istore.oppomobile.com/downloadx/v1/20966543
+100/20123/6/0
+{"adId":"101087260","adType":"1","planId":"101017186","adOwner":"1000004746","modId":"01","adGrp":"32967","extTp":"2","showTp":"128","spec":"1","alg":"GA1","chn":"2101","parEvtId":"1557296675974","traceId":"1-raMe9qOIhw7EkuBuF4PncVluPUWuvumFZI9ZYDhplQvdnA7WIkCqZlY%2BRgL1kggkh80WdEN3FsqT1rG%2FmgGEuQ%3D%3D"}
+新人送188元购物礼包
+https://cdopic0.oppomobile.com/uploadFiles/admin_appstore/schedule/201611/28c50c4866a89e1a221f187f4e501ba2.jpg
+GA1_B
+gifIcon
+ods_id
+4058688
+com.oppo.cdo.common.domain.dto.ResourceDto
+快手
+com.smile.gifmaker
+6.4.0.9003
+71.0MB
+
+
+https://cdopic0.oppomobile.com/img/201705/25/05fafdfe34f75e11370f3be02eae20ed.png
+56.8亿次安装
+https://istore.oppomobile.com/downloadx/v1/20967208
+100/20123/6/1
+{"adId":"101088374","adType":"1","planId":"101017454","adOwner":"1000016571","modId":"01","adGrp":"33318","extTp":"2","showTp":"128","spec":"1","alg":"GA1","chn":"2101","parEvtId":"1557296675974","traceId":"1-oAWxcTuAQ1ZV6%2FVBcXXHkL1EEHIvGrv8Ain5ueH573vdnA7WIkCqZlY%2BRgL1kggkh80WdEN3FsqT1rG%2FmgGEuQ%3D%3D"}
+看见每一种生活
+GA1_B
+gifIcon
+ods_id
+4058688
+com.oppo.cdo.common.domain.dto.ResourceDto
+王者荣耀（五五开黑不掉星）
+com.tencent.tmgp.sgame
+1.44.1.10
+1.58GB
+2983819360827fad7fae1adb28a4bb38
+ae35b2fc41ee90d81464eb733ba92d21
+https://cdopic0.oppomobile.com/uploadFiles/PImages/201601/28/44696b37c45ab2d83dae83246bd54636.png
+19.8亿次安装
+https://istore.oppomobile.com/download/v1/20950635
+全世界撸友开团
+https://cdopic0.oppomobile.com/uploadFiles/admin_appstore/schedule/201611/865948f93d43ff236f211db6bd86518b.jpg
+GA1_G
+gifIcon
+ods_id
+4058688
+com.oppo.cdo.common.domain.dto.ResourceDto
+西瓜视频
+com.ss.android.article.video
+3.5.4
+14.7MB
+
+
+https://cdopic0.oppomobile.com/img/201904/17/63f3859bcf5c9780de12eb2c6395538d.png
+14.5亿次安装
+https://istore.oppomobile.com/downloadx/v1/20957462
+100/20123/6/3
+{"adId":"101164996","adType":"1","planId":"101035128","adOwner":"1000017127","modId":"01","adGrp":"58820","extTp":"2","showTp":"128","spec":"1","alg":"GA1","chn":"2101","parEvtId":"1557296675974","traceId":"1-dyo6I%2F0kVl3xa0YXf6BPOqSLtOUIxB8oemK6UisUO8PdnA7WIkCqZlY%2BRgL1kggkh80WdEN3FsqT1rG%2FmgGEuQ%3D%3D"}
+考不好没关系热播中
+GA1_B
+gifIcon
+ods_id
+4058688
+com.oppo.cdo.common.domain.dto.ResourceDto
+铃声多多
+com.shoujiduoduo.ringtone
+8.7.48.0
+13.5MB
+1d72ec4fbd393b61e4ba20160571edf4
+f3bf74b0f4521c75f85ee7260302b0f9
+https://cdopic0.oppomobile.com/img/201901/04/39612b290769d0954c66fac227ed0181.png
+18.4亿次安装
+https://istore.oppomobile.com/download/v1/20959235
+热门手机音乐铃声正版彩铃大全
+GA1_A
+gifIcon
+ods_id
+4058688
+/card/store/v3/recommend/context?fromPage=100&targetPage=865
+com.oppo.cdo.card.domain.dto.BannerCardDto
+oaps://mk/cardstyle?pk=60004892&p=%2Fcard%2Fstore%2Fv3%2Fsubjects%2F4892
+com.oppo.cdo.card.domain.dto.BannerDto
+https://cdopic0.oppomobile.com/uploadFiles/admin_appstore/201905/07/357472fe477fcf81875922f65a325ed2.jpg
+oaps://mk/cardstyle?pk=60004892&p=%2Fcard%2Fstore%2Fv3%2Fsubjects%2F4892
+ods_id
+4077770
+com.oppo.cdo.common.domain.dto.ResourceDto
+宾果消消消®（青春的花路推荐）
+com.mfp.jelly.oppo
+6.5.0
+327MB
+e140c0a4a8f2ba677290811724d7259d
+4250f4645d04a704eb15c4baf10dee0f
+https://cdopic0.oppomobile.com/img/201903/11/604f3562ddc86855dfb026fa417038f2.png
+3.6亿次安装
+https://istore.oppomobile.com/download/v1/20958131
+3.6亿次安装
+https://cdopic0.oppomobile.com/uploadFiles/admin_appstore/schedule/201609/4ad22564b642a0508c8bbdbfc455201d.png
+T1gT
+gifIcon
+ods_id
+4077771
+com.oppo.cdo.common.domain.dto.ResourceDto
+欢乐捕鱼人（赢话费）
+com.hlbyr.nearme.gamecenter
+V1.5.95
+57.3MB
+20bd73f1d7de1bbe51d333d35c19bde0
+20eba965c895b9ae6179304d7d4bf123
+https://cdopic0.oppomobile.com/img/201901/28/f01e7a1113d6cc511655dd22f9f2e61e.png
+2292万次安装
+https://istore.oppomobile.com/download/v1/20906562
+2292万次安装
+https://cdopic0.oppomobile.com/uploadFiles/admin_appstore/checkSchedule/201701/cacd3780412d96c534fbbe536c2b9f9c.jpg
+T1gT
+gifIcon
+ods_id
+4077771
+com.oppo.cdo.common.domain.dto.ResourceDto
+海滨消消乐（海岛争夺战）
+com.happyelements.AndroidClover.nearme.gamecenter
+1.34
+151MB
+fd2fd7889a7fe323f660f0a814b7cd08
+8befe3f464824791db9cd6a63e3ec668
+https://cdopic0.oppomobile.com/img/201902/28/5bc19e6deeebd92982df9b94c22b1f3f.png
+4349万次安装
+https://istore.oppomobile.com/download/v1/20953114
+4349万次安装
+https://cdopic0.oppomobile.com/uploadFiles/admin_appstore/checkSchedule/201702/cbe45b2748c5dc92631fe6314cea9cd8.jpg
+T1gT
+gifIcon
+ods_id
+4077771
+com.oppo.cdo.common.domain.dto.ResourceDto
+捕鱼欢乐炸（赢大奖）
+com.yaoji.byhlz.nearme.gamecenter
+1.0.3.5.0
+46.0MB
+5984fc9eff64e95089c8266ebd18ed44
+cdb449eeaff5050110c93d25f464422f
+https://cdopic0.oppomobile.com/img/201808/10/75010427fae76143e91425e3c2140e1c.png
+517万次安装
+https://istore.oppomobile.com/download/v1/20950215
+517万次安装
+T1gT
+gifIcon
+ods_id
+4077771
+com.oppo.cdo.card.domain.dto.AppListCardDto
+com.oppo.cdo.common.domain.dto.ResourceDto
+好看视频
+com.baidu.haokan
+4.14.1.10
+15.8MB
+
+
+https://cdopic0.oppomobile.com/img/201902/15/66643fe47a470481b20df6bbafd2de0a.png
+6.4亿次安装
+https://istore.oppomobile.com/downloadx/v1/20946923
+100/20125/8/0
+{"adId":"101207254","adType":"1","planId":"101044962","adOwner":"1000013067","modId":"01","adGrp":"73035","extTp":"2","showTp":"128","spec":"1","alg":"GA1","chn":"2101","parEvtId":"1557296675974","traceId":"1-sx%2B9pQE9eN80eFaxDFFXk71EEHIvGrv8Ain5ueH573vdnA7WIkCqZlY%2BRgL1kggkh80WdEN3FsqT1rG%2FmgGEuQ%3D%3D"}
+林志玲代言娱乐短视频
+GA1_B
+gifIcon
+ods_id
+4058688
+com.oppo.cdo.common.domain.dto.ResourceDto
+开心消消乐（五周年庆典）
+com.happyelements.AndroidAnimal
+1.67
+139MB
+e7458d2d2ffc0d0f2b81b5b3cb78c169
+5600544df0f314998deed9ba4ad3cb61
+https://cdopic0.oppomobile.com/img/201904/29/fd4218a8ac02e152507daa08dc029c4a.png
+9.7亿次安装
+https://istore.oppomobile.com/download/v1/20956618
+五周年狂欢
+https://cdopic0.oppomobile.com/uploadFiles/admin_appstore/schedule/201609/45e9ca45dd6df8b38594afdb96c52c4c.jpg
+GA1_G
+gifIcon
+ods_id
+4058688
+com.oppo.cdo.common.domain.dto.ResourceDto
+百度
+com.baidu.searchbox
+11.8.0.10
+77.7MB
+
+
+https://cdopic0.oppomobile.com/img/201903/04/0282e5c2ab03c2874bde923a91dddef8.png
+27亿次安装
+https://istore.oppomobile.com/downloadx/v1/20968249
+100/20125/8/2
+{"adId":"101219146","adType":"1","planId":"101041024","adOwner":"1000017821","modId":"01","adGrp":"76741","extTp":"2","showTp":"128","spec":"1","alg":"GA1","chn":"2101","parEvtId":"1557296675974","traceId":"1-kc7p5pnNAeoIyNcfsn0t36SLtOUIxB8oemK6UisUO8PdnA7WIkCqZlY%2BRgL1kggkh80WdEN3FsqT1rG%2FmgGEuQ%3D%3D"}
+新闻头条热点视频
+GA1_B
+gifIcon
+ods_id
+4058688
+com.oppo.cdo.common.domain.dto.ResourceDto
+美团外卖
+com.sankuai.meituan.takeoutnew
+7.10.3
+49.0MB
+
+
+https://cdopic0.oppomobile.com/img/201807/18/62710c88da302001af0a33856ce373ec.png
+2.9亿次安装
+https://istore.oppomobile.com/downloadx/v1/20948973
+100/20125/8/3
+{"adId":"101134019","adType":"1","planId":"101027970","adOwner":"123320421","modId":"01","adGrp":"48402","extTp":"2","showTp":"128","spec":"1","alg":"GA1","chn":"2101","parEvtId":"1557296675974","traceId":"1-bafvQ%2Fna8GgPGDZRzRE4%2BwwhNUZKGLgR9ByKT4t3ud%2FdnA7WIkCqZlY%2BRgL1kggkh80WdEN3FsqT1rG%2FmgGEuQ%3D%3D"}
+美食生鲜水果鲜花极速送达
+GA1_B
+gifIcon
+ods_id
+4058688
+com.oppo.cdo.common.domain.dto.ResourceDto
+欢喜斗地主（真人版）
+com.nearme.gamecenter.ddz.nearme.gamecenter
+3.10.195
+59.1MB
+fb94a7d6c8bccb90e5306e0c0d538adc
+84993fe362212df4d73a68721d467092
+https://cdopic0.oppomobile.com/img/201904/16/63a93e03a86d1060aa25f20e1df0ca23.png
+3.7亿次安装
+https://istore.oppomobile.com/download/v1/20949523
+大家都在玩的斗地主游戏
+https://cdopic0.oppomobile.com/uploadFiles/admin_appstore/schedule/201610/85afce1bbbd1189ce9b32e52d28a6b93.jpg
+GA1_G
+gifIcon
+ods_id
+4058688
+/card/store/v3/recommend/context?fromPage=100&targetPage=865
+com.oppo.cdo.card.domain.dto.BannerCardDto
+oaps://mk/cardstyle?pk=60004926&p=%2Fcard%2Fstore%2Fv3%2Fsubjects%2F4926
+com.oppo.cdo.card.domain.dto.BannerDto
+https://cdopic0.oppomobile.com/uploadFiles/admin_appstore/201905/07/cd09c401c8897ba8da9a6d87754bb82a.jpg
+oaps://mk/cardstyle?pk=60004926&p=%2Fcard%2Fstore%2Fv3%2Fsubjects%2F4926
+ods_id
+4077772
+com.oppo.cdo.common.domain.dto.ResourceDto
+明日之后
+com.netease.mrzh.nearme.gamecenter
+1.0.136
+1.81GB
+beba0b0ab2b526761a9dd36e40fdb935
+9a46b9fd53e213167e35717282e6565c
+https://cdopic0.oppomobile.com/img/201805/09/e7e526d949d6d791fb754def18c63a9d.png
+4901万次安装
+https://istore.oppomobile.com/download/v1/20957305
+4901万次安装
+T1hr
+gifIcon
+ods_id
+4077772
+com.oppo.cdo.common.domain.dto.ResourceDto
+斗罗大陆（登录送钻石）
+com.hsh.cqyzs.nearme.gamecenter
+9.1.1
+53.1MB
+f7a960b54bb4fc340fb30cda848847b7
+f0e883b6445bd7f94ca0a7fbe9106db3
+https://cdopic0.oppomobile.com/img/201904/18/432691ff577b948d93e0b3259f8669f7.png
+1106万次安装
+https://istore.oppomobile.com/download/v1/20886402
+1106万次安装
+T1hr
+gifIcon
+ods_id
+4077772
+com.oppo.cdo.common.domain.dto.ResourceDto
+屠龙破晓（装备回收）
+com.cbxd.sy.nearme.gamecenter
+3.3.11
+16.3MB
+bf90234d1233a6528c37563dbe2f6d74
+995a91808c5d012fdf55423c5c028f9a
+https://cdopic0.oppomobile.com/img/201901/07/1dc64c0c921313b666e1245c52ec190f.png
+1148万次安装
+https://istore.oppomobile.com/download/v1/20935912
+1148万次安装
+T1hr
+gifIcon
+ods_id
+4077772
+com.oppo.cdo.common.domain.dto.ResourceDto
+阿拉德之怒（光明使者降临）
+com.hegu.dnl.oppo.nearme.gamecenter
+1.26.1.139010
+1.29GB
+e33e73096d4219d0a762ceac9a81e7a7
+2831828cecb6fd4c764fed126398c62b
+https://cdopic0.oppomobile.com/img/201809/28/95dfce23deea271849ac0b9852b39f16.png
+1558万次安装
+https://istore.oppomobile.com/download/v1/20944770
+1558万次安装
+T1hr
+gifIcon
+ods_id
+4077772
+com.oppo.cdo.card.domain.dto.AppListCardDto
+com.oppo.cdo.common.domain.dto.ResourceDto
+全民K歌
+com.tencent.karaoke
+6.2.5.278
+73.3MB
+
+
+https://cdopic0.oppomobile.com/img/201904/25/d63005595ebe9fe37bc84001ec66a414.png
+13.8亿次安装
+https://istore.oppomobile.com/downloadx/v1/20949534
+100/20126/10/0
+{"adId":"101145867","adType":"1","planId":"101030546","adOwner":"1000039513","modId":"01","adGrp":"52122","extTp":"2","showTp":"128","spec":"1","alg":"GA1","chn":"2101","parEvtId":"1557296675974","traceId":"1-gJe%2BUK7kCoML%2Fzd6sd3olqOxRCT3e25wdpKl2%2FaXiFPdnA7WIkCqZlY%2BRgL1kggkh80WdEN3FsqT1rG%2FmgGEuQ%3D%3D"}
+你其实很会唱歌
+GA1_B
+gifIcon
+ods_id
+4058688
+com.oppo.cdo.common.domain.dto.ResourceDto
+今日头条极速版
+com.ss.android.article.lite
+6.9.0
+6.8MB
+
+
+https://cdopic0.oppomobile.com/img/201904/17/955de7a19e662670aeb9654269470831.png
+5.9亿次安装
+https://istore.oppomobile.com/downloadx/v1/20947303
+100/20126/10/1
+{"adId":"101083756","adType":"1","planId":"101016453","adOwner":"1000044278","modId":"01","adGrp":"31719","extTp":"2","showTp":"128","spec":"1","alg":"GA1","chn":"2101","parEvtId":"1557296675974","traceId":"1-PKneJLNw32rylwcxpyY6qqSLtOUIxB8oemK6UisUO8PdnA7WIkCqZlY%2BRgL1kggkh80WdEN3FsqT1rG%2FmgGEuQ%3D%3D"}
+信息创造价值并领取现金红包哦
+GA1_B
+gifIcon
+ods_id
+4058688
+com.oppo.cdo.common.domain.dto.ResourceDto
+龙之怒吼（暗黑奇迹风）
+com.kaopu.lhjx.nearme.gamecenter
+1.0.0
+508MB
+be2351d9f80f6d1caf8ec2da32e8f8da
+0d922913334e4c2e57ba9ef766e22b18
+https://cdopic0.oppomobile.com/img/201904/18/d05e7bfed8afd65c61947f71ad0a9dbc.png
+43.5万次安装
+https://istore.oppomobile.com/download/v1/20926240
+100/20126/10/2
+{"adId":"101243065","adType":"1","planId":"101052694","adOwner":"1000050734","modId":"01","adGrp":"84089","extTp":"2","showTp":"128","spec":"1","abtest":"MC-0-0","alg":"GA1","parEvtId":"1557296643406","traceId":"1-YFMBnSuXdb5bNndjvPGxw78QWU9q1TeGlIV%2FrzwBMKIzDbwoDS9W1SIYfoo%2FXwWK"}
+3D魔幻双形态变身龙战手游
+GA1_B
+gifIcon
+ods_id
+4058688
+com.oppo.cdo.common.domain.dto.ResourceDto
+唯品会
+com.achievo.vipshop
+6.42.7
+56.2MB
+
+
+https://cdopic0.oppomobile.com/img/201904/25/1b9b83f811a514d8f2edc81be8ee636b.png
+27.8亿次安装
+https://istore.oppomobile.com/downloadx/v1/20957238
+100/20126/10/3
+{"adId":"101017360","adType":"1","planId":"101003406","adOwner":"1000001324","modId":"01","adGrp":"9002","extTp":"2","showTp":"128","spec":"1","alg":"GA1","chn":"2101","parEvtId":"1557296675974","traceId":"1-VRx2RAs6N%2FXVe%2BXMTYAAB1luPUWuvumFZI9ZYDhplQvdnA7WIkCqZlY%2BRgL1kggkh80WdEN3FsqT1rG%2FmgGEuQ%3D%3D"}
+品牌特卖天天都有3折封顶
+GA1_B
+gifIcon
+ods_id
+4058688
+com.oppo.cdo.common.domain.dto.ResourceDto
+饿了么
+me.ele
+8.16.1
+39.2MB
+
+
+https://cdopic0.oppomobile.com/img/201905/06/cdf1b19f638ec8f9f00b1bee7c2a1951.png
+5.6亿次安装
+https://istore.oppomobile.com/downloadx/v1/20965525
+100/20126/10/4
+{"adId":"101223714","adType":"1","planId":"101047647","adOwner":"1000043745","modId":"01","adGrp":"78263","extTp":"2","showTp":"128","spec":"1","alg":"GA1","chn":"2101","parEvtId":"1557296675974","traceId":"1-nB0INJX1vMK478zYI5Gmu71EEHIvGrv8Ain5ueH573vdnA7WIkCqZlY%2BRgL1kggkh80WdEN3FsqT1rG%2FmgGEuQ%3D%3D"}
+517狂欢热销美食不止5折
+GA1_B
+gifIcon
+ods_id
+4058688
+/card/store/v3/recommend/context?fromPage=100&targetPage=865
+com.oppo.cdo.card.domain.dto.StatConfigDto
+200
+ok
+com.oppo.cdo.update.domain.dto.UpgradeDto
+沭阳农商行
+com.shyrcb.mybank
+2.0.2
+21.7M
+64ebdb16e0a145703c1af536879b654e
+88558f775950e099f281efda81975408
+https://cdopic0.oppomobile.com/img/201904/18/434d2c20db81568f108e80c88e920126.png
+1次安装
+https://istore.oppomobile.com/download/v1/20936998
+https://istore.oppomobile.com/download/v1/20936998?md5=77520e2b71cb91d54899b44a74062963&obit=1
+1.优化生活缴费支付体验，2.优化安全设置，3.修复已知问题
+2ee505dfc9a6e91ec75e1b7563a0b641
+200
+ok
+com.oppo.cdo.detail.domain.dto.detail.BaseDetailDto
+拼多多
+com.xunmeng.pinduoduo
+4.55.0
+18.1MB
+ff1fede1a11d0295621999c8b9eae49b
+1bced0a827a53f5491ff86a5a1340d3f
+https://cdopic0.oppomobile.com/img/201905/08/7cebc9acdd62459e64019545dbf495b5.png
+50.2亿次安装
+https://istore.oppomobile.com/download/v1/20968748
+
+【拼多多——多实惠，多乐趣】
+拼多多，新电商开创者，是国内主流的手机购物App。用户通过发起和朋友、家人、邻居等的拼单，拼多多通过拼单了解消费者，通过机器算法进行精准推荐与匹配，让用户用更低的价格买到更好的东西，体会更多的实惠和乐趣。
+
+【拼多多——快乐大本营&非诚勿扰&我是大侦探】
+下载拼多多，与快乐家族相约《快乐大本营》，一起体验拼团购物的实惠与快乐；还有《非诚勿扰》，嘉宾购物送礼首选拼多多，男女嘉宾一起感受拼的乐趣；更有《我是大侦探》何老师带你一起探索购物的奥秘，当侦探和买东西都要——拼多多！
+
+【特色频道，为您省多多】
+1、限时秒杀： 1元秒杀、9.9元抢购，每天多个场次秒杀，精彩多多！天天秒不停！
+2、砍价免费拿：百款商品任你选，邀请好友帮砍价，砍到0元任你拿！ 
+3、签到领红包：每日App内签到，领取现金，累积10元可提现！
+4、天天领红包：每日上线可领取8.88元大红包，分享好友可微信提现，每天最多领取3次哦！
+5、免费试用：网罗众多潮流品牌，大牌新品抢先免费试用！
+
+【倾听您的声音】
+官方微信：拼多多（pinduoduo2015）
+官方微博：@拼多多
+官网：http://www.pinduoduo.com
+客服电话：400-8822-528
+消费者固话热线：02161897088
+商城
+https://cdopic0.oppomobile.com/img/201903/12/62b474f2649ba35ff90ffaade277d389.jpg
+https://cdopic0.oppomobile.com/img/201903/12/c9a99777db45375ee88ee1f5bc58389c.jpg
+https://cdopic0.oppomobile.com/img/201903/12/439e74357c8ce1cb0137e7578af0294d.jpg
+https://cdopic0.oppomobile.com/img/201903/12/fcb718b207285e9c58b2f5be99575bc5.jpg
+https://cdopic0.oppomobile.com/img/201904/18/70e2cbc2a01d3defe5c5be998c8ef611.jpg
+productDesc
+charge
+0
+gifIcon
+price
+0
+currencyCode
+productName
+com.oppo.cdo.detail.domain.dto.detail.SecurityDto
+{"abbrTag":[{"id":3,"abbrName":"无广告","status":0,"url":"https://cdofs.oppomobile.com/cdo-activity/static/store/manual20181223/htmls/index.html?anchor=ad&ls=3#ad","param":null},{"id":2,"abbrName":"无病毒","status":0,"url":"https://cdofs.oppomobile.com/cdo-activity/static/store/manual20181223/htmls/index.html?anchor=virus&ls=3#virus","param":null},{"id":1,"abbrName":"人工亲测","status":0,"url":"https://cdofs.oppomobile.com/cdo-activity/static/store/manual20181223/htmls/index.html?anchor=test&ls=3#test","param":null}]}
+https://cdofs.oppomobile.com/cdo-activity/static/store/manual20181223/htmls/index.html?ls=3
+com.oppo.cdo.detail.domain.dto.detail.TagDto
+折扣
+com.oppo.cdo.detail.domain.dto.detail.TagDto
+拼单
+com.oppo.cdo.detail.domain.dto.detail.TagDto
+精打细算
+com.oppo.cdo.detail.domain.dto.detail.ThemeDto
+com.oppo.cdo.detail.domain.dto.detail.DeveloperDto
+android.permission.INTERNET,android.permission.ACCESS_WIFI_STATE,android.permission.ACCESS_NETWORK_STATE,android.permission.READ_PHONE_STATE,android.permission.READ_LOGS,android.permission.READ_EXTERNAL_STORAGE,android.permission.WRITE_EXTERNAL_STORAGE,android.permission.CAMERA,android.permission.FLASHLIGHT,android.permission.READ_CONTACTS,android.permission.RECORD_AUDIO,android.permission.WAKE_LOCK,android.permission.GET_PACKAGE_SIZE,android.permission.REQUEST_INSTALL_PACKAGES,com.xunmeng.pinduoduo.permission.lifecycle,android.permission.WRITE_CALENDAR,android.permission.VIBRATE,android.permission.SYSTEM_ALERT_WINDOW,com.meizu.flyme.push.permission.RECEIVE,com.xunmeng.pinduoduo.push.permission.MESSAGE,com.meizu.c2dm.permission.RECEIVE,com.xunmeng.pinduoduo.permission.C2D_MESSAGE,com.xunmeng.pinduoduo.permission.NOTIFICATION_RECORD,android.permission.GET_TASKS,com.xunmeng.pinduoduo.permission.MIPUSH_RECEIVE,com.coloros.mcs.permission.RECIEVE_MCS_MESSAGE,com.samsung.android.providers.context.permission.WRITE_USE_APP_FEATURE_SURVEY,com.xunmeng.pinduoduo.remote_config,android.permission.AUTHENTICATE_ACCOUNTS,android.permission.GET_ACCOUNTS,android.permission.MANAGE_ACCOUNTS,android.permission.READ_SYNC_SETTINGS,android.permission.READ_SYNC_STATS,android.permission.WRITE_SYNC_SETTINGS,android.permission.RECEIVE_BOOT_COMPLETED,com.xunmeng.pinduoduo.permission.JPUSH_MESSAGE,com.sec.android.provider.badge.permission.READ,com.sec.android.provider.badge.permission.WRITE,com.htc.launcher.permission.READ_SETTINGS,com.htc.launcher.permission.UPDATE_SHORTCUT,com.sonyericsson.home.permission.BROADCAST_BADGE,com.sonymobile.home.permission.PROVIDER_INSERT_BADGE,com.anddoes.launcher.permission.UPDATE_COUNT,com.majeur.launcher.permission.UPDATE_BADGE,com.huawei.android.launcher.permission.CHANGE_BADGE,com.huawei.android.launcher.permission.READ_SETTINGS,com.huawei.android.launcher.permission.WRITE_SETTINGS,android.permission.READ_APP_BADGE,com.oppo.launcher.permission.READ_SETTINGS,com.oppo.launcher.permission.WRITE_SETTINGS,me.everything.badger.permission.BADGE_COUNT_READ,me.everything.badger.permission.BADGE_COUNT_WRITE
+上海寻梦信息技术有限公司
+com.oppo.cdo.detail.domain.dto.detail.FeatureDto
+本次更新：
+- 5月16日到21日，秒杀节百亿补贴，击穿底价！
+- 可以按店铺名搜索店铺了。
+- 优化了一些体验细节。
+
+近期更新：
+- 首页上线了品牌特卖频道，快去逛逛吧~
+com.oppo.cdo.detail.domain.dto.detail.CommentDto
+com.oppo.cdo.detail.domain.dto.detail.CommentSummaryDto
+com.oppo.cdo.detail.domain.dto.detail.CommentContentDto
+https://fs-uc-nearme-com-cn.oss-cn-hangzhou.aliyuncs.com/avatar/4.png
+156******19
+128031689
+OPPO A11
+拼多多里面的东西都很实惠。样式也很潮流给好评
+com.oppo.cdo.detail.domain.dto.detail.CommentContentDto
+https://fs-uc-nearme-com-cn.oss-cn-hangzhou.aliyuncs.com/avatar/5.png
+136******61
+228887990
+OPPO A57
+非常好，东西相对实惠，也有一分钱一分货的东西，不过每个平台都有好的商家也有不好的商家，个人觉得拼多多东西便宜，使用方便，购物体验不错！支持
+com.oppo.cdo.detail.domain.dto.detail.CommentContentDto
+https://fs-uc-nearme-com-cn.oss-cn-hangzhou.aliyuncs.com/721/652/551/155256127.jpg
+182******20
+155256127
+OPPO A57t
+东西便宜，实惠。就是物流太慢。
+com.oppo.cdo.detail.domain.dto.detail.StageDto
+com.oppo.cdo.detail.domain.dto.detail.TabDto
+详情页底部推荐
+com.oppo.cdo.card.domain.dto.AppListCardDto
+猜你喜欢
+com.oppo.cdo.common.domain.dto.ResourceDto
+奇妙逻辑冒险-宝宝教育
+com.sinyee.babybus.adventure
+9.34.10.00
+59.0MB
+47fe3a7303020cc0c342b300153dec41
+ee18ca6812d13cc24bd255383cf37dff
+https://cdopic0.oppomobile.com/img/201801/18/311c88e66e242d0aba05e8dd211ce365.png
+2751万次安装
+https://istore.oppomobile.com/download/v1/20963875
+
+2751万次安装
+ED1_A
+gifIcon
+ods_id
+4070948
+com.oppo.cdo.common.domain.dto.ResourceDto
+拼多多商家版
+com.xunmeng.merchant
+2.4.3
+41.6MB
+bfca1b17b1cf90e392b79af2b4490edd
+c2da3dd26af40495b1a17c36adfbe434
+https://cdopic0.oppomobile.com/img/201904/17/ad281bd82c876efa9146e757ec8581c7.png
+1356万次安装
+https://istore.oppomobile.com/download/v1/20936527
+
+1356万次安装
+ED1_A
+gifIcon
+ods_id
+4070948
+com.oppo.cdo.common.domain.dto.ResourceDto
+奇妙怪物医院-宝宝巴士
+com.sinyee.babybus.hospital
+9.34.10.00
+56.7MB
+1462f47ec308a87dfc13eeab99291831
+89c4bfa1a4c04f6dce9149b3f0fc19a7
+https://cdopic0.oppomobile.com/img/201807/31/03b34d141ae490ab52bacaaaa0cf3857.png
+2250万次安装
+https://istore.oppomobile.com/download/v1/20955580
+
+2250万次安装
+ED1_A
+gifIcon
+ods_id
+4070948
+com.oppo.cdo.common.domain.dto.ResourceDto
+宝宝巴士汽车城-益智
+com.sinyee.babybus.automobilecity
+9.32.42.90
+77.2MB
+349dfcdec396c74410103f00e8c0ace7
+a4e955ddbdf716d5db4a28a4b3fbf538
+https://cdopic0.oppomobile.com/img/201904/28/2ed52a1e1354dc89add1d102512735a4.png
+1490万次安装
+https://istore.oppomobile.com/download/v1/20955089
+
+1490万次安装
+ED1_A
+gifIcon
+ods_id
+4070948
+com.oppo.cdo.common.domain.dto.ResourceDto
+抖音短视频
+com.ss.android.ugc.aweme
+6.1.0
+75.1MB
+
+
+https://cdopic0.oppomobile.com/img/201903/26/d3c4a61494b0bc3dadbf31e9cf3d7109.png
+36亿次安装
+https://istore.oppomobile.com/downloadx/v1/20965213
+804/32374/1/4
+{"adId":"101115102","adType":"1","planId":"101023123","adOwner":"1000045219","modId":"295","adGrp":"42049","extTp":"2","showTp":"128","spec":"1","alg":"ED1","chn":"2101","parEvtId":"1557296681442","traceId":"1-uAaCo14tRf8I5OOI4fpoh%2BCRyhFTaXs%2F%2FYG32KeVQrIO7lUQmwAYqGnnoR6P1pslvYDRL1lbQO2ApuRE4U5xcg%3D%3D"}
+36亿次安装
+ED1_B
+gifIcon
+ods_id
+4070948
+com.oppo.cdo.common.domain.dto.ResourceDto
+小公主苏菲亚全集（旺通）
+kaixin4.xiaoshuo3
+502.0
+3.4MB
+eabadf0e452c76745e7bd295eacbff88
+071c8c705ca890383ce63ac5788ae25b
+https://cdopic0.oppomobile.com/img/201807/23/86c70b066b439aadd7cf0dc16440260b.png
+302万次安装
+https://istore.oppomobile.com/download/v1/20851157
+
+302万次安装
+ED1_A
+gifIcon
+ods_id
+4070948
+com.oppo.cdo.common.domain.dto.ResourceDto
+小猪佩奇闯关
+com.tongqu.puzzle.peiqi
+2.9
+11.8MB
+b1df36a48c821a82e99792cb15809f74
+2155ffb4a50acaec54cdceb4a5bee3ca
+https://cdopic0.oppomobile.com/img/201711/30/e2d5801557f48483fe9bfdb67afc961f.png
+403万次安装
+https://istore.oppomobile.com/download/v1/20849376
+
+403万次安装
+ED1_A
+gifIcon
+ods_id
+4070948
+com.oppo.cdo.common.domain.dto.ResourceDto
+3D汽车驾驶模拟（世界）
+com.smashinggeeks.mountaintrainsimulator2
+1.0.9
+51.3MB
+ce9fc376083ff660b1741de76fd3f587
+298838ffdc28557f3ef51fef478c31e0
+https://cdopic0.oppomobile.com/img/201812/21/c77ea3df4e57edf1a661b86da09e75b0.png
+119万次安装
+https://istore.oppomobile.com/download/v1/20854647
+
+119万次安装
+ED1_A
+gifIcon
+ods_id
+4070948
+com.oppo.cdo.common.domain.dto.ResourceDto
+宝宝梦想小镇（宝宝巴士）
+com.sinyee.babybus.village.nearme.gamecenter
+9.33.40.00
+56.3MB
+910b557a1cc72029b547a43c8feeee43
+3bf7b15dc6689f90ece5e48556ec83ca
+https://cdopic0.oppomobile.com/img/201811/20/0ed258a13b02d5b6f01f8bcdacbf9364.png
+1796万次安装
+https://istore.oppomobile.com/download/v1/20947764
+
+1796万次安装
+ED1_A
+gifIcon
+ods_id
+4070948
+com.oppo.cdo.common.domain.dto.ResourceDto
+小猪佩奇
+com.koodroid.peppapig
+1.1.2
+47.6MB
+99c47ef5cbf1dbcbb8a9f2a2b72b3e58
+59458f045cb250f4515349fc628bd3e4
+https://cdopic0.oppomobile.com/img/201704/20/0727afe1f1396b36b9e519b1ba9f9a32.png
+746万次安装
+https://istore.oppomobile.com/download/v1/20946328
+
+746万次安装
+ED1_A
+gifIcon
+ods_id
+4070948
+com.oppo.cdo.common.domain.dto.ResourceDto
+火山极速版
+com.ss.android.ugc.livelite
+5.1.5
+11.8MB
+1ee130a1c5d03e6eb090950d3b6f4b66
+c7adb721abf422132fdef6c4def0ebb0
+https://cdopic0.oppomobile.com/img/201812/13/93a61ae9c99306560374d6e3cf8f8406.png
+356万次安装
+https://istore.oppomobile.com/download/v1/20957643
+
+356万次安装
+ED1_A
+gifIcon
+ods_id
+4070948
+com.oppo.cdo.common.domain.dto.ResourceDto
+汪汪队立大功片集
+kaixin.soundrecorder
+8.0
+3.8MB
+9464b53973bc74ffeadb8e3dde114ed2
+5eac9d3101382cc3e7cd658e6499fb4d
+https://cdopic0.oppomobile.com/img/201804/23/bbbe7fb8f620ec240383908914a97735.png
+464万次安装
+https://istore.oppomobile.com/download/v1/20847446
+
+464万次安装
+ED1_A
+gifIcon
+ods_id
+4070948
+com.oppo.cdo.common.domain.dto.ResourceDto
+京东
+com.jingdong.app.mall
+8.0.0
+83.8MB
+
+
+https://cdopic0.oppomobile.com/img/201902/12/9da6bca68c97db432dcd8d57d732c0eb.png
+12.1亿次安装
+https://istore.oppomobile.com/downloadx/v1/20966543
+804/32374/1/12
+{"adId":"101087260","adType":"1","planId":"101017186","adOwner":"1000004746","modId":"295","adGrp":"32967","extTp":"2","showTp":"128","spec":"1","alg":"ED1","chn":"2101","parEvtId":"1557296681442","traceId":"1-raMe9qOIhw7EkuBuF4PncVluPUWuvumFZI9ZYDhplQsO7lUQmwAYqGnnoR6P1pslvYDRL1lbQO2ApuRE4U5xcg%3D%3D"}
+12.1亿次安装
+https://cdopic0.oppomobile.com/uploadFiles/admin_appstore/schedule/201611/28c50c4866a89e1a221f187f4e501ba2.jpg
+ED1_B
+gifIcon
+ods_id
+4070948
+com.oppo.cdo.common.domain.dto.ResourceDto
+雪糕工厂-儿童早教
+com.sinyee.babybus.icecream
+9.34.10.00
+69.8MB
+13231ee8309d2175ad8e94da4a7ef516
+3996fdb4dbb8dd4c6890d4791b526cee
+https://cdopic0.oppomobile.com/img/201902/25/af907ccca0315ee3bd4a5f22c61f1a4b.png
+3110万次安装
+https://istore.oppomobile.com/download/v1/20959121
+
+3110万次安装
+ED1_A
+gifIcon
+ods_id
+4070948
+com.oppo.cdo.common.domain.dto.ResourceDto
+宝宝时尚设计师
+com.sinyee.babybus.tailor
+9.33.20.00
+67.7MB
+9ba643e1825be298d9bbdce826a5c391
+1a238d3a350969fd09ab5935c2b94b99
+https://cdopic0.oppomobile.com/img/201809/26/52cfc2a175c41bcdea8b299c68fbc62b.jpg
+1272万次安装
+https://istore.oppomobile.com/download/v1/20940400
+
+1272万次安装
+ED1_A
+gifIcon
+ods_id
+4070948
+com.oppo.cdo.common.domain.dto.ResourceDto
+宝宝地震安全三
+com.sinyee.babybus.earthquakeIII
+9.34.00.00
+68.3MB
+4d9d17a6e714a825d4dd04f6fb44cad4
+323908ad18cc4e3a42efa7364dfd527f
+https://cdopic0.oppomobile.com/img/201903/13/961b42565a2c14f00972a8deaf5ebb6e.png
+563万次安装
+https://istore.oppomobile.com/download/v1/20963510
+
+563万次安装
+ED1_A
+gifIcon
+ods_id
+4070948
+com.oppo.cdo.card.domain.dto.StatConfigDto
+com.oppo.cdo.common.domain.dto.comment.CommentStatDto
+com.oppo.cdo.common.domain.dto.comment.CommentDto
+对学生挺友好的
+用户0028515***
+OPPO A3
+https://fs-uc-nearme-com-cn.oss-cn-hangzhou.aliyuncs.com/744/548/093/390845447.jpg
+com.oppo.cdo.common.domain.dto.comment.CommentDto
+什么服务态度啊，要理不理的
+剂30917***
+OPPO A73
+https://fs-uc-nearme-com-cn.oss-cn-hangzhou.aliyuncs.com/avatar/7.png
+com.oppo.cdo.common.domain.dto.comment.CommentDto
+好多骗人的，哎，不想说啥了
+发慌的冬瓜
+OPPO R9tm
+https://fs-uc-nearme-com-cn.oss-cn-hangzhou.aliyuncs.com/799/220/041/140022997.jpg
+com.oppo.cdo.common.domain.dto.comment.CommentDto
+还可以不过更新太慢了
+请叫我小阿姨
+OPPO A37m
+https://fs-uc-nearme-com-cn.oss-cn-hangzhou.aliyuncs.com/882/257/283/382752288.jpg
+com.oppo.cdo.common.domain.dto.comment.CommentDto
+还可以 就是要有游戏赚优惠券就好了 嘿嘿😂😂
+用户0133586***
+OPPO A7
+https://fs-uc-nearme-com-cn.oss-cn-hangzhou.aliyuncs.com/avatar/1.png
+com.oppo.cdo.common.domain.dto.comment.CommentDto
+拼多多，就让我中一次奖，一次就可以了。我买了好多中奖的，一个都没有中。只要中一次，
+U13492***
+OPPO A37m
+https://fs-uc-nearme-com-cn.oss-cn-hangzhou.aliyuncs.com/avatar/4.png
+com.oppo.cdo.common.domain.dto.comment.CommentDto
+垃圾软件，传销性太大
+U18125***
+OPPO R11
+https://fs-uc-nearme-com-cn.oss-cn-hangzhou.aliyuncs.com/avatar/10.png
+com.oppo.cdo.common.domain.dto.comment.CommentDto
+诱导性分享太厉害了，好多地方就是你做了分享了根本就得不到，管理人员够差的了
+U4616***
+OPPO A79k
+https://fs-uc-nearme-com-cn.oss-cn-hangzhou.aliyuncs.com/avatar/7.png
+com.oppo.cdo.common.domain.dto.comment.CommentDto
+满好用的，力荐
+用户23996***
+OPPO R11st
+https://fs-uc-nearme-com-cn.oss-cn-hangzhou.aliyuncs.com/avatar/6.png
+com.oppo.cdo.common.domain.dto.comment.CommentDto
+真的真的真的超级好
+婧婧521你
+OPPO A57
+https://fs-uc-nearme-com-cn.oss-cn-hangzhou.aliyuncs.com/351/912/134/431219153.jpg
+com.oppo.cdo.common.domain.dto.comment.CommentDto
+东西便宜，实惠。就是物流太慢。
+182******20
+OPPO A57t
+https://fs-uc-nearme-com-cn.oss-cn-hangzhou.aliyuncs.com/721/652/551/155256127.jpg
+com.oppo.cdo.common.domain.dto.comment.CommentDto
+拼多多里面的东西都很实惠。样式也很潮流给好评
+156******19
+OPPO A11
+https://fs-uc-nearme-com-cn.oss-cn-hangzhou.aliyuncs.com/avatar/4.png
+com.oppo.cdo.common.domain.dto.comment.CommentDto
+非常好，东西相对实惠，也有一分钱一分货的东西，不过每个平台都有好的商家也有不好的商家，个人觉得拼多多东西便宜，使用方便，购物体验不错！支持
+136******61
+OPPO A57
+https://fs-uc-nearme-com-cn.oss-cn-hangzhou.aliyuncs.com/avatar/5.png
+com.oppo.cdo.common.domain.dto.comment.CommentDto
+以后再也不去拼多多了，买回来的东西颜色，款式都不一样。差评
+U10578***
+OPPO A37m
+https://fs-uc-nearme-com-cn.oss-cn-hangzhou.aliyuncs.com/avatar/8.png
+com.oppo.cdo.common.domain.dto.comment.CommentDto
+说客服态度不好的，那你态度就好了吗，我告诉你，搞服务行业的，谁都是平等的，买个十几块钱的东西，就搁哪儿鼻孔瞪人，不管是什么，首先是你自己态度要好，别内急找不着茅厕到处拉！！
+书香悠悠
+OPPO A37m
+https://fs-uc-nearme-com-cn.oss-cn-hangzhou.aliyuncs.com/896/774/303/303477698.jpg
+com.oppo.cdo.common.domain.dto.comment.CommentDto
+非常不错划算方便
+tanx***
+OPPO R9 Plustm A
+https://fs-uc-nearme-com-cn.oss-cn-hangzhou.aliyuncs.com/617/680/472/274086716.jpg
+com.oppo.cdo.common.domain.dto.comment.CommentDto
+到现在什么有数啊一切都是假的！也许只是用钱来迷观众收去利益罢了！可是根本没一分到张号过这就是骗人的结局！
+U14658***
+OPPO A37m
+https://fs-uc-nearme-com-cn.oss-cn-hangzhou.aliyuncs.com/705/228/842/248822507.jpg
+com.oppo.cdo.common.domain.dto.comment.CommentDto
+什么垃圾软件，自动安装
+雷尔33809***
+OPPO R11st
+https://fs-uc-nearme-com-cn.oss-cn-hangzhou.aliyuncs.com/178/226/440/44622871.jpg
+com.oppo.cdo.common.domain.dto.comment.CommentDto
+就是砍价成功还要审核，特别不好用
+U19875***
+OPPO A57t
+https://fs-uc-nearme-com-cn.oss-cn-hangzhou.aliyuncs.com/avatar/6.png
+com.oppo.cdo.common.domain.dto.comment.CommentDto
+很好很好很好支持
+用户26548***
+OPPO R9s
+https://fs-uc-nearme-com-cn.oss-cn-hangzhou.aliyuncs.com/avatar/4.png
+com.oppo.cdo.common.domain.dto.comment.CommentDto
+超好，不会后悔
+sanara
+OPPO A5
+https://fs-uc-nearme-com-cn.oss-cn-hangzhou.aliyuncs.com/avatar/10.png
+com.oppo.cdo.common.domain.dto.comment.CommentDto
+新人红包888是骗人的，再也不去拼多多，大家都别去了，
+生活在宇宙中的地球人
+OPPO R9s
+https://fs-uc-nearme-com-cn.oss-cn-hangzhou.aliyuncs.com/avatar/9.png
+com.oppo.cdo.common.domain.dto.comment.CommentDto
+论真心话很实惠，很平民
+U18645***
+OPPO A57
+https://fs-uc-nearme-com-cn.oss-cn-hangzhou.aliyuncs.com/avatar/4.png
+com.oppo.cdo.common.domain.dto.comment.CommentDto
+这个软件特别好用
+U4655***
+OPPO A37m
+https://fs-uc-nearme-com-cn.oss-cn-hangzhou.aliyuncs.com/avatar/6.png
+com.oppo.cdo.common.domain.dto.comment.CommentDto
+你们难道还想用买假货的钱买到真货?
+用户0029771***
+OPPO A83
+https://fs-uc-nearme-com-cn.oss-cn-hangzhou.aliyuncs.com/avatar/7.png
+com.oppo.cdo.common.domain.dto.comment.CommentDto
+总是进不去了其他的都好，
+哈30376***
+OPPO A31
+https://fs-uc-nearme-com-cn.oss-cn-hangzhou.aliyuncs.com/678/254/804/408452876.jpg
+com.oppo.cdo.common.domain.dto.comment.CommentDto
+拼多多吞钱，别用
+U12248***
+OPPO A37t
+https://fs-uc-nearme-com-cn.oss-cn-hangzhou.aliyuncs.com/812/994/422/224499218.jpg
+com.oppo.cdo.common.domain.dto.comment.CommentDto
+我很喜欢大力支持
+升30349***
+OPPO A37m
+https://fs-uc-nearme-com-cn.oss-cn-hangzhou.aliyuncs.com/avatar/5.png
+com.oppo.cdo.common.domain.dto.comment.CommentDto
+进都进不去，怎么弄都进不去，有些商家一点都没有礼貌
+用户0032815***
+OPPO X9007
+https://fs-uc-nearme-com-cn.oss-cn-hangzhou.aliyuncs.com/avatar/8.png
+com.oppo.cdo.common.domain.dto.comment.CommentDto
+还行，就是有事进不去
+我乐我乐
+OPPO A31
+https://fs-uc-nearme-com-cn.oss-cn-hangzhou.aliyuncs.com/avatar/6.png
+com.oppo.cdo.common.domain.dto.comment.CommentDto
+非常喜欢，建议下载。
+用户0029019***
+OPPO A57
+https://fs-uc-nearme-com-cn.oss-cn-hangzhou.aliyuncs.com/avatar/5.png
+com.oppo.cdo.common.domain.dto.comment.CommentDto
+红米2米长什么样了啊我都没看到我朋友圈
+苏白小哥哥01
+OPPO A83
+https://fs-uc-nearme-com-cn.oss-cn-hangzhou.aliyuncs.com/558/741/443/344147855.jpg
+com.oppo.cdo.common.domain.dto.comment.CommentDto
+有病，越更新体验越差，居然安装打不开，垃圾软件
+U1492***
+OPPO X9077
+https://fs-uc-nearme-com-cn.oss-cn-hangzhou.aliyuncs.com/avatar/2.png
+com.oppo.cdo.common.domain.dto.comment.CommentDto
+拼多多30元无门槛就是一个骗局，拼多多快倒闭了
+用户0135678***
+OPPO R9sk
+https://fs-uc-nearme-com-cn.oss-cn-hangzhou.aliyuncs.com/avatar/8.png
+com.oppo.cdo.common.domain.dto.comment.CommentDto
+果然一拼就多多，在V♠搜，购物家，有购物大额券，便宜中的战斗机。超爱啦。好用
+whd***
+OPPO R9s
+https://fs-uc-nearme-com-cn.oss-cn-hangzhou.aliyuncs.com/795/588/944/449885597.jpg
+com.oppo.cdo.common.domain.dto.comment.CommentDto
+有些无良商家，发错货不成单责任，拨打电话也不接，在此告诫大家谢绝在，一遇难求这家店买东西。无良商家！！！
+U17914***
+OPPO A57
+https://fs-uc-nearme-com-cn.oss-cn-hangzhou.aliyuncs.com/avatar/7.png
+com.oppo.cdo.common.domain.dto.comment.CommentDto
+大多都是假货，我订的糖还过期了
+杰30861***
+OPPO A7x
+https://fs-uc-nearme-com-cn.oss-cn-hangzhou.aliyuncs.com/167/940/214/412049761.jpg
+com.oppo.cdo.common.domain.dto.comment.CommentDto
+质量很好，东西都很便宜，很喜欢拼多多！！
+用户0135419***
+OPPO A57t
+https://fs-uc-nearme-com-cn.oss-cn-hangzhou.aliyuncs.com/avatar/1.png
+com.oppo.cdo.common.domain.dto.comment.CommentDto
+还不错吧，一般都买吃的。看完评论在买，没有评论的不买。买的吃的还可以吖，很喜欢。就是其他的差了点，内容有待改进
+Rain雨狐☆
+OPPO A5
+https://fs-uc-nearme-com-cn.oss-cn-hangzhou.aliyuncs.com/842/711/734/437117248.jpg
+com.oppo.cdo.common.domain.dto.comment.CommentDto
+还不错，就是物流慢
+朋29593***
+OPPO A5
+https://fs-uc-nearme-com-cn.oss-cn-hangzhou.aliyuncs.com/avatar/2.png
+com.oppo.cdo.common.domain.dto.comment.CommentDto
+辛辛苦苦签到了30元，连续两天守着时间兑换不了。真的太恶心了
+用户24671***
+OPPO A37m
+https://fs-uc-nearme-com-cn.oss-cn-hangzhou.aliyuncs.com/avatar/6.png
+com.oppo.cdo.common.domain.dto.comment.CommentDto
+价格是可以，质量就，，
+用户0135870***
+OPPO A33
+https://fs-uc-nearme-com-cn.oss-cn-hangzhou.aliyuncs.com/avatar/3.png
+com.oppo.cdo.common.domain.dto.comment.CommentDto
+3亿人都在用的假货APP
+qwqqqqwq
+OPPO A37m
+https://fs-uc-nearme-com-cn.oss-cn-hangzhou.aliyuncs.com/451/568/253/352865154.jpg
+com.oppo.cdo.common.domain.dto.comment.CommentDto
+奶瓶收到，打开看了质量很，
+U21506***
+OPPO R11t
+https://fs-uc-nearme-com-cn.oss-cn-hangzhou.aliyuncs.com/avatar/10.png
+com.oppo.cdo.common.domain.dto.comment.CommentDto
+每天都得帮人砍价下软件真的很烦
+混血果冻
+OPPO R15
+https://fs-uc-nearme-com-cn.oss-cn-hangzhou.aliyuncs.com/avatar/7.png
+com.oppo.cdo.common.domain.dto.comment.CommentDto
+实惠哦！东西也还行！
+徐娜娜449473011***
+OPPO A77
+https://fs-uc-nearme-com-cn.oss-cn-hangzhou.aliyuncs.com/580/457/123/321754085.jpg
+com.oppo.cdo.common.domain.dto.comment.CommentDto
+差评，一星也不给，明明网络好，内容就是加载不出来
+用户0030420***
+OPPO R11t
+https://fs-uc-nearme-com-cn.oss-cn-hangzhou.aliyuncs.com/avatar/1.png
+com.oppo.cdo.common.domain.dto.comment.CommentDto
+好好好，我买东西十个有一假，哈哈哈，那些说不好的是你们不会买
+阿星34666***
+OPPO R11
+https://fs-uc-nearme-com-cn.oss-cn-hangzhou.aliyuncs.com/465/705/123/321507564.jpg
+com.oppo.cdo.common.domain.dto.comment.CommentDto
+拼多多还是很好的，虽然有些商家卖了假货，但很快就下架了，拼多多管理还是很好的。继续努力！
+用户0027881***
+OPPO A3
+https://fs-uc-nearme-com-cn.oss-cn-hangzhou.aliyuncs.com/avatar/7.png
+com.oppo.cdo.common.domain.dto.comment.CommentDto
+拼多多里面东西很便宜，质量也很好，喜欢😘😘
+用户25789***
+OPPO R11t
+https://fs-uc-nearme-com-cn.oss-cn-hangzhou.aliyuncs.com/012/780/363/363087210.jpg
+com.oppo.cdo.common.domain.dto.comment.CommentDto
+很好用(✪▽✪)不要运费又便宜😊商品也很好😁
+俊梦失
+OPPO A57
+https://fs-uc-nearme-com-cn.oss-cn-hangzhou.aliyuncs.com/775/699/263/362996577.jpg
+com.oppo.cdo.common.domain.dto.comment.CommentDto
+好用可以喜欢挺好
+用户25297***
+OPPO A79t
+https://fs-uc-nearme-com-cn.oss-cn-hangzhou.aliyuncs.com/avatar/9.png
+com.oppo.cdo.common.domain.dto.comment.CommentDto
+麻痹，点个广告自动下载，坑
+宸33394***
+OPPO A37m
+https://fs-uc-nearme-com-cn.oss-cn-hangzhou.aliyuncs.com/122/596/334/433695221.jpg
+com.oppo.cdo.common.domain.dto.comment.CommentDto
+这个软件不错，买的东西都很好呀
+若雨***
+OPPO A37m
+https://fs-uc-nearme-com-cn.oss-cn-hangzhou.aliyuncs.com/657/806/232/232608756.jpg
+com.oppo.cdo.common.domain.dto.comment.CommentDto
+商品都很好。质量也很好。物流也很快。五星好评。
+用户0028192***
+OPPO R11
+https://fs-uc-nearme-com-cn.oss-cn-hangzhou.aliyuncs.com/avatar/5.png
+com.oppo.cdo.common.domain.dto.comment.CommentDto
+很好服务态度优
+哈奴
+OPPO PCAM00
+https://fs-uc-nearme-com-cn.oss-cn-hangzhou.aliyuncs.com/603/979/054/450979306.jpg
+com.oppo.cdo.common.domain.dto.comment.CommentDto
+东西很便宜，时间也行，就是质量不好
+用户26573***
+OPPO A33
+https://fs-uc-nearme-com-cn.oss-cn-hangzhou.aliyuncs.com/781/561/173/371165187.jpg
+com.oppo.cdo.common.domain.dto.comment.CommentDto
+很喜欢拼多多，里面的东西很实惠，也很好用，主要是看店家好不好，还有评价 😊😊
+柳29867***
+OPPO R15梦镜版
+https://fs-uc-nearme-com-cn.oss-cn-hangzhou.aliyuncs.com/709/703/563/365307907.jpg
+com.oppo.cdo.common.domain.dto.comment.CommentDto
+还可以吧。希望大家下载。
+天33807***
+OPPO A5
+https://fs-uc-nearme-com-cn.oss-cn-hangzhou.aliyuncs.com/avatar/4.png
+com.oppo.cdo.common.domain.dto.comment.CommentDto
+里面的东西为啥都要钱什么鬼软件
+用户0030218***
+OPPO A83t
+https://fs-uc-nearme-com-cn.oss-cn-hangzhou.aliyuncs.com/avatar/2.png
+com.oppo.cdo.common.domain.dto.comment.CommentDto
+还行，值得购买
+旭33949***
+OPPO A5
+https://fs-uc-nearme-com-cn.oss-cn-hangzhou.aliyuncs.com/avatar/2.png
+com.oppo.cdo.common.domain.dto.comment.CommentDto
+体验感极差，恶意推送太可恶了。
+U14455***
+OPPO R9s
+https://fs-uc-nearme-com-cn.oss-cn-hangzhou.aliyuncs.com/avatar/7.png
+com.oppo.cdo.common.domain.dto.comment.CommentDto
+要是金币能买东西就好了
+妖染i
+OPPO A57
+https://fs-uc-nearme-com-cn.oss-cn-hangzhou.aliyuncs.com/119/779/362/263977911.jpg
+com.oppo.cdo.common.domain.dto.comment.CommentDto
+点个广告就自动下载，真的不想说了
+用户23583***
+OPPO R9s
+https://fs-uc-nearme-com-cn.oss-cn-hangzhou.aliyuncs.com/avatar/3.png
+com.oppo.cdo.common.domain.dto.comment.CommentDto
+其实每个软件都不能完全满足客户的需求，里面的商品有好有不好，用这个软件好久了，其实还挺好用的
+用户0032938***
+OPPO A57
+https://fs-uc-nearme-com-cn.oss-cn-hangzhou.aliyuncs.com/avatar/10.png
+com.oppo.cdo.common.domain.dto.comment.CommentDto
+有一次没有收到快递，还有一次给我寄来个假货。。。。。。
+我是不明物体
+OPPO R9sk
+https://fs-uc-nearme-com-cn.oss-cn-hangzhou.aliyuncs.com/291/267/382/283762192.jpg
+com.oppo.cdo.common.domain.dto.comment.CommentDto
+更新了，里面的百宝箱都不见了！😭😭
+用户0032125***
+OPPO R15x
+https://fs-uc-nearme-com-cn.oss-cn-hangzhou.aliyuncs.com/avatar/3.png
+com.oppo.cdo.common.domain.dto.comment.CommentDto
+有些手机差就别说什么闪退 你手机问题 又不是软件。
+秋31857***
+OPPO A7
+https://fs-uc-nearme-com-cn.oss-cn-hangzhou.aliyuncs.com/678/378/032/230873876.jpg
+com.oppo.cdo.common.domain.dto.comment.CommentDto
+还可以...........买东西时要多看客户对商品的评价......里面商品挺便宜的....但有一些活动真的很假.....还有就是，不要太贪小便宜。
+余生秃废
+OPPO A57
+https://fs-uc-nearme-com-cn.oss-cn-hangzhou.aliyuncs.com/392/024/363/363420293.jpg
+com.oppo.cdo.common.domain.dto.comment.CommentDto
+特别，特别，好用。
+用户0030086***
+OPPO A83
+https://fs-uc-nearme-com-cn.oss-cn-hangzhou.aliyuncs.com/avatar/8.png
+com.oppo.cdo.common.domain.dto.comment.CommentDto
+还行可以用的，东西挺好的，就是有些跟看的不同，也还不是我人要看清楚，也不能怪这个软件啊。
+秋节的缤纷
+OPPO A11
+https://fs-uc-nearme-com-cn.oss-cn-hangzhou.aliyuncs.com/864/161/134/431161468.jpg
+com.oppo.cdo.common.domain.dto.comment.CommentDto
+好真的好我好高兴啊
+平30435***
+OPPO A5
+https://fs-uc-nearme-com-cn.oss-cn-hangzhou.aliyuncs.com/729/269/804/408962927.jpg
+com.oppo.cdo.common.domain.dto.comment.CommentDto
+为什么小猫钓宝不是对所有用户开放？！！假假的
+張珎珎
+OPPO R17
+https://fs-uc-nearme-com-cn.oss-cn-hangzhou.aliyuncs.com/855/266/344/443662558.jpg
+com.oppo.cdo.common.domain.dto.comment.CommentDto
+还好
+😊😊
+U17507***
+OPPO A57
+https://fs-uc-nearme-com-cn.oss-cn-hangzhou.aliyuncs.com/avatar/6.png
+com.oppo.cdo.common.domain.dto.comment.CommentDto
+假货有是有,不过少一点儿还可以
+U15228***
+OPPO A33
+https://fs-uc-nearme-com-cn.oss-cn-hangzhou.aliyuncs.com/avatar/1.png
+com.oppo.cdo.common.domain.dto.comment.CommentDto
+假货太多而且买的东西和收到的东西完全不一样联系商家都联系不到，发信息也不回，打电话电话还是空号！真是假货的天堂
+U19919***
+OPPO A59st
+https://fs-uc-nearme-com-cn.oss-cn-hangzhou.aliyuncs.com/avatar/1.png
+com.oppo.cdo.common.domain.dto.comment.CommentDto
+不知道为什么有时候闪退到不行，还让不让人用了？处理一下行吗？
+U21648***
+OPPO R7s
+https://fs-uc-nearme-com-cn.oss-cn-hangzhou.aliyuncs.com/avatar/8.png
+com.oppo.cdo.common.domain.dto.comment.CommentDto
+里面商家对客户路很差，所以给了个差评，，希望大家都不要用了。
+U15617***
+OPPO A33
+https://fs-uc-nearme-com-cn.oss-cn-hangzhou.aliyuncs.com/avatar/2.png
+com.oppo.cdo.common.domain.dto.comment.CommentDto
+拼多多里的东西都很实惠，学生党不用担心的啦
+柒柒NS
+OPPO A31
+https://fs-uc-nearme-com-cn.oss-cn-hangzhou.aliyuncs.com/438/107/514/415701834.jpg
+com.oppo.cdo.common.domain.dto.comment.CommentDto
+刚刚收到   旭迟管家   感觉好用
+用户0135904***
+OPPO R11
+https://fs-uc-nearme-com-cn.oss-cn-hangzhou.aliyuncs.com/avatar/2.png
+com.oppo.cdo.common.domain.dto.comment.CommentDto
+很好^O^^O^^O^(ฅ>ω<*ฅ)
+U17152***
+OPPO A57
+https://fs-uc-nearme-com-cn.oss-cn-hangzhou.aliyuncs.com/036/312/472/274213630.jpg
+com.oppo.cdo.common.domain.dto.comment.CommentDto
+感觉很好，上次订的快递一天就到了，物流很快，包裹也非常满意，非常好，表示五星好评⭐⭐⭐⭐⭐
+纯32316***
+OPPO A59s
+https://fs-uc-nearme-com-cn.oss-cn-hangzhou.aliyuncs.com/avatar/9.png
+com.oppo.cdo.common.domain.dto.comment.CommentDto
+还可以就是送货员不电话提醒
+U21986***
+OPPO A57
+https://fs-uc-nearme-com-cn.oss-cn-hangzhou.aliyuncs.com/237/284/323/323482732.jpg
+com.oppo.cdo.common.domain.dto.comment.CommentDto
+假手机太多了。
+用户0029951***
+OPPO A57
+https://fs-uc-nearme-com-cn.oss-cn-hangzhou.aliyuncs.com/620/596/404/404695026.jpg
+com.oppo.cdo.common.domain.dto.comment.CommentDto
+极差极差差，极差。
+用户24243***
+OPPO R9 Plustm A
+https://fs-uc-nearme-com-cn.oss-cn-hangzhou.aliyuncs.com/avatar/3.png
+com.oppo.cdo.common.domain.dto.comment.CommentDto
+实用，经济实惠
+U19617***
+OPPO A33
+https://fs-uc-nearme-com-cn.oss-cn-hangzhou.aliyuncs.com/avatar/6.png
+com.oppo.cdo.common.domain.dto.comment.CommentDto
+一句话，垃圾软件。
+魁30389***
+OPPO R9s
+https://fs-uc-nearme-com-cn.oss-cn-hangzhou.aliyuncs.com/467/511/142/241115764.jpg
+com.oppo.cdo.common.domain.dto.comment.CommentDto
+拼多多没有嫌你们穷你还嫌拼多多这那那这
+笑筱859
+OPPO R15x
+https://fs-uc-nearme-com-cn.oss-cn-hangzhou.aliyuncs.com/140/124/363/363421041.jpg
+com.oppo.cdo.common.domain.dto.comment.CommentDto
+服务质量相当好
+U7964***
+OPPO A59s
+https://fs-uc-nearme-com-cn.oss-cn-hangzhou.aliyuncs.com/avatar/4.png
+com.oppo.cdo.common.domain.dto.comment.CommentDto
+很好很好很好，就是有点慢
+U21368***
+OPPO A37m
+https://fs-uc-nearme-com-cn.oss-cn-hangzhou.aliyuncs.com/avatar/4.png
+com.oppo.cdo.common.domain.dto.comment.CommentDto
+实惠服务周到，今后希望拼多多越办越好，谢谢👍👍🙏🙏
+罗贵成34619***
+OPPO A5
+https://fs-uc-nearme-com-cn.oss-cn-hangzhou.aliyuncs.com/avatar/7.png
+com.oppo.cdo.common.domain.dto.comment.CommentDto
+感觉很不错啊挺好的
+很乖唷
+OPPO R17
+https://fs-uc-nearme-com-cn.oss-cn-hangzhou.aliyuncs.com/avatar/9.png
+com.oppo.cdo.common.domain.dto.comment.CommentDto
+拼多多很好，自从遇见拼多多也会在这里买东西了，又便宜，又实惠
+用户26652***
+OPPO A83t
+https://fs-uc-nearme-com-cn.oss-cn-hangzhou.aliyuncs.com/avatar/3.png
+com.oppo.cdo.common.domain.dto.comment.CommentDto
+很好用，推荐一下
+韦丽河562674935***
+OPPO A57t
+https://fs-uc-nearme-com-cn.oss-cn-hangzhou.aliyuncs.com/292/417/903/309714292.jpg
+com.oppo.cdo.common.domain.dto.comment.CommentDto
+别在拼多多买贵的东西，不然后悔
+倾国倾城黎阿黎
+OPPO A57t
+https://fs-uc-nearme-com-cn.oss-cn-hangzhou.aliyuncs.com/170/301/943/349103071.jpg
+com.oppo.cdo.common.domain.dto.comment.CommentDto
+买回来的裤子大多数都会掉色，感觉有点不靠谱，就是以后希望改进
+人教社
+OPPO A5
+https://fs-uc-nearme-com-cn.oss-cn-hangzhou.aliyuncs.com/avatar/6.png
+com.oppo.cdo.common.domain.dto.comment.CommentDto
+👎👎东西质量差，大家不要贪小便宜买他们家的东西。
+用户26885***
+OPPO A3
+https://fs-uc-nearme-com-cn.oss-cn-hangzhou.aliyuncs.com/avatar/4.png
+com.oppo.cdo.common.domain.dto.comment.CommentDto
+新版本有闪退，刚打开，又退出来了，
+yin***
+OPPO A57t
+https://fs-uc-nearme-com-cn.oss-cn-hangzhou.aliyuncs.com/003/024/282/282420300.jpg
+com.oppo.cdo.common.domain.dto.comment.CommentDto
+五星好评，服务态度很好
+U7100***
+OPPO R9m
+https://fs-uc-nearme-com-cn.oss-cn-hangzhou.aliyuncs.com/avatar/1.png
+com.oppo.cdo.common.domain.dto.comment.CommentDto
+买东西好好啊。
+用户0134721***
+OPPO R7Plusm
+https://fs-uc-nearme-com-cn.oss-cn-hangzhou.aliyuncs.com/avatar/2.png
+com.oppo.cdo.common.domain.dto.comment.CommentDto
+不好，会闪退，根本看不了
+用户0031273***
+OPPO R7
+https://fs-uc-nearme-com-cn.oss-cn-hangzhou.aliyuncs.com/avatar/10.png
+com.oppo.cdo.common.domain.dto.comment.CommentDto
+瞧不起安卓手机?
+酷酷de琪
+OPPO A5
+https://fs-uc-nearme-com-cn.oss-cn-hangzhou.aliyuncs.com/793/590/173/371095397.jpg
+com.oppo.cdo.common.domain.dto.comment.CommentDto
+其实很多东西质量都不好，然后他们就会送一张优惠卷来打发我们
+用户0028698***
+OPPO A83
+https://fs-uc-nearme-com-cn.oss-cn-hangzhou.aliyuncs.com/avatar/6.png
+com.oppo.cdo.common.domain.dto.comment.CommentDto
+很好，东西很便宜，质量也很好，一直都是在上面买的什么衣服呀，书呀食物啊，服务态度也很好，希望大家都下载。
+丝31752***
+OPPO A37m
+https://fs-uc-nearme-com-cn.oss-cn-hangzhou.aliyuncs.com/003/963/743/347369300.jpg
+com.oppo.cdo.common.domain.dto.comment.CommentDto
+东西可以  但是你天天更新是什么意思？？    我昨天刚更新  今天一看  又要更新  有病吧天天
+用户0032103***
+OPPO R15x
+https://fs-uc-nearme-com-cn.oss-cn-hangzhou.aliyuncs.com/avatar/9.png
+com.oppo.cdo.common.domain.dto.comment.CommentDto
+拼多多现在好多了，买到的东西挺满意的，希望拼多多也有扫图搜索的功能就好了。
+U22510***
+OPPO A57
+https://fs-uc-nearme-com-cn.oss-cn-hangzhou.aliyuncs.com/avatar/6.png
+com.oppo.cdo.common.domain.dto.comment.CommentDto
+我总结出几个经验，没评论的坚决不买，说送充电宝的偏宜手机坚决不买，食品就那样了
+用户25218***
+OPPO R9s
+https://fs-uc-nearme-com-cn.oss-cn-hangzhou.aliyuncs.com/avatar/9.png
+com.oppo.cdo.common.domain.dto.comment.CommentDto
+根本就打不开，一颗星也不想给
+用户0234758***
+OPPO A31
+https://fs-uc-nearme-com-cn.oss-cn-hangzhou.aliyuncs.com/avatar/1.png
+com.oppo.cdo.common.domain.dto.comment.CommentDto
+发货慢的要死 客服素质感人。
+抱紧涵涵
+OPPO A77t
+https://fs-uc-nearme-com-cn.oss-cn-hangzhou.aliyuncs.com/522/213/544/445312225.jpg
+com.oppo.cdo.common.domain.dto.comment.CommentDto
+拼多多好是好，但是对我们这些偏远点的地方有些商品就乱加运费，拼着不多运费高的吓死，算下来比实体店还贵，但还是有些商家免运费，东西还挺好，给五星
+U5986***
+OPPO R9 Plusm A
+https://fs-uc-nearme-com-cn.oss-cn-hangzhou.aliyuncs.com/avatar/7.png
+com.oppo.cdo.common.domain.dto.comment.CommentDto
+超级推荐。。。
+U7410***
+OPPO A37m
+https://fs-uc-nearme-com-cn.oss-cn-hangzhou.aliyuncs.com/913/321/161/161123319.jpg
+com.oppo.cdo.common.domain.dto.comment.CommentDto
+不好大部分物品质量不好
+一叶卍解
+OPPO A53
+https://fs-uc-nearme-com-cn.oss-cn-hangzhou.aliyuncs.com/avatar/9.png
+com.oppo.cdo.common.domain.dto.comment.CommentDto
+这个软件可以呢，特别方便
+用户0135731***
+OPPO A37m
+https://fs-uc-nearme-com-cn.oss-cn-hangzhou.aliyuncs.com/avatar/7.png
+com.oppo.cdo.common.domain.dto.comment.CommentDto
+好是好，有些东西就是假的，比如手机，不过服务态度很好，物流也很快，给个4星，希望拼多多改进改进。
+用户0234372***
+OPPO A37m
+https://fs-uc-nearme-com-cn.oss-cn-hangzhou.aliyuncs.com/avatar/2.png
+com.oppo.cdo.common.domain.dto.comment.CommentDto
+还行吧。。。。
+用户0134192***
+OPPO A5
+https://fs-uc-nearme-com-cn.oss-cn-hangzhou.aliyuncs.com/326/706/934/439607623.jpg
+com.oppo.cdo.common.domain.dto.comment.CommentDto
+呸，广告骗我有抢9.9的榴莲活动，下载下来等了两天还是23点开抢，到时间了根本没有这个活动
+U6034***
+OPPO R9 Plustm A
+https://fs-uc-nearme-com-cn.oss-cn-hangzhou.aliyuncs.com/avatar/4.png
+com.oppo.cdo.common.domain.dto.comment.CommentDto
+可以，在这里买的东西便宜又实用，各个快递都及时发货，个人建议有需要放心买吧，力荐五星！
+U3021***
+OPPO R17
+https://fs-uc-nearme-com-cn.oss-cn-hangzhou.aliyuncs.com/avatar/1.png
+com.oppo.cdo.common.domain.dto.comment.CommentDto
+太卡了，大都打不开！
+用户27038***
+OPPO R3
+https://fs-uc-nearme-com-cn.oss-cn-hangzhou.aliyuncs.com/887/949/573/375949788.jpg
+com.oppo.cdo.common.domain.dto.comment.CommentDto
+价格很实惠，还可以一分钱拼单，平常的吃的衣服都在拼多多买的，支持！
+用户22968***
+OPPO R11t
+https://fs-uc-nearme-com-cn.oss-cn-hangzhou.aliyuncs.com/avatar/6.png
+com.oppo.cdo.common.domain.dto.comment.CommentDto
+不错，很好！我很喜欢拼多多这个APP
+luo1984***
+OPPO A57
+https://fs-uc-nearme-com-cn.oss-cn-hangzhou.aliyuncs.com/675/159/350/53951576.jpg
+com.oppo.cdo.common.domain.dto.comment.CommentDto
+大件不买，小件划算
+柳晨溪
+OPPO A7
+https://fs-uc-nearme-com-cn.oss-cn-hangzhou.aliyuncs.com/364/013/473/374310463.jpg
+com.oppo.cdo.common.domain.dto.comment.CommentDto
+拼多多，假货多多。
+用户152159***
+OPPO A33m
+https://fs-uc-nearme-com-cn.oss-cn-hangzhou.aliyuncs.com/837/815/734/437518738.jpg
+com.oppo.cdo.common.domain.dto.comment.CommentDto
+感觉最近更新的好频繁啊
+逸阗
+OPPO A5
+https://fs-uc-nearme-com-cn.oss-cn-hangzhou.aliyuncs.com/078/921/224/422129870.jpg
+com.oppo.cdo.common.domain.dto.comment.CommentDto
+真的很便宜，我买了好多东西，跟图片一模一样的，相信我吧！我是不会错的。
+吧32483***
+OPPO A31
+https://fs-uc-nearme-com-cn.oss-cn-hangzhou.aliyuncs.com/avatar/9.png
+com.oppo.cdo.common.domain.dto.comment.CommentDto
+喜欢，推荐，里面的东西很好
+珍29601***
+OPPO A5
+https://fs-uc-nearme-com-cn.oss-cn-hangzhou.aliyuncs.com/949/907/593/395709949.jpg
+com.oppo.cdo.common.domain.dto.comment.CommentDto
+不错，在这里买的东西质量非常好，强烈推荐亲多多
+用户0135914***
+OPPO R7
+https://fs-uc-nearme-com-cn.oss-cn-hangzhou.aliyuncs.com/980/838/454/454838089.jpg
+com.oppo.cdo.common.domain.dto.comment.CommentDto
+发货太慢，，，，
+U20677***
+OPPO R11s Plus
+https://fs-uc-nearme-com-cn.oss-cn-hangzhou.aliyuncs.com/807/150/013/310051708.jpg
+com.oppo.cdo.common.domain.dto.comment.CommentDto
+里面的东西还挺好的，就是太多山店，正店没有几个
+后32841***
+OPPO R9s
+https://fs-uc-nearme-com-cn.oss-cn-hangzhou.aliyuncs.com/avatar/8.png
+com.oppo.cdo.common.domain.dto.comment.CommentDto
+真好 东西买的便宜 强力推荐拼多多
+用户0135118***
+OPPO R17
+https://fs-uc-nearme-com-cn.oss-cn-hangzhou.aliyuncs.com/avatar/10.png
+com.oppo.cdo.common.domain.dto.comment.CommentDto
+不错 在这里买的东西非常多，比某宝某东质量没啥区别，还便宜些。
+A疚爱
+OPPO R9 Plusm A
+https://fs-uc-nearme-com-cn.oss-cn-hangzhou.aliyuncs.com/704/536/572/275635407.jpg
+com.oppo.cdo.common.domain.dto.comment.CommentDto
+包不错，挺好，挺漂亮
+用户0134686***
+OPPO A5
+https://fs-uc-nearme-com-cn.oss-cn-hangzhou.aliyuncs.com/avatar/9.png
+com.oppo.cdo.common.domain.dto.comment.CommentDto
+感觉还可以，正在买洛丽塔还没到，到了还会来评论，个人目前感觉还是可以的
+披着天使的恶魔
+OPPO R9sk
+https://fs-uc-nearme-com-cn.oss-cn-hangzhou.aliyuncs.com/678/334/153/351433876.jpg
+com.oppo.cdo.common.domain.dto.comment.CommentDto
+非常好 👍服务态度优
+物流稍慢
+我30108***
+OPPO A57
+https://fs-uc-nearme-com-cn.oss-cn-hangzhou.aliyuncs.com/205/181/663/366181502.jpg
+搜索首页
+com.oppo.cdo.card.domain.dto.search.TermListCard
+com.oppo.cdo.card.domain.dto.search.TermDto
+吃鸡
+0
+oap://mk/search?kw=吃鸡&oapExt=2
+0
+Y00
+com.oppo.cdo.card.domain.dto.search.TermDto
+迷你世界
+0
+oap://mk/search?kw=迷你世界&oapExt=2
+0
+Y00
+com.oppo.cdo.card.domain.dto.search.TermDto
+王者荣耀
+0
+oap://mk/search?kw=王者荣耀&oapExt=2
+0
+Y00
+com.oppo.cdo.card.domain.dto.search.TermDto
+球球大作战
+0
+oap://mk/search?kw=球球大作战&oapExt=2
+0
+Y00
+com.oppo.cdo.card.domain.dto.search.TermDto
+第五人格
+0
+oap://mk/search?kw=第五人格&oapExt=2
+0
+Y00
+com.oppo.cdo.card.domain.dto.search.TermDto
+恐怖奶奶
+0
+oap://mk/search?kw=恐怖奶奶&oapExt=2
+0
+Y00
+com.oppo.cdo.card.domain.dto.search.TermDto
+开心消消乐
+0
+oap://mk/search?kw=开心消消乐&oapExt=2
+0
+Y00
+com.oppo.cdo.card.domain.dto.search.TermDto
+欢喜斗地主
+0
+oap://mk/search?kw=欢喜斗地主&oapExt=2
+0
+Y00
+com.oppo.cdo.card.domain.dto.search.TermDto
+元气骑士
+0
+oap://mk/search?kw=元气骑士&oapExt=2
+0
+Y00
+com.oppo.cdo.card.domain.dto.search.TermDto
+qq
+0
+oap://mk/search?kw=qq&oapExt=2
+0
+Y00
+com.oppo.cdo.card.domain.dto.search.TermDto
+爱奇艺
+0
+oap://mk/search?kw=爱奇艺&oapExt=2
+0
+Y00
+com.oppo.cdo.card.domain.dto.search.TermDto
+作业帮
+0
+oap://mk/search?kw=作业帮&oapExt=2
+0
+Y00
+com.oppo.cdo.card.domain.dto.search.TermDto
+快手
+0
+oap://mk/search?kw=快手&oapExt=2
+0
+Y00
+com.oppo.cdo.card.domain.dto.search.TermDto
+酷狗音乐
+0
+oap://mk/search?kw=酷狗音乐&oapExt=2
+0
+Y00
+com.oppo.cdo.card.domain.dto.search.TermDto
+腾讯视频
+0
+oap://mk/search?kw=腾讯视频&oapExt=2
+0
+Y00
+com.oppo.cdo.card.domain.dto.search.TermDto
+支付宝
+0
+oap://mk/search?kw=支付宝&oapExt=2
+0
+Y00
+com.oppo.cdo.card.domain.dto.search.TermDto
+momo陌陌
+0
+oap://mk/search?kw=momo陌陌&oapExt=2
+0
+Y00
+com.oppo.cdo.card.domain.dto.search.TermDto
+全民k歌
+0
+oap://mk/search?kw=全民k歌&oapExt=2
+0
+Y00
+com.oppo.cdo.card.domain.dto.CardDto
+com.oppo.cdo.card.domain.dto.AppListCardDto
+oaps://mk/cardstyle?pk=50001047&p=%2Fcard%2Fstore%2Fv3%2Fsubject%2F50001047
+热搜软件
+com.oppo.cdo.common.domain.dto.ResourceDto
+拼多多
+com.xunmeng.pinduoduo
+4.55.0
+18.1MB
+ff1fede1a11d0295621999c8b9eae49b
+1bced0a827a53f5491ff86a5a1340d3f
+https://cdopic0.oppomobile.com/img/201905/08/7cebc9acdd62459e64019545dbf495b5.png
+50.2亿次安装
+https://istore.oppomobile.com/download/v1/20968748
+701/22494/3/0
+{"adId":"101084575","adType":"1","planId":"101016618","adOwner":"1000044175","modId":"301","adGrp":"32027","extTp":"2","showTp":"128","spec":"1","alg":"GC1","chn":"2101","parEvtId":"1557296695621","traceId":"1-fC4M%2BITB%2FTokLCGDqMXMtKJM3Qat%2BTUl2qCKE6JIaisvh%2FQ%2B8vVkQpsYgP9VlDKaYBHjmBAmgKZaMf%2FKY%2BhdgA%3D%3D"}
+50.2亿次安装
+GC1_B
+gifIcon
+ods_id
+4072757
+com.oppo.cdo.common.domain.dto.ResourceDto
+火山小视频
+com.ss.android.ugc.live
+6.2.5
+30.3MB
+
+
+https://cdopic0.oppomobile.com/img/201901/15/a0a537626daa88466c73e4d288e78474.png
+11.8亿次安装
+https://istore.oppomobile.com/downloadx/v1/20965306
+701/22494/3/1
+{"adId":"101115104","adType":"1","planId":"101023124","adOwner":"1000045218","modId":"301","adGrp":"42051","extTp":"2","showTp":"128","spec":"1","alg":"GC1","chn":"2101","parEvtId":"1557296695621","traceId":"1-uAaCo14tRf8I5OOI4fpoh71EEHIvGrv8Ain5ueH573svh%2FQ%2B8vVkQpsYgP9VlDKaYBHjmBAmgKZaMf%2FKY%2BhdgA%3D%3D"}
+11.8亿次安装
+GC1_B
+gifIcon
+ods_id
+4072757
+com.oppo.cdo.common.domain.dto.ResourceDto
+抖音短视频
+com.ss.android.ugc.aweme
+6.1.0
+75.1MB
+
+
+https://cdopic0.oppomobile.com/img/201903/26/d3c4a61494b0bc3dadbf31e9cf3d7109.png
+36亿次安装
+https://istore.oppomobile.com/downloadx/v1/20965213
+701/22494/3/2
+{"adId":"101115102","adType":"1","planId":"101023123","adOwner":"1000045219","modId":"301","adGrp":"42049","extTp":"2","showTp":"128","spec":"1","alg":"GC1","chn":"2101","parEvtId":"1557296695621","traceId":"1-uAaCo14tRf8I5OOI4fpoh%2BCRyhFTaXs%2F%2FYG32KeVQrIvh%2FQ%2B8vVkQpsYgP9VlDKaYBHjmBAmgKZaMf%2FKY%2BhdgA%3D%3D"}
+36亿次安装
+GC1_B
+gifIcon
+ods_id
+4072757
+com.oppo.cdo.common.domain.dto.ResourceDto
+快手
+com.smile.gifmaker
+6.4.0.9003
+71.0MB
+
+
+https://cdopic0.oppomobile.com/img/201705/25/05fafdfe34f75e11370f3be02eae20ed.png
+56.8亿次安装
+https://istore.oppomobile.com/downloadx/v1/20967208
+701/22494/3/3
+{"adId":"101088374","adType":"1","planId":"101017454","adOwner":"1000016571","modId":"301","adGrp":"33318","extTp":"2","showTp":"128","spec":"1","alg":"GC1","chn":"2101","parEvtId":"1557296695621","traceId":"1-oAWxcTuAQ1ZV6%2FVBcXXHkL1EEHIvGrv8Ain5ueH573svh%2FQ%2B8vVkQpsYgP9VlDKaYBHjmBAmgKZaMf%2FKY%2BhdgA%3D%3D"}
+56.8亿次安装
+GC1_B
+gifIcon
+ods_id
+4072757
+com.oppo.cdo.common.domain.dto.ResourceDto
+百度
+com.baidu.searchbox
+11.8.0.10
+77.7MB
+
+
+https://cdopic0.oppomobile.com/img/201903/04/0282e5c2ab03c2874bde923a91dddef8.png
+27亿次安装
+https://istore.oppomobile.com/downloadx/v1/20968249
+701/22494/3/4
+{"adId":"101219146","adType":"1","planId":"101041024","adOwner":"1000017821","modId":"301","adGrp":"76741","extTp":"2","showTp":"128","spec":"1","alg":"GC1","chn":"2101","parEvtId":"1557296695621","traceId":"1-kc7p5pnNAeoIyNcfsn0t36SLtOUIxB8oemK6UisUO8Mvh%2FQ%2B8vVkQpsYgP9VlDKaYBHjmBAmgKZaMf%2FKY%2BhdgA%3D%3D"}
+27亿次安装
+GC1_B
+gifIcon
+ods_id
+4072757
+com.oppo.cdo.common.domain.dto.ResourceDto
+西瓜视频
+com.ss.android.article.video
+3.5.4
+14.7MB
+
+
+https://cdopic0.oppomobile.com/img/201904/17/63f3859bcf5c9780de12eb2c6395538d.png
+14.5亿次安装
+https://istore.oppomobile.com/downloadx/v1/20957462
+701/22494/3/5
+{"adId":"101164996","adType":"1","planId":"101035128","adOwner":"1000017127","modId":"301","adGrp":"58820","extTp":"2","showTp":"128","spec":"1","alg":"GC1","chn":"2101","parEvtId":"1557296695621","traceId":"1-dyo6I%2F0kVl3xa0YXf6BPOqSLtOUIxB8oemK6UisUO8Mvh%2FQ%2B8vVkQpsYgP9VlDKaYBHjmBAmgKZaMf%2FKY%2BhdgA%3D%3D"}
+14.5亿次安装
+GC1_B
+gifIcon
+ods_id
+4072757
+com.oppo.cdo.common.domain.dto.ResourceDto
+全民K歌
+com.tencent.karaoke
+6.2.5.278
+73.3MB
+
+
+https://cdopic0.oppomobile.com/img/201904/25/d63005595ebe9fe37bc84001ec66a414.png
+13.8亿次安装
+https://istore.oppomobile.com/downloadx/v1/20949534
+701/22494/3/6
+{"adId":"101145867","adType":"1","planId":"101030546","adOwner":"1000039513","modId":"301","adGrp":"52122","extTp":"2","showTp":"128","spec":"1","alg":"GC1","chn":"2101","parEvtId":"1557296695621","traceId":"1-gJe%2BUK7kCoML%2Fzd6sd3olqOxRCT3e25wdpKl2%2FaXiFMvh%2FQ%2B8vVkQpsYgP9VlDKaYBHjmBAmgKZaMf%2FKY%2BhdgA%3D%3D"}
+13.8亿次安装
+GC1_B
+gifIcon
+ods_id
+4072757
+com.oppo.cdo.common.domain.dto.ResourceDto
+今日头条
+com.ss.android.article.news
+7.2.3
+30.2MB
+
+
+https://cdopic0.oppomobile.com/img/201902/13/8f03a800c5cdede26e69eca83fb0b7bf.png
+24.3亿次安装
+https://istore.oppomobile.com/downloadx/v1/20957376
+701/22494/3/7
+{"adId":"101083745","adType":"1","planId":"101016450","adOwner":"1000044277","modId":"301","adGrp":"31708","extTp":"2","showTp":"128","spec":"1","alg":"GC1","chn":"2101","parEvtId":"1557296695621","traceId":"1-NmHFysUmfRJ%2Fe28RYl%2BGUKJM3Qat%2BTUl2qCKE6JIaisvh%2FQ%2B8vVkQpsYgP9VlDKaYBHjmBAmgKZaMf%2FKY%2BhdgA%3D%3D"}
+24.3亿次安装
+https://cdopic0.oppomobile.com/uploadFiles/admin_appstore/schedule/201610/c051289bea69fceaad06d4832d3a9456.png
+GC1_B
+gifIcon
+ods_id
+4072757
+com.oppo.cdo.common.domain.dto.ResourceDto
+腾讯视频极速版
+com.tencent.videolite.android
+1.4.0.20041
+5.9MB
+
+
+https://cdopic0.oppomobile.com/img/201901/31/a4ede885ddea0f74c5f69cb5c2f6015a.png
+250万次安装
+https://istore.oppomobile.com/downloadx/v1/20967255
+701/22494/3/8
+{"adId":"101203985","adType":"1","planId":"101044174","adOwner":"1000008127","modId":"301","adGrp":"71931","extTp":"2","showTp":"128","spec":"1","alg":"GC1","chn":"2101","parEvtId":"1557296695621","traceId":"1-PaUIx7RJ9n4Te9yKd46rVqJM3Qat%2BTUl2qCKE6JIaisvh%2FQ%2B8vVkQpsYgP9VlDKaYBHjmBAmgKZaMf%2FKY%2BhdgA%3D%3D"}
+250万次安装
+GC1_B
+gifIcon
+ods_id
+4072757
+com.oppo.cdo.common.domain.dto.ResourceDto
+京东
+com.jingdong.app.mall
+8.0.0
+83.8MB
+
+
+https://cdopic0.oppomobile.com/img/201902/12/9da6bca68c97db432dcd8d57d732c0eb.png
+12.1亿次安装
+https://istore.oppomobile.com/downloadx/v1/20966543
+701/22494/3/9
+{"adId":"101087260","adType":"1","planId":"101017186","adOwner":"1000004746","modId":"301","adGrp":"32967","extTp":"2","showTp":"128","spec":"1","alg":"GC1","chn":"2101","parEvtId":"1557296695621","traceId":"1-raMe9qOIhw7EkuBuF4PncVluPUWuvumFZI9ZYDhplQsvh%2FQ%2B8vVkQpsYgP9VlDKaYBHjmBAmgKZaMf%2FKY%2BhdgA%3D%3D"}
+12.1亿次安装
+https://cdopic0.oppomobile.com/uploadFiles/admin_appstore/schedule/201611/28c50c4866a89e1a221f187f4e501ba2.jpg
+GC1_B
+gifIcon
+ods_id
+4072757
+com.oppo.cdo.common.domain.dto.ResourceDto
+QQ
+com.tencent.mobileqq
+8.0.0
+65.8MB
+5675a51a541bb96648ffc5c666faea23
+df4f01dfea9a4a89abcf6e1b085a8545
+https://cdopic0.oppomobile.com/img/201904/18/0d93d69c012ce1574055b1cb82e31981.png
+58.5亿次安装
+https://istore.oppomobile.com/download/v1/20939961
+
+58.5亿次安装
+GC1_A
+gifIcon
+ods_id
+4072757
+com.oppo.cdo.common.domain.dto.ResourceDto
+QQ浏览器
+com.tencent.mtt
+9.2.0.4900
+33.1MB
+
+
+https://cdopic0.oppomobile.com/img/201811/01/94f344f80c139b718bda0cdad66eef26.png
+17.8亿次安装
+https://istore.oppomobile.com/downloadx/v1/20925058
+701/22494/3/11
+{"adId":"101082937","adType":"1","planId":"101016264","adOwner":"5714","modId":"301","adGrp":"31403","extTp":"2","showTp":"128","spec":"1","alg":"GC1","chn":"2101","parEvtId":"1557296695621","traceId":"1-dNz6wl%2BjJFGxRD%2Btsr7ZWaOxRCT3e25wdpKl2%2FaXiFMvh%2FQ%2B8vVkQpsYgP9VlDKaYBHjmBAmgKZaMf%2FKY%2BhdgA%3D%3D"}
+17.8亿次安装
+GC1_B
+gifIcon
+ods_id
+4072757
+com.oppo.cdo.common.domain.dto.ResourceDto
+腾讯新闻
+com.tencent.news
+5.8.00
+20.5MB
+
+
+https://cdopic0.oppomobile.com/img/201707/04/42c3beb2774f539720392abaaf66e328.png
+18.3亿次安装
+https://istore.oppomobile.com/downloadx/v1/20967070
+701/22494/3/12
+{"adId":"101070492","adType":"1","planId":"101008231","adOwner":"12653895","modId":"301","adGrp":"27107","extTp":"2","showTp":"128","spec":"1","alg":"GC1","chn":"2101","parEvtId":"1557296695621","traceId":"1-%2FeP%2Br%2BuVjp522nGWunlAO%2BCRyhFTaXs%2F%2FYG32KeVQrIvh%2FQ%2B8vVkQpsYgP9VlDKaYBHjmBAmgKZaMf%2FKY%2BhdgA%3D%3D"}
+18.3亿次安装
+GC1_B
+gifIcon
+ods_id
+4072757
+com.oppo.cdo.common.domain.dto.ResourceDto
+WiFi万能钥匙
+com.snda.wifilocating
+4.3.60
+28.9MB
+2779aa42d41fb8134ea731892f2696d4
+ef11714a8f730d91e283a7e7f13163f5
+https://cdopic0.oppomobile.com/img/201904/03/7b6b1c23af4798da830477f9280611af.png
+95.8亿次安装
+https://istore.oppomobile.com/download/v1/20960125
+
+95.8亿次安装
+GC1_A
+gifIcon
+ods_id
+4072757
+com.oppo.cdo.common.domain.dto.ResourceDto
+美团外卖
+com.sankuai.meituan.takeoutnew
+7.10.3
+49.0MB
+
+
+https://cdopic0.oppomobile.com/img/201807/18/62710c88da302001af0a33856ce373ec.png
+2.9亿次安装
+https://istore.oppomobile.com/downloadx/v1/20948973
+701/22494/3/14
+{"adId":"101134019","adType":"1","planId":"101027970","adOwner":"123320421","modId":"301","adGrp":"48402","extTp":"2","showTp":"128","spec":"1","alg":"GC1","chn":"2101","parEvtId":"1557296695621","traceId":"1-bafvQ%2Fna8GgPGDZRzRE4%2BwwhNUZKGLgR9ByKT4t3ud8vh%2FQ%2B8vVkQpsYgP9VlDKaYBHjmBAmgKZaMf%2FKY%2BhdgA%3D%3D"}
+2.9亿次安装
+GC1_B
+gifIcon
+ods_id
+4072757
+com.oppo.cdo.common.domain.dto.ResourceDto
+小红书
+com.xingin.xhs
+5.49.1
+52.3MB
+
+
+https://cdopic0.oppomobile.com/img/201902/20/f6109bc05c17f7d97c81adf160005c93.png
+4亿次安装
+https://istore.oppomobile.com/downloadx/v1/20959441
+701/22494/3/15
+{"adId":"101064318","adType":"1","planId":"101011807","adOwner":"1000043322","modId":"301","adGrp":"24860","extTp":"2","showTp":"128","spec":"1","alg":"GC1","chn":"2101","parEvtId":"1557296695621","traceId":"1-gQ5tiZmupX7jDrprsrW6muFDXqRl0IwCFjAGzjRjQMMvh%2FQ%2B8vVkQpsYgP9VlDKaYBHjmBAmgKZaMf%2FKY%2BhdgA%3D%3D"}
+4亿次安装
+GC1_B
+gifIcon
+ods_id
+4072757
+com.oppo.cdo.card.domain.dto.AppListCardDto
+oaps://mk/cardstyle?pk=50001048&p=%2Fcard%2Fstore%2Fv3%2Fsubject%2F50001048
+热搜游戏
+com.oppo.cdo.common.domain.dto.ResourceDto
+王者荣耀（五五开黑不掉星）
+com.tencent.tmgp.sgame
+1.44.1.10
+1.58GB
+2983819360827fad7fae1adb28a4bb38
+ae35b2fc41ee90d81464eb733ba92d21
+https://cdopic0.oppomobile.com/uploadFiles/PImages/201601/28/44696b37c45ab2d83dae83246bd54636.png
+19.8亿次安装
+https://istore.oppomobile.com/download/v1/20950635
+
+19.8亿次安装
+https://cdopic0.oppomobile.com/uploadFiles/admin_appstore/schedule/201611/865948f93d43ff236f211db6bd86518b.jpg
+GD1_G
+gifIcon
+ods_id
+4072758
+com.oppo.cdo.common.domain.dto.ResourceDto
+和平精英
+com.tencent.tmgp.pubgmhd
+1.1.16
+1.89GB
+8810b464cd540d7b7cfdaafe18ae6df1
+2df2086e64bace670d899083b1e19053
+https://cdopic0.oppomobile.com/img/201905/08/80321a7e01facf8eb097c292e2ac3346.png
+5.5亿次安装
+https://istore.oppomobile.com/download/v1/20968324
+5.5亿次安装
+GD1_E40
+gifIcon
+ods_id
+4072758
+com.oppo.cdo.common.domain.dto.ResourceDto
+QQ飞车（漂移狂欢节）
+com.tencent.tmgp.speedmobile
+1.12.0.14068
+1.85GB
+617f44802820a1155b08d35b70d0cc93
+38c7ea90ae4ed67d1ab0cb54fd84b724
+https://cdopic0.oppomobile.com/img/201903/28/9ae5e2a85b32621d44343b50c287fc06.png
+1.8亿次安装
+https://istore.oppomobile.com/download/v1/20905938
+
+1.8亿次安装
+GD1_G
+gifIcon
+ods_id
+4072758
+com.oppo.cdo.common.domain.dto.ResourceDto
+开心消消乐（五周年庆典）
+com.happyelements.AndroidAnimal
+1.67
+139MB
+e7458d2d2ffc0d0f2b81b5b3cb78c169
+5600544df0f314998deed9ba4ad3cb61
+https://cdopic0.oppomobile.com/img/201904/29/fd4218a8ac02e152507daa08dc029c4a.png
+9.7亿次安装
+https://istore.oppomobile.com/download/v1/20956618
+
+9.7亿次安装
+https://cdopic0.oppomobile.com/uploadFiles/admin_appstore/schedule/201609/45e9ca45dd6df8b38594afdb96c52c4c.jpg
+GD1_G
+gifIcon
+ods_id
+4072758
+com.oppo.cdo.common.domain.dto.ResourceDto
+穿越火线：枪战王者（登录领英雄级武器）
+com.tencent.tmgp.cf
+1.0.70.300
+1.48GB
+1f0999ed12af1b2242932702b21d4f8b
+c41caa700e3d1beb8f625a0e00900558
+https://cdopic0.oppomobile.com/img/201903/28/1260fa47e9330e72e575053243daa6b3.png
+3.5亿次安装
+https://istore.oppomobile.com/download/v1/20897457
+
+3.5亿次安装
+https://cdopic0.oppomobile.com/uploadFiles/admin_appstore/schedule/201611/f5d5868fd9531f21e35e76d76335d508.jpg
+GD1_G
+gifIcon
+ods_id
+4072758
+com.oppo.cdo.common.domain.dto.ResourceDto
+掼蛋（赢手机）
+com.guandan.nearme.gamecenter
+6.3.3
+53.9MB
+72f1e000d2c005a0be5dd4a2991678c4
+b30956c4458c00401af4b4bb9019c978
+https://cdopic0.oppomobile.com/img/201809/26/f8efc7aa435b683f1ed0fdabefd2a54f.png
+645万次安装
+https://istore.oppomobile.com/download/v1/20868598
+
+645万次安装
+GD1_G
+gifIcon
+ods_id
+4072758
+com.oppo.cdo.common.domain.dto.ResourceDto
+欢喜斗地主（真人版）
+com.nearme.gamecenter.ddz.nearme.gamecenter
+3.10.195
+59.1MB
+fb94a7d6c8bccb90e5306e0c0d538adc
+84993fe362212df4d73a68721d467092
+https://cdopic0.oppomobile.com/img/201904/16/63a93e03a86d1060aa25f20e1df0ca23.png
+3.7亿次安装
+https://istore.oppomobile.com/download/v1/20949523
+
+3.7亿次安装
+https://cdopic0.oppomobile.com/uploadFiles/admin_appstore/schedule/201610/85afce1bbbd1189ce9b32e52d28a6b93.jpg
+GD1_G
+gifIcon
+ods_id
+4072758
+com.oppo.cdo.common.domain.dto.ResourceDto
+斗罗大陆（登录送钻石）
+com.hsh.cqyzs.nearme.gamecenter
+9.1.1
+53.1MB
+f7a960b54bb4fc340fb30cda848847b7
+f0e883b6445bd7f94ca0a7fbe9106db3
+https://cdopic0.oppomobile.com/img/201904/18/432691ff577b948d93e0b3259f8669f7.png
+1106万次安装
+https://istore.oppomobile.com/download/v1/20886402
+
+1106万次安装
+GD1_G
+gifIcon
+ods_id
+4072758
+com.oppo.cdo.common.domain.dto.ResourceDto
+明日之后
+com.netease.mrzh.nearme.gamecenter
+1.0.136
+1.81GB
+beba0b0ab2b526761a9dd36e40fdb935
+9a46b9fd53e213167e35717282e6565c
+https://cdopic0.oppomobile.com/img/201805/09/e7e526d949d6d791fb754def18c63a9d.png
+4901万次安装
+https://istore.oppomobile.com/download/v1/20957305
+
+4901万次安装
+GD1_G
+gifIcon
+ods_id
+4072758
+com.oppo.cdo.common.domain.dto.ResourceDto
+火影忍者
+com.tencent.KiHan
+1.32.29.8
+1.63GB
+6144de8c63c2e4689a808eaeb4553f82
+c64385e2eafcd7d6b478ff2894c04d35
+https://cdopic0.oppomobile.com/img/201804/12/b9760dfacf06f672f857bcba5a73f3a9.png
+4006万次安装
+https://istore.oppomobile.com/download/v1/20906309
+
+4006万次安装
+GD1_G
+gifIcon
+ods_id
+4072758
+com.oppo.cdo.common.domain.dto.ResourceDto
+创造与魔法
+com.hero.sm.nearme.gamecenter
+1.0.0040
+405MB
+70f0ae9aaad7a7ec4af97408250e2214
+c23bc14472876bed66ae1773ba82ce1e
+https://cdopic0.oppomobile.com/img/201905/06/2fe7fdc28673990e1ecc456c5e48707e.png
+1482万次安装
+https://istore.oppomobile.com/download/v1/20940511
+
+1482万次安装
+GD1_G
+gifIcon
+ods_id
+4072758
+com.oppo.cdo.common.domain.dto.ResourceDto
+第五人格
+com.netease.dwrg.nearme.gamecenter
+1.5.14
+1.59GB
+90752566f589f811b8bdfb66becebbb9
+9f733cb5fa8ef2ac7e7700317dda57ec
+https://cdopic0.oppomobile.com/img/201904/03/fe693e87ce45ea96389175ea9b86af4f.png
+8301万次安装
+https://istore.oppomobile.com/download/v1/20915899
+
+8301万次安装
+GD1_G
+gifIcon
+ods_id
+4072758
+com.oppo.cdo.common.domain.dto.ResourceDto
+倩女幽魂（国民玄幻社交手游）
+com.netease.l10.nearme.gamecenter
+1.5.8
+1.28GB
+5cae2688c06e73fba41d0a11bc4387d8
+733476c17b63ba1b714aff81d6a4aaa9
+https://cdopic0.oppomobile.com/img/201805/28/7390b4fe82829727ce73e5b0d036768a.png
+9655万次安装
+https://istore.oppomobile.com/download/v1/20940867
+
+9655万次安装
+https://cdopic0.oppomobile.com/uploadFiles/admin_appstore/schedule/201610/4222f3ca2fc2227aa2c798b8f40c1bcf.jpg
+GD1_G
+gifIcon
+ods_id
+4072758
+com.oppo.cdo.common.domain.dto.ResourceDto
+圣斗士星矢(腾讯)
+com.tencent.tmgp.sskgame
+1.6.32.1
+1.47GB
+f839ee9c9c18f9d31156470b4233901c
+45ce1ee3da144e96ed43de762eacbe16
+https://cdopic0.oppomobile.com/img/201808/02/266529d87dc7ae349608603a0f8e21c4.png
+319万次安装
+https://istore.oppomobile.com/download/v1/20874311
+
+319万次安装
+GD1_G
+gifIcon
+ods_id
+4072758
+com.oppo.cdo.common.domain.dto.ResourceDto
+腾讯欢乐麻将（五周年庆）
+com.qqgame.happymj
+7.1.93
+82.1MB
+aa97599165d8f0733c8cf27f08624cc5
+2067c57a7f2d5a7fe4f432d8354d293a
+https://cdopic0.oppomobile.com/img/201904/10/0377cb961905d99127106dd75e55d4b0.png
+2.4亿次安装
+https://istore.oppomobile.com/download/v1/20965852
+
+2.4亿次安装
+GD1_G
+gifIcon
+ods_id
+4072758
+com.oppo.cdo.common.domain.dto.ResourceDto
+宫廷秘传（古风剧游）
+com.xingyugame.gt.nearme.gamecenter
+21.0
+422MB
+8eca0ebe4ef42728b1e7dc7ba6cf53f3
+84bf438f9aff71f157b7eb1bd52a4daf
+https://cdopic0.oppomobile.com/img/201904/12/7383eeb477c65e6d910f37b96107cc9c.png
+127万次安装
+https://istore.oppomobile.com/download/v1/20930115
+
+127万次安装
+GD1_G
+gifIcon
+ods_id
+4072758
+com.oppo.cdo.card.domain.dto.search.TermListCard
+大家正在搜
+com.oppo.cdo.card.domain.dto.search.TermDto
+美图秀秀
+0
+oap://mk/search?kw=美图秀秀&oapExt=1
+0
+Y00
+com.oppo.cdo.card.domain.dto.search.TermDto
+影视大全
+0
+oap://mk/search?kw=影视大全&oapExt=1
+0
+Y00
+com.oppo.cdo.card.domain.dto.search.TermDto
+手机淘宝
+0
+oap://mk/search?kw=手机淘宝&oapExt=1
+0
+Y00
+com.oppo.cdo.card.domain.dto.search.TermDto
+芒果tv
+0
+oap://mk/search?kw=芒果tv&oapExt=1
+0
+Y00
+com.oppo.cdo.card.domain.dto.search.TermDto
+美团
+0
+oap://mk/search?kw=美团&oapExt=1
+0
+Y00
+com.oppo.cdo.card.domain.dto.search.TermDto
+高德地图
+0
+oap://mk/search?kw=高德地图&oapExt=1
+0
+Y00
+com.oppo.cdo.card.domain.dto.search.TermDto
+嗨来电
+0
+oap://mk/search?kw=嗨来电&oapExt=1
+0
+Y00
+com.oppo.cdo.card.domain.dto.search.TermDto
+微博
+0
+oap://mk/search?kw=微博&oapExt=1
+0
+Y00
+com.oppo.cdo.card.domain.dto.search.TermDto
+刷宝
+0
+oap://mk/search?kw=刷宝&oapExt=1
+0
+Y00
+com.oppo.cdo.card.domain.dto.search.TermDto
+万能钥匙
+0
+oap://mk/search?kw=万能钥匙&oapExt=1
+0
+Y00
+com.oppo.cdo.card.domain.dto.search.TermDto
+迅雷
+0
+oap://mk/search?kw=迅雷&oapExt=1
+0
+Y00
+com.oppo.cdo.card.domain.dto.search.TermDto
+58同城
+0
+oap://mk/search?kw=58同城&oapExt=1
+0
+Y00
+com.oppo.cdo.card.domain.dto.StatConfigDto
+com.oppo.cdo.card.domain.dto.ListCardDto
+productDesc
+gifIcon
+price
+0
+productName
+oap
+oap://mk/search?kw=食之契约&oapExt=4
+com.oppo.cdo.common.domain.dto.ResourceDto
+食之契约
+com.dddwan.food.nearme.gamecenter
+1.12.1
+887MB
+2adb21f8cc24cb464cf8bd4df176ad9f
+94202e7c9b60673c0a5634e4fc33be6b
+https://cdopic0.oppomobile.com/img/201903/29/379a28aac6a3c77c34a19081bd167cf3.png
+78.6万次安装
+https://istore.oppomobile.com/download/v1/20908530
+S16
+productDesc
+gifIcon
+price
+0
+productName
+oap
+oap://mk/search?kw=食之契约&oapExt=4
+com.oppo.cdo.card.domain.dto.ListCardDto
+productDesc
+gifIcon
+price
+0
+productName
+oap
+oap://mk/search?kw=约战:精灵再临&oapExt=4
+com.oppo.cdo.common.domain.dto.ResourceDto
+约战:精灵再临
+com.heitao.yhdzz.nearme.gamecenter
+3.55
+772MB
+8dc1131ceca107a6c17b736aa2f7fe23
+bd6cbb1ce11e67f75a1d6574ece923be
+https://cdopic0.oppomobile.com/img/201903/05/63317b74a773c1c2d7fe076b6300727f.png
+76.8万次安装
+https://istore.oppomobile.com/download/v1/20946170
+39/14/2/1
+{"keyword":"食之契约","adId":"101086900","adType":"2","contentId":"3651230","abtest":"","parEvtId":"1557296703831","traceId":"1-fbBIKdY00keIUq9FumDZyYeNh2wSZ%2BqdaaxDCmWAgNjVRd0dbUyfredDZP5nCzb6YBHjmBAmgKZaMf%2FKY%2BhdgA%3D%3D","chn":"210102","sc":"2","adOwner":"1000041037","planId":"101017120","adGroupId":"32836","extType":"2","showType":"32","adSpec":"4","reqId":"null","alg":"STD01"}
+STD01_2
+productDesc
+gifIcon
+price
+0
+productName
+oap
+oap://mk/search?kw=约战:精灵再临&oapExt=4
+com.oppo.cdo.card.domain.dto.AppListCardDto
+com.oppo.cdo.common.domain.dto.ResourceDto
+驯龙师的契约
+S16
+productDesc
+price
+0
+productName
+oap
+oap://mk/search?kw=驯龙师的契约&oapExt={"pos":1,"jumpSource":3,"isAd":1}
+com.oppo.cdo.common.domain.dto.ResourceDto
+剑与契约（下载赢FindX）
+S16
+productDesc
+price
+0
+productName
+oap
+oap://mk/search?kw=剑与契约（下载赢FindX）&oapExt={"pos":2,"jumpSource":3,"isAd":1}
+com.oppo.cdo.common.domain.dto.ResourceDto
+精灵契约（疯狂的世界）
+S16
+productDesc
+price
+0
+productName
+oap
+oap://mk/search?kw=精灵契约（疯狂的世界）&oapExt={"pos":3,"jumpSource":3,"isAd":1}
+com.oppo.cdo.common.domain.dto.ResourceDto
+宿命契约（幻兽觉醒）
+S16
+productDesc
+price
+0
+productName
+oap
+oap://mk/search?kw=宿命契约（幻兽觉醒）&oapExt={"pos":4,"jumpSource":3}
+com.oppo.cdo.common.domain.dto.ResourceDto
+精灵契约（我的部落）
+S16
+productDesc
+price
+0
+productName
+oap
+oap://mk/search?kw=精灵契约（我的部落）&oapExt={"pos":5,"jumpSource":3}
+com.oppo.cdo.common.domain.dto.ResourceDto
+契约锁
+S16
+productDesc
+price
+0
+productName
+oap
+oap://mk/search?kw=契约锁&oapExt={"pos":6,"jumpSource":3}
+com.oppo.cdo.common.domain.dto.ResourceDto
+契约勇士
+S16
+productDesc
+price
+0
+productName
+oap
+oap://mk/search?kw=契约勇士&oapExt={"pos":7,"jumpSource":3}
+com.oppo.cdo.common.domain.dto.ResourceDto
+最终契约
+S16
+productDesc
+price
+0
+productName
+oap
+oap://mk/search?kw=最终契约&oapExt={"pos":8,"jumpSource":3}
+com.oppo.cdo.card.domain.dto.search.SearchHitCardDto
+productDesc
+gifIcon
+shortDescSource
+3
+price
+0
+productName
+com.oppo.cdo.common.domain.dto.ResourceDto
+食之契约
+com.dddwan.food.nearme.gamecenter
+1.12.1
+887MB
+2adb21f8cc24cb464cf8bd4df176ad9f
+94202e7c9b60673c0a5634e4fc33be6b
+https://cdopic0.oppomobile.com/img/201903/29/379a28aac6a3c77c34a19081bd167cf3.png
+78.6万次安装
+https://istore.oppomobile.com/download/v1/20908530
+一款冒险经营美食拟人手游
+S06
+productDesc
+gifIcon
+shortDescSource
+3
+price
+0
+productName
+81
+com.oppo.cdo.card.domain.dto.ListCardDto
+com.oppo.cdo.common.domain.dto.ResourceDto
+阴阳师（樱花祭）
+com.netease.onmyoji.nearme.gamecenter
+1.0.63
+1.50GB
+3f9562f9cfc399ba543294fcb9dabddd
+4469e53692da299c89d3a878b8bf8dd3
+https://cdopic0.oppomobile.com/img/201903/18/3f6f9802cd540642b165f6b280345a14.png
+3588万次安装
+https://istore.oppomobile.com/download/v1/20931460
+37/13/2/1
+{"keyword":"食之契约","adId":"101178646","adType":"2","contentId":"3363357","abtest":"","parEvtId":"1557296704966","traceId":"1-Y0BH5s7Pnnuem16zgsJCau9rzESyEH%2Fl%2FTvK%2BQROZ%2FagCEFewvERjg1yCuWzpTfekD0NdJ%2B%2FLW3YflaRhDv%2FLA%3D%3D","chn":"210102","sc":"1","adOwner":"1000005538","planId":"101027979","adGroupId":"64089","extType":"2","showType":"32","adSpec":"4","reqId":"null","alg":"STD08"}
+与你共创绮美世界
+https://cdopic0.oppomobile.com/uploadFiles/admin_appstore/schedule/201610/e8e84e6a574ac19d7829e15fac71151b.jpg
+STD08_1
+productDesc
+gifIcon
+shortDescSource
+3
+price
+0
+productName
+com.oppo.cdo.common.domain.dto.ResourceDto
+帝霸天下
+com.dibatianxia.nearme.gamecenter
+17.56
+168MB
+25ba8e42b4fca3129260b9d54801b7fb
+6a5c54dbb0f44814924306662237f4d3
+https://cdopic0.oppomobile.com/img/201902/27/08c22eb40d73d998ebbe8b0b59215a81.png
+6.1万次安装
+https://istore.oppomobile.com/download/v1/20963893
+37/13/3/1
+{"keyword":"食之契约","adId":"101161929","adType":"2","contentId":"3609984","abtest":"","parEvtId":"1557296704966","traceId":"1-%2FGZw0hhH%2FE0%2FmzAR%2FXDXNKHqgDeMKtcwY8Asc7hiA32gCEFewvERjg1yCuWzpTfekD0NdJ%2B%2FLW3YflaRhDv%2FLA%3D%3D","chn":"210102","sc":"1","adOwner":"1000047302","planId":"101034473","adGroupId":"57858","extType":"2","showType":"32","adSpec":"4","reqId":"null","alg":"STD08"}
+逐鹿中原攻城略地等君来战
+STD08_1
+productDesc
+gifIcon
+shortDescSource
+3
+price
+0
+productName
+com.oppo.cdo.common.domain.dto.ResourceDto
+我的汤姆猫
+com.outfit7.mytalkingtomfree.nearme.gamecenter
+5.2.1.1091
+131MB
+544701295a7bef1b1446dd2161eb95ad
+ea8b0ccae4fff2eb2a7c2410db5db406
+https://cdopic0.oppomobile.com/img/201903/27/015781090998d8bb74fc403e8c70582a.png
+1.8亿次安装
+https://istore.oppomobile.com/download/v1/20960324
+与这只会说话的汤姆猫一起玩耍吧
+S06
+productDesc
+gifIcon
+shortDescSource
+3
+price
+0
+productName
+com.oppo.cdo.common.domain.dto.ResourceDto
+口袋决斗
+com.saturngame.kdjd.nearme.gamecenter
+1.6.0
+574MB
+eaaf905855fa4d540863f1362e26518c
+c10cb82e6df0667839a577055b20b854
+https://cdopic0.oppomobile.com/img/201901/28/58b434164a310f9223fe1b7c89bdffb1.png
+151万次安装
+https://istore.oppomobile.com/download/v1/20930541
+首款纯正原版口袋
+S06
+productDesc
+gifIcon
+shortDescSource
+3
+price
+0
+productName
+com.oppo.cdo.common.domain.dto.ResourceDto
+约战:精灵再临
+com.heitao.yhdzz.nearme.gamecenter
+3.55
+772MB
+8dc1131ceca107a6c17b736aa2f7fe23
+bd6cbb1ce11e67f75a1d6574ece923be
+https://cdopic0.oppomobile.com/img/201903/05/63317b74a773c1c2d7fe076b6300727f.png
+76.8万次安装
+https://istore.oppomobile.com/download/v1/20946170
+37/13/6/1
+{"keyword":"食之契约","adId":"101086900","adType":"2","contentId":"3651230","abtest":"","parEvtId":"1557296704966","traceId":"1-fbBIKdY00keIUq9FumDZyYeNh2wSZ%2BqdaaxDCmWAgNigCEFewvERjg1yCuWzpTfekD0NdJ%2B%2FLW3YflaRhDv%2FLA%3D%3D","chn":"210102","sc":"1","adOwner":"1000041037","planId":"101017120","adGroupId":"32836","extType":"2","showType":"32","adSpec":"4","reqId":"null","alg":"STD08"}
+2018年度恋爱手游约会大作战
+STD08_1
+productDesc
+gifIcon
+shortDescSource
+3
+price
+0
+productName
+com.oppo.cdo.common.domain.dto.ResourceDto
+我的安吉拉
+com.outfit7.mytalkingangelafree.nearme.gamecenter
+4.0.2.1191
+147MB
+80899d3f62402f28eb72ce283f828b5e
+f9ccd85740824789babccac7dcd48230
+https://cdopic0.oppomobile.com/img/201903/30/b8ed410fc05a4bbc067b470992361314.png
+1.6亿次安装
+https://istore.oppomobile.com/download/v1/20960338
+领养专属于你的宠物安吉拉
+S06
+productDesc
+gifIcon
+shortDescSource
+3
+price
+0
+productName
+com.oppo.cdo.common.domain.dto.ResourceDto
+我的汉克狗
+com.outfit7.mytalkinghank.nearme.gamecenter
+1.8.4.799
+143MB
+bee15ee443187c8432a5bbdd54a331ca
+3eef2ea1393b7e80a8b506090c96a03a
+https://cdopic0.oppomobile.com/img/201707/21/b9470f18ca7f02028d7c6d8b2ca766d5.png
+5380万次安装
+https://istore.oppomobile.com/download/v1/20957364
+会说话的家族系列的新成员
+S06
+productDesc
+gifIcon
+shortDescSource
+3
+price
+0
+productName
+com.oppo.cdo.common.domain.dto.ResourceDto
+御封神（自由交易）
+com.yzyfs.net.nearme.gamecenter
+3.7.0
+145MB
+63375f356678db415935ab63e42dbf49
+0ec5d4b87aa36515f2c6bf50dfb59af3
+https://cdopic0.oppomobile.com/img/201809/11/768cb2f6cfd70c96748b97c55f48cd69.png
+103万次安装
+https://istore.oppomobile.com/download/v1/20949093
+37/13/9/1
+{"keyword":"食之契约","adId":"101222340","adType":"2","contentId":"3701213","abtest":"","parEvtId":"1557296704966","traceId":"1-JTSUdyJ15XkWUuaMcHVM54eNh2wSZ%2BqdaaxDCmWAgNigCEFewvERjg1yCuWzpTfekD0NdJ%2B%2FLW3YflaRhDv%2FLA%3D%3D","chn":"210102","sc":"1","adOwner":"1000033667","planId":"101009400","adGroupId":"21162","extType":"2","showType":"32","adSpec":"4","reqId":"null","alg":"STD08"}
+玄幻仙侠角色扮演手游
+STD08_1
+productDesc
+gifIcon
+shortDescSource
+3
+price
+0
+productName
+com.oppo.cdo.common.domain.dto.ResourceDto
+契约战记
+com.netease.qyzj.yyxx.nearme.gamecenter
+1.1.1
+6.7MB
+45d66db5ba8b36765bb4595c0e0d59e2
+95c8003bd68a12b49c7d8a2a00ecd294
+https://cdopic0.oppomobile.com/img/201805/30/2f5141d00d0d506db3df1b06e8980547.png
+6550次安装
+https://istore.oppomobile.com/download/v1/20681533
+MMO回合制卡牌冒险H5游戏
+S06
+productDesc
+gifIcon
+shortDescSource
+3
+price
+0
+productName
+com.oppo.cdo.detail.domain.dto.detail.BaseDetailDto
+食之契约
+com.dddwan.food.nearme.gamecenter
+1.12.1
+887MB
+2adb21f8cc24cb464cf8bd4df176ad9f
+94202e7c9b60673c0a5634e4fc33be6b
+https://cdopic0.oppomobile.com/img/201903/29/379a28aac6a3c77c34a19081bd167cf3.png
+78.6万次安装
+https://istore.oppomobile.com/download/v1/20908530
+
+食之契约是一款由上海番糖自主研发发行的美食拟人+冒险经营类手游，玩家可以在游戏中体验到豪华声优阵容，新颖的战斗操作模式，有趣的餐厅经营模式，生动的角色设定，在这个架构完整的世界中，收获充满乐趣的体验。
+
+二次元
+https://cdopic0.oppomobile.com/img/201904/25/e6219cd681e0031da38d630db759a7fb.jpg
+https://cdopic0.oppomobile.com/img/201904/28/42ffb3858cd5a2032622f610435b98f9.jpg
+https://cdopic0.oppomobile.com/img/201904/25/cc4d3e8550a69bf2de17c2adde146529.jpg
+https://cdopic0.oppomobile.com/img/201904/25/54af1de3450473a47e105b7f67681f6b.jpg
+https://cdopic0.oppomobile.com/img/201904/25/308722988bf940591839a8a8b2535088.jpg
+productDesc
+charge
+0
+gifIcon
+price
+0
+currencyCode
+productName
+http://storestream.nearme.com.cn/openplat/resource/201812/15/a0ff6c6354057c9ae111a5ade99c98d5.mp4
+com.oppo.cdo.detail.domain.dto.detail.SecurityDto
+{"abbrTag":[{"id":2,"abbrName":"无病毒","status":0,"url":"https://cdofs.oppomobile.com/cdo-activity/static/store/manual20181223/htmls/index.html?anchor=virus&ls=3#virus","param":null},{"id":1,"abbrName":"人工亲测","status":0,"url":"https://cdofs.oppomobile.com/cdo-activity/static/store/manual20181223/htmls/index.html?anchor=test&ls=3#test","param":null}]}
+https://cdofs.oppomobile.com/cdo-activity/static/store/manual20181223/htmls/index.html?ls=3
+com.oppo.cdo.detail.domain.dto.detail.TagDto
+卡牌
+com.oppo.cdo.detail.domain.dto.detail.TagDto
+二次元
+com.oppo.cdo.detail.domain.dto.detail.TagDto
+日系
+com.oppo.cdo.detail.domain.dto.detail.TagDto
+BOSS
+com.oppo.cdo.detail.domain.dto.detail.ThemeDto
+com.oppo.cdo.detail.domain.dto.detail.DeveloperDto
+android.permission.CAMERA,android.permission.READ_PHONE_STATE,android.permission.WRITE_EXTERNAL_STORAGE,android.permission.RECORD_AUDIO,android.permission.GET_TASKS,android.permission.INTERNET,android.permission.BLUETOOTH,android.permission.BLUETOOTH_ADMIN,android.permission.CHANGE_NETWORK_STATE,android.permission.CHANGE_WIFI_STATE,android.permission.ACCESS_NETWORK_STATE,android.permission.ACCESS_WIFI_STATE,android.permission.RESTART_PACKAGES,android.permission.WAKE_LOCK,android.permission.RECEIVE_BOOT_COMPLETED,android.permission.VIBRATE,android.permission.MODIFY_AUDIO_SETTINGS,android.permission.SYSTEM_ALERT_WINDOW,android.permission.MANAGE_ACCOUNTS,android.permission.GET_ACCOUNTS,android.permission.ACCESS_FINE_LOCATION,android.permission.ACCESS_COARSE_LOCATION,android.permission.ACCESS_LOCATION_EXTRA_COMMANDS,android.permission.RECEIVE_USER_PRESENT,android.permission.READ_EXTERNAL_STORAGE,android.permission.SEND_SMS,android.permission.READ_SMS,android.permission.WRITE_SMS,android.permission.RECEIVE_SMS,android.permission.MOUNT_UNMOUNT_FILESYSTEMS,android.permission.USE_CREDENTIALS
+上海番糖网络科技有限公司
+com.oppo.cdo.detail.domain.dto.detail.FeatureDto
+1. 新增了协力作战关卡，其中将能产出R飨灵重阳糕碎片，SR飨灵拿破仑外观以及新的成就奖励。
+2. 新增了SR飨灵鳗鱼饭以及UR飨灵御节料理。
+3. 新增了可开放神器的飨灵，本次开放神器的飨灵为：UR飨灵御节料理、UR飨灵竹筒饭、SR飨灵汤圆、SR飨灵龟苓膏。
+4. 增加了已完成订单奖励可以“一键领取”的功能。
+5. 增加了可以自定义使用背包内道具数量的功能。
+6. 优化了飨灵语音播放机制，更新后御侍大人可在飨灵列表界面点击立绘播放看板娘语音。
+7. 优化了飨灵“一键升级”的机制，更新后御侍大人在进行飨灵“一键升级”时，达到该飨灵等级上限时，经验条将不会达到最大值。
+8. 优化了游戏网络情况，优化后将能减少各位御侍大人因网络而出现的游戏卡顿。
+9. 优化了部分关卡战斗体验，大大提升了各位御侍大人在主线战斗中获得的乐趣。
+10. 优化了部分飨灵的战斗动画效果，使各位飨灵的战斗画面更加绚丽有趣。
+11. 优化了菜谱研发页面，提升了研发新菜谱时的体验感受。
+com.oppo.cdo.detail.domain.dto.detail.CommentDto
+com.oppo.cdo.detail.domain.dto.detail.CommentSummaryDto
+com.oppo.cdo.detail.domain.dto.detail.StageDto
+com.oppo.cdo.detail.domain.dto.detail.TabDto
+详情页底部推荐
+com.oppo.cdo.card.domain.dto.AppListCardDto
+猜你喜欢
+com.oppo.cdo.common.domain.dto.ResourceDto
+血族
+com.sdg.woool.xuezu.nearme.gamecenter
+3.00
+441MB
+a6bf4e05d199a755c0c6d5f6f2aead63
+b34ad9e453bd2d1570ca1fa99af5c9df
+https://cdopic0.oppomobile.com/img/201803/21/e888ae6170867ff91db8646c4a1a17a9.png
+28.8万次安装
+https://istore.oppomobile.com/download/v1/20906184
+
+28.8万次安装
+ED1_G
+gifIcon
+ods_id
+4070948
+com.oppo.cdo.common.domain.dto.ResourceDto
+神都夜行录
+com.netease.h48.nearme.gamecenter
+1.0.20
+1.50GB
+2e212317343c3004fda841da17f5ed9e
+91a26c0279005687b9dd91af5d931649
+https://cdopic0.oppomobile.com/img/201810/22/b86cfb8201e1d0cef061568cd81f34b1.png
+146万次安装
+https://istore.oppomobile.com/download/v1/20917459
+
+146万次安装
+ED1_G
+gifIcon
+ods_id
+4070948
+com.oppo.cdo.common.domain.dto.ResourceDto
+武娘（开后宫闯江湖）
+com.kaiqigu.dancer.oppo.nearme.gamecenter
+1.4.5
+304MB
+fa2ee851a15484c80ee6dc56872e2b6a
+ab800bcd7407d010c348d1fce5f3fc19
+https://cdopic0.oppomobile.com/img/201707/03/10a6ea44f749396a8446d07a155931b6.png
+18.3万次安装
+https://istore.oppomobile.com/download/v1/11046664
+
+18.3万次安装
+ED1_G
+gifIcon
+ods_id
+4070948
+com.oppo.cdo.common.domain.dto.ResourceDto
+绘真·妙笔千山
+com.netease.hzmbqs.nearme.gamecenter
+1.0.2
+777MB
+f6725b1fe9e648fbe825b92327f1c8c1
+de6f45c8bb13aa63148c163732c17d26
+https://cdopic0.oppomobile.com/img/201901/25/ec49445c53d734d3a0abcce1c7de2eb2.png
+54.5万次安装
+https://istore.oppomobile.com/download/v1/20840502
+
+54.5万次安装
+ED1_G
+gifIcon
+ods_id
+4070948
+com.oppo.cdo.common.domain.dto.ResourceDto
+永远的7日之都
+com.netease.qrzd.nearme.gamecenter
+1.36.173
+580MB
+61035e6ca11e7774964072f075dc67f4
+5aa90322fa5b96851f7291a9cd3016cb
+https://cdopic0.oppomobile.com/img/201904/23/2b15a808bea94c70eef7d25bbe01a76f.png
+162万次安装
+https://istore.oppomobile.com/download/v1/20952238
+
+162万次安装
+ED1_G
+gifIcon
+ods_id
+4070948
+com.oppo.cdo.common.domain.dto.ResourceDto
+失忆偶像出道中
+com.netease.avgqv.nearme.gamecenter
+1.0.1
+65.8MB
+7fe51e3700d18fec470bbbbfadefa5d4
+33ef7b5ae1731f6974cb839a0a9c4e1a
+https://cdopic0.oppomobile.com/img/201810/12/d6c120f6afcacfcf319e2295d04b4ef3.png
+39万次安装
+https://istore.oppomobile.com/download/v1/20689791
+
+39万次安装
+ED1_G
+gifIcon
+ods_id
+4070948
+com.oppo.cdo.common.domain.dto.ResourceDto
+造物法则（可以玩的漫画）
+com.baitian.pjm.zwfz.nearme.gamecenter
+1.0.29
+623MB
+5ab7cb9e5ddcecd78a799c4a888fbea5
+833ba83eba636d506560a4df327d4459
+https://cdopic0.oppomobile.com/img/201901/04/67b6062545f99997d0336c49d10f91d5.png
+43.2万次安装
+https://istore.oppomobile.com/download/v1/20801071
+
+43.2万次安装
+ED1_G
+gifIcon
+ods_id
+4070948
+com.oppo.cdo.common.domain.dto.ResourceDto
+恋世界
+cn.lemongrassmedia.loveworld.nearme.gamecenter
+2.2
+81.3MB
+f859764ac2bd82f1a6e8a3de343a01c4
+07c13ec6eb094a2f7bddddc0b635667a
+https://cdopic0.oppomobile.com/img/201903/21/1a4393bb2e8776090ff14a537b0e0eaa.png
+32.1万次安装
+https://istore.oppomobile.com/download/v1/20936445
+
+32.1万次安装
+ED1_G
+gifIcon
+ods_id
+4070948
+com.oppo.cdo.common.domain.dto.ResourceDto
+刀剑乱舞-ONLINE-
+com.youzu.djlw.nearme.gamecenter
+3.1.4
+1.17GB
+62d7512259859bb7de441287b3211d2c
+15c6d37ee014a116cd8ac41efc7f848b
+https://cdopic0.oppomobile.com/img/201701/21/3eb130411b35236401ffe68027cff038.png
+66.4万次安装
+https://istore.oppomobile.com/download/v1/20914728
+
+66.4万次安装
+ED1_G
+gifIcon
+ods_id
+4070948
+com.oppo.cdo.common.domain.dto.ResourceDto
+阴阳师（樱花祭）
+com.netease.onmyoji.nearme.gamecenter
+1.0.63
+1.50GB
+3f9562f9cfc399ba543294fcb9dabddd
+4469e53692da299c89d3a878b8bf8dd3
+https://cdopic0.oppomobile.com/img/201903/18/3f6f9802cd540642b165f6b280345a14.png
+3588万次安装
+https://istore.oppomobile.com/download/v1/20931460
+
+3588万次安装
+https://cdopic0.oppomobile.com/uploadFiles/admin_appstore/schedule/201610/e8e84e6a574ac19d7829e15fac71151b.jpg
+ED1_G
+gifIcon
+ods_id
+4070948
+com.oppo.cdo.common.domain.dto.ResourceDto
+合金装甲（送SSR神卡）
+com.kaiqigu.hjzj.nearme.gamecenter
+2.1.0
+301MB
+4752daaea942892c578072edcb649f54
+6014075928b282752ca50d195b88c8fd
+https://cdopic0.oppomobile.com/img/201801/24/94774871f937da75e5034520a704d2ae.png
+26.6万次安装
+https://istore.oppomobile.com/download/v1/20343943
+
+26.6万次安装
+ED1_G
+gifIcon
+ods_id
+4070948
+com.oppo.cdo.common.domain.dto.ResourceDto
+幻宠学院
+com.eyeah.PVM.nearme.gamecenter
+11.4.0
+303MB
+6cc2ccc44d5ab6b5bdf66fca1375ef0f
+d99593eaf625820eb868c40e4c0685e5
+https://cdopic0.oppomobile.com/img/201902/14/21f7f95a4c28fc1e5d475fffcd0d06bf.png
+6.6万次安装
+https://istore.oppomobile.com/download/v1/20936706
+
+6.6万次安装
+ED1_G
+gifIcon
+ods_id
+4070948
+com.oppo.cdo.common.domain.dto.ResourceDto
+半世界之旅
+com.cyou.mrd.bsjzl.nearme.gamecenter
+1.1.7.0
+565MB
+9445987fab0bdce89c0e438fc8c32d16
+fe91eddee65d050b01bc1b8a558b4434
+https://cdopic0.oppomobile.com/img/201807/11/7d2662c37e9539222c8a5df6e0103c95.png
+30.4万次安装
+https://istore.oppomobile.com/download/v1/20742791
+
+30.4万次安装
+ED1_G
+gifIcon
+ods_id
+4070948
+com.oppo.cdo.common.domain.dto.ResourceDto
+梦间集（梦享新境界）
+com.pwrd.mjj.nearme.gamecenter
+1.4.4
+1.43GB
+1acfb88a20a091c28e461bec099a5ee0
+67d1cd21dcc5d9e6408d3b62189269d7
+https://cdopic0.oppomobile.com/img/201811/22/41b379e148eda677e8a8bc7abbc81475.png
+40.2万次安装
+https://istore.oppomobile.com/download/v1/20912330
+
+40.2万次安装
+ED1_G
+gifIcon
+ods_id
+4070948
+com.oppo.cdo.common.domain.dto.ResourceDto
+宝贝联盟2（登陆送三神鸟）
+com.bblm2.jiahe.nearme.gamecenter
+2.0
+178MB
+0af61262ebb0e0a800e0bbdde96f2acd
+643c3144c6edc983d64405b4d04468c6
+https://cdopic0.oppomobile.com/img/201803/14/138014f3e6a88d8a5590dadaae94edc7.png
+10.8万次安装
+https://istore.oppomobile.com/download/v1/20343293
+
+10.8万次安装
+ED1_G
+gifIcon
+ods_id
+4070948
+com.oppo.cdo.common.domain.dto.ResourceDto
+圣斗士星矢(腾讯)
+com.tencent.tmgp.sskgame
+1.6.32.1
+1.47GB
+f839ee9c9c18f9d31156470b4233901c
+45ce1ee3da144e96ed43de762eacbe16
+https://cdopic0.oppomobile.com/img/201808/02/266529d87dc7ae349608603a0f8e21c4.png
+319万次安装
+https://istore.oppomobile.com/download/v1/20874311
+
+319万次安装
+ED1_G
+gifIcon
+ods_id
+4070948
+com.oppo.cdo.card.domain.dto.StatConfigDto
+com.oppo.cdo.common.domain.dto.comment.CommentStatDto
+com.oppo.cdo.common.domain.dto.comment.CommentDto
+真的很好玩，建议玩一下
+用户0032031***
+OPPO A83t
+https://fs-uc-nearme-com-cn.oss-cn-hangzhou.aliyuncs.com/avatar/9.png
+com.oppo.cdo.common.domain.dto.comment.CommentDto
+怎么联络客服啊，充值买礼包钱扣了礼包没给我啊_(´_`」 ∠)_
+山河人间
+OPPO R11s
+https://fs-uc-nearme-com-cn.oss-cn-hangzhou.aliyuncs.com/395/761/363/363167593.jpg
+com.oppo.cdo.common.domain.dto.comment.CommentDto
+真的好喜欢，第一次欧了
+大号lxy
+OPPO R17
+https://fs-uc-nearme-com-cn.oss-cn-hangzhou.aliyuncs.com/683/079/724/427970386.jpg
+com.oppo.cdo.common.domain.dto.comment.CommentDto
+怎么办，突然进不去了
+白鸽钟
+OPPO R1C
+https://fs-uc-nearme-com-cn.oss-cn-hangzhou.aliyuncs.com/325/576/483/384675523.jpg
+com.oppo.cdo.common.domain.dto.comment.CommentDto
+真的UR几率超级大！非酋哭泣！
+zdyy2013***
+OPPO R7Plusm
+https://fs-uc-nearme-com-cn.oss-cn-hangzhou.aliyuncs.com/592/901/470/74109295.jpg
+com.oppo.cdo.common.domain.dto.comment.CommentDto
+超喜欢！！！！！！！！
+dfanfan666
+OPPO A53m
+https://fs-uc-nearme-com-cn.oss-cn-hangzhou.aliyuncs.com/217/750/170/71057712.jpg
+com.oppo.cdo.common.domain.dto.comment.CommentDto
+我想问我为什么进不去
+看着挺漂亮的
+343VA69
+OPPO R1C
+https://fs-uc-nearme-com-cn.oss-cn-hangzhou.aliyuncs.com/730/087/580/85780037.jpg
+com.oppo.cdo.common.domain.dto.comment.CommentDto
+这个游戏抽卡得到Ur的几率还是很大的，充钱和不充钱都可以推荐
+的梦M
+OPPO A33m
+https://fs-uc-nearme-com-cn.oss-cn-hangzhou.aliyuncs.com/054/999/602/206999450.jpg
+com.oppo.cdo.common.domain.dto.comment.CommentDto
+挺好玩的  非常的有趣
+乖乖小朋友Yee
+OPPO A59s
+https://fs-uc-nearme-com-cn.oss-cn-hangzhou.aliyuncs.com/421/278/703/307872124.jpg
+com.oppo.cdo.common.domain.dto.comment.CommentDto
+抽卡抽到自闭了
+十木匪叨
+OPPO A57t
+https://fs-uc-nearme-com-cn.oss-cn-hangzhou.aliyuncs.com/471/565/014/410565174.jpg
+com.oppo.cdo.common.domain.dto.comment.CommentDto
+很好玩，特别好玩，玩了半年了
+用户0028972***
+OPPO A83t
+https://fs-uc-nearme-com-cn.oss-cn-hangzhou.aliyuncs.com/avatar/7.png
+com.oppo.cdo.common.domain.dto.comment.CommentDto
+简直超赞，必须五星好评
+用户0031863***
+OPPO A57
+https://fs-uc-nearme-com-cn.oss-cn-hangzhou.aliyuncs.com/avatar/5.png
+com.oppo.cdo.common.domain.dto.comment.CommentDto
+全服最菜没有之一 强推
+U4442***
+OPPO A33m
+https://fs-uc-nearme-com-cn.oss-cn-hangzhou.aliyuncs.com/623/607/721/127706326.jpg
+com.oppo.cdo.common.domain.dto.comment.CommentDto
+太好玩了想哭嘤嘤嘤
+用户0029756***
+OPPO R9 Plusm A
+https://fs-uc-nearme-com-cn.oss-cn-hangzhou.aliyuncs.com/avatar/8.png
+com.oppo.cdo.common.domain.dto.comment.CommentDto
+超好玩！人物形象也很好，人设塑造的也很鲜明，CV也超好！
+并不知道取什么名字
+OPPO R7
+https://fs-uc-nearme-com-cn.oss-cn-hangzhou.aliyuncs.com/782/687/841/148786287.jpg
+com.oppo.cdo.common.domain.dto.comment.CommentDto
+好玩，但因为我非，花很多没抽到过想要的😭一直想找一款没毛病喜欢的游戏，找了一圈还是最喜欢食之契约。给你10星棒棒哒
+U11581***
+OPPO A33
+https://fs-uc-nearme-com-cn.oss-cn-hangzhou.aliyuncs.com/avatar/8.png
+com.oppo.cdo.common.domain.dto.comment.CommentDto
+这个游戏其实是由战斗为主的一款游戏。
+U7934***
+OPPO A33m
+https://fs-uc-nearme-com-cn.oss-cn-hangzhou.aliyuncs.com/463/818/661/166818364.jpg
+com.oppo.cdo.common.domain.dto.comment.CommentDto
+退游了骗我的钱不要玩
+U11366***
+OPPO R9 Plusm A
+https://fs-uc-nearme-com-cn.oss-cn-hangzhou.aliyuncs.com/avatar/8.png
+com.oppo.cdo.common.domain.dto.comment.CommentDto
+实在是太好玩了鸭！！！！强推！！！而且这个游戏不会强迫让你氧金肝也是可以肝的！强力推荐！！！
+奶油咖啡love
+OPPO A83
+https://fs-uc-nearme-com-cn.oss-cn-hangzhou.aliyuncs.com/678/855/693/396558876.jpg
+com.oppo.cdo.common.domain.dto.comment.CommentDto
+喜欢，里面的人物好可爱(ฅ>ω<*ฅ)!♡~
+U12704***
+OPPO A37m
+https://fs-uc-nearme-com-cn.oss-cn-hangzhou.aliyuncs.com/930/701/922/229107039.jpg
+com.oppo.cdo.common.domain.dto.comment.CommentDto
+超级喜欢米饭！
+路荆
+OPPO R9s Plus
+https://fs-uc-nearme-com-cn.oss-cn-hangzhou.aliyuncs.com/293/886/222/222688392.jpg
+com.oppo.cdo.common.domain.dto.comment.CommentDto
+妈呀黄山毛峰太帅了！朗姆酒是我的！诸君拔剑吧！
+诶30289***
+OPPO A5
+https://fs-uc-nearme-com-cn.oss-cn-hangzhou.aliyuncs.com/826/876/704/407678628.jpg
+com.oppo.cdo.common.domain.dto.comment.CommentDto
+打不开，下载了之后根本进不去游戏
+疏影ly
+OPPO A31
+https://fs-uc-nearme-com-cn.oss-cn-hangzhou.aliyuncs.com/776/929/104/401929677.jpg
+com.oppo.cdo.common.domain.dto.comment.CommentDto
+我就想知道会不会像快看漫画那边一样很会闪退？？？刚删了快看那的食之契约。
+对自己微笑i
+OPPO R11 Pluskt
+https://fs-uc-nearme-com-cn.oss-cn-hangzhou.aliyuncs.com/553/131/010/10131355.jpg
+com.oppo.cdo.common.domain.dto.comment.CommentDto
+真的!我建议大家都下
+U20814***
+OPPO R9sk
+https://fs-uc-nearme-com-cn.oss-cn-hangzhou.aliyuncs.com/avatar/9.png
+com.oppo.cdo.common.domain.dto.comment.CommentDto
+玩法很像阴阳师，但是召唤道具很容易获得，喜欢召唤的小宝贝可以体验哦！
+用户0133092***
+OPPO A7x
+https://fs-uc-nearme-com-cn.oss-cn-hangzhou.aliyuncs.com/avatar/7.png
+com.oppo.cdo.common.domain.dto.comment.CommentDto
+三天已经二十八级了，很好玩，可是UR爆率太小，只有一个送的北京烤鸭，但是很好玩，希望出更多食灵，多出些治愈系，希望把果冻和米饭还有草莓大福等级提高点，都好可爱，我会一直支持的！😄😄
+用户0134260***
+OPPO A7x
+https://fs-uc-nearme-com-cn.oss-cn-hangzhou.aliyuncs.com/avatar/3.png
+com.oppo.cdo.common.domain.dto.comment.CommentDto
+挺好的，哈哈哈
+U13648***
+OPPO R9s
+https://fs-uc-nearme-com-cn.oss-cn-hangzhou.aliyuncs.com/avatar/1.png
+com.oppo.cdo.common.domain.dto.comment.CommentDto
+很好玩，有时候登不进去可能是因为服务器在维修之类的问题，一般第二天就可以登进去，而且他们还会给赔偿。
+      总是抽到R很正常，什么东西都要有个概率是吧，运气太差，还要怪别人？
+      什么叫总是给你匹配比你强很多的对手。是你自己太弱了好吧！而且关卡也很好过，我一般都还要跟到级数到了解锁关卡，从来没有过不去的😒
+朱妍233
+OPPO A79
+https://fs-uc-nearme-com-cn.oss-cn-hangzhou.aliyuncs.com/986/471/542/245174689.jpg
+com.oppo.cdo.common.domain.dto.comment.CommentDto
+超级喜欢，大力推荐
+U1269***
+OPPO A57t
+https://fs-uc-nearme-com-cn.oss-cn-hangzhou.aliyuncs.com/avatar/9.png
+com.oppo.cdo.common.domain.dto.comment.CommentDto
+一款很好玩的游戏，不过太难升星了
+玥璃雪
+OPPO X9077
+https://fs-uc-nearme-com-cn.oss-cn-hangzhou.aliyuncs.com/873/344/514/415443378.jpg
+com.oppo.cdo.common.domain.dto.comment.CommentDto
+很好，是我喜欢的画风
+用户0028277***
+OPPO R7Plus
+https://fs-uc-nearme-com-cn.oss-cn-hangzhou.aliyuncs.com/avatar/9.png
+com.oppo.cdo.common.domain.dto.comment.CommentDto
+超好玩。。。。。。。。
+白小想
+OPPO R11s
+https://fs-uc-nearme-com-cn.oss-cn-hangzhou.aliyuncs.com/237/800/033/330008732.jpg
+com.oppo.cdo.common.domain.dto.comment.CommentDto
+游戏体验极差，我本来看爆率低才准备下的，结果爆率那么高，我才30几级，已经有八个金的，22个紫的了，都要养不过来了╮（╯＿╰）╭
+沐子子衿
+OPPO A3
+https://fs-uc-nearme-com-cn.oss-cn-hangzhou.aliyuncs.com/861/495/973/379594168.jpg
+com.oppo.cdo.common.domain.dto.comment.CommentDto
+超棒~\(≧▽≦)/~希望以后能出更多更多的食灵(ง •̀_•́)ง这是续梅露可物语之后我玩得最久的游戏~\(≧▽≦)/~希望能出更多这种版本的游戏(ง •̀_•́)ง(AT所以给差评的人:你说提出的问题，游戏公司都在解决，所以请登进游戏仔细看看，现在还会哪有你说的什么问题！既然解决了，就请尽快把差评删掉，不要因为你这一个差评，而让更多的人玩不上这款游戏。如果你认为还没有修正这个问题的话，那就是你们手机的版权太差，质量不好的问题。所以不要因为你手机问题哦，来怪罪这个游戏的问题!最后，我再说一次，请删掉你们的差评！！！这个游戏这么多人玩那么多人给好评，所以它不是为你一个人而创作的。如果你不想玩就直接卸载掉，别乱投差评！世界上那么多款游戏，难道不符合你的心意，个个都要给差评吗？你以为你是王族，贵族啊？！一句话:删掉你的差评，谢谢合作！)
+叶星30443***
+OPPO R15梦镜版
+https://fs-uc-nearme-com-cn.oss-cn-hangzhou.aliyuncs.com/879/041/933/339140978.jpg
+com.oppo.cdo.common.domain.dto.comment.CommentDto
+都进不去的，一颗星星都不想给。
+用户0134575***
+OPPO A57t
+https://fs-uc-nearme-com-cn.oss-cn-hangzhou.aliyuncs.com/avatar/9.png
+com.oppo.cdo.common.domain.dto.comment.CommentDto
+超级喜欢的画风  喜欢拟人化的美食♡好评
+U10628***
+OPPO A37m
+https://fs-uc-nearme-com-cn.oss-cn-hangzhou.aliyuncs.com/249/144/602/206441942.jpg
+com.oppo.cdo.common.domain.dto.comment.CommentDto
+内测玩家报道，嗝
+晔火火
+OPPO R9m
+https://fs-uc-nearme-com-cn.oss-cn-hangzhou.aliyuncs.com/123/363/361/163363321.jpg
+com.oppo.cdo.common.domain.dto.comment.CommentDto
+好玩，难得的一个良心游戏
+这段日子迷惘又黑暗
+OPPO R15
+https://fs-uc-nearme-com-cn.oss-cn-hangzhou.aliyuncs.com/737/624/900/9426737.jpg
+com.oppo.cdo.common.domain.dto.comment.CommentDto
+又出问题了嘻嘻，心态爆炸
+a2466326***
+OPPO R11
+https://fs-uc-nearme-com-cn.oss-cn-hangzhou.aliyuncs.com/999/044/203/302440999.jpg
+com.oppo.cdo.common.domain.dto.comment.CommentDto
+为何今天0点后就进不去了，出这种错，靠
+U2417***
+OPPO R15梦镜版
+https://fs-uc-nearme-com-cn.oss-cn-hangzhou.aliyuncs.com/avatar/1.png
+com.oppo.cdo.common.domain.dto.comment.CommentDto
+进不去啊……什么东西啊
+U10110***
+OPPO R11s
+https://fs-uc-nearme-com-cn.oss-cn-hangzhou.aliyuncs.com/avatar/4.png
+com.oppo.cdo.common.domain.dto.comment.CommentDto
+进不去了，重新下载还是进不去，中午还可以进，现在进不了了，什么情况？
+爱你柒宝
+OPPO R15
+https://fs-uc-nearme-com-cn.oss-cn-hangzhou.aliyuncs.com/132/788/331/133887231.jpg
+com.oppo.cdo.common.domain.dto.comment.CommentDto
+不知道为什么玩到了40几级就进不去了失望。
+烨小姐啊
+OPPO R17 Pro
+https://fs-uc-nearme-com-cn.oss-cn-hangzhou.aliyuncs.com/avatar/5.png
+com.oppo.cdo.common.domain.dto.comment.CommentDto
+挺好的就是要花钱T_T
+VIP店老板
+OPPO A5
+https://fs-uc-nearme-com-cn.oss-cn-hangzhou.aliyuncs.com/924/498/144/441894429.jpg
+com.oppo.cdo.common.domain.dto.comment.CommentDto
+真的超级好玩！！！
+但是没钱，只能肝啊
+用户25333***
+OPPO A5
+https://fs-uc-nearme-com-cn.oss-cn-hangzhou.aliyuncs.com/222/750/853/358057222.jpg
+com.oppo.cdo.common.domain.dto.comment.CommentDto
+本来是为了良平平（日配CV）才玩的游戏，没想到可海星（？）金砖活动真的让我立马变欧！拿到了心心念念的秋刀鱼，但是我什么时候才能抽出麻小啊？！(´╥ω╥`)
+用户0031929***
+OPPO A5
+https://fs-uc-nearme-com-cn.oss-cn-hangzhou.aliyuncs.com/905/479/124/421974509.jpg
+com.oppo.cdo.common.domain.dto.comment.CommentDto
+这个游戏真的好玩，只是进去的时候有点卡
+来31619***
+OPPO A3
+https://fs-uc-nearme-com-cn.oss-cn-hangzhou.aliyuncs.com/476/520/993/399025674.jpg
+com.oppo.cdo.common.domain.dto.comment.CommentDto
+非常好玩，但还是有些问题，希望改正，加油
+用户25197***
+OPPO R7c
+https://fs-uc-nearme-com-cn.oss-cn-hangzhou.aliyuncs.com/356/626/653/356626653.jpg
+com.oppo.cdo.common.domain.dto.comment.CommentDto
+我玩这个有1年多了，很棒，真的是越来越好了，服务也是非常好，希望你们继续努力
+莫小缪
+OPPO A37m
+https://fs-uc-nearme-com-cn.oss-cn-hangzhou.aliyuncs.com/079/079/623/326970970.jpg
+com.oppo.cdo.common.domain.dto.comment.CommentDto
+非常好玩，推荐给大家。
+U16427***
+OPPO R9s
+https://fs-uc-nearme-com-cn.oss-cn-hangzhou.aliyuncs.com/avatar/6.png
+com.oppo.cdo.common.domain.dto.comment.CommentDto
+非常好玩。😊😊
+U15682***
+OPPO A59s
+https://fs-uc-nearme-com-cn.oss-cn-hangzhou.aliyuncs.com/avatar/1.png
+com.oppo.cdo.common.domain.dto.comment.CommentDto
+真的超好玩！！！
+内田明子
+OPPO R7sm
+https://fs-uc-nearme-com-cn.oss-cn-hangzhou.aliyuncs.com/835/934/583/385439538.jpg
+com.oppo.cdo.common.domain.dto.comment.CommentDto
+好玩！可以开新服吗？
+姆家二爷的小红娘
+OPPO R11
+https://fs-uc-nearme-com-cn.oss-cn-hangzhou.aliyuncs.com/283/007/282/282700382.jpg
+com.oppo.cdo.common.domain.dto.comment.CommentDto
+米饭挺可爱的，制作的不错
+U12620***
+OPPO R3
+https://fs-uc-nearme-com-cn.oss-cn-hangzhou.aliyuncs.com/avatar/5.png
+com.oppo.cdo.common.domain.dto.comment.CommentDto
+很好玩，(*˘︶˘*).。.:*♡
+琳琳辉
+OPPO A5
+https://fs-uc-nearme-com-cn.oss-cn-hangzhou.aliyuncs.com/005/874/223/322478500.jpg
+com.oppo.cdo.common.domain.dto.comment.CommentDto
+UR爆率低。然后就是活动无缝衔接，不给玩家缓冲时间，逼着你氪。结果就是越氪越非，氪金党完全不如零氪党。金砖事件不给解释。平心而论刚开始玩的时候很喜欢里面的飨灵，叫了身边的朋友们一起玩，现在真的越玩越失望。已卸载。祝大家欧气满满吧。
+苏启帆
+OPPO R11
+https://fs-uc-nearme-com-cn.oss-cn-hangzhou.aliyuncs.com/472/471/872/278174274.jpg
+com.oppo.cdo.common.domain.dto.comment.CommentDto
+有一点点闪退的问题，吐槽一下一些人物的画风，还有很多需要改进的地方
+璇33074***
+OPPO R11
+https://fs-uc-nearme-com-cn.oss-cn-hangzhou.aliyuncs.com/907/512/024/420215709.jpg
+com.oppo.cdo.common.domain.dto.comment.CommentDto
+很好，很良心，不充钱也可以很强，而且它的充值物品可以用任务赚的
+把子33226***
+OPPO A5
+https://fs-uc-nearme-com-cn.oss-cn-hangzhou.aliyuncs.com/632/658/293/392856236.jpg
+com.oppo.cdo.common.domain.dto.comment.CommentDto
+死耗就行了！也算养老游戏了！
+U11027***
+OPPO A77
+https://fs-uc-nearme-com-cn.oss-cn-hangzhou.aliyuncs.com/avatar/7.png
+com.oppo.cdo.common.domain.dto.comment.CommentDto
+听到是日语还是挺失望的
+U12386***
+OPPO R17
+https://fs-uc-nearme-com-cn.oss-cn-hangzhou.aliyuncs.com/504/998/522/225899405.jpg
+com.oppo.cdo.common.domain.dto.comment.CommentDto
+挺好玩的，是我下的时间最长的一个游戏，强力推荐！！！👍👍👍👍👍👍
+z1785583***
+OPPO R9s
+https://fs-uc-nearme-com-cn.oss-cn-hangzhou.aliyuncs.com/avatar/5.png
+com.oppo.cdo.common.domain.dto.comment.CommentDto
+谁说不好玩了，明明好玩到超出天际！！！不过我不想骂人，因为我是一个好孩纸👼👼👼
+用户0027973***
+OPPO A83t
+https://fs-uc-nearme-com-cn.oss-cn-hangzhou.aliyuncs.com/avatar/8.png
+com.oppo.cdo.common.domain.dto.comment.CommentDto
+非常和我的口味，喜欢这类游戏，既能竞技又能打怪还能养成，玩法多样，好喝不上头，玩了正好第七天了等级38，要是多新增点任务就好了~\(≧▽≦)/~
+蝴蝶小迪
+OPPO Find X
+https://fs-uc-nearme-com-cn.oss-cn-hangzhou.aliyuncs.com/076/553/450/54355670.jpg
+com.oppo.cdo.common.domain.dto.comment.CommentDto
+好玩！画风好看
+奈离笙歌
+OPPO A37m
+https://fs-uc-nearme-com-cn.oss-cn-hangzhou.aliyuncs.com/242/029/404/404920242.jpg
+com.oppo.cdo.common.domain.dto.comment.CommentDto
+还不错………………
+徒留癫狂
+OPPO U3
+https://fs-uc-nearme-com-cn.oss-cn-hangzhou.aliyuncs.com/210/145/023/320541012.jpg
+com.oppo.cdo.common.domain.dto.comment.CommentDto
+超好评的游戏！画质清晰流畅，cv阵容好评，画风也很美腻！！！大家快去下载！！！
+用户0027881***
+OPPO R15
+https://fs-uc-nearme-com-cn.oss-cn-hangzhou.aliyuncs.com/avatar/1.png
+com.oppo.cdo.common.domain.dto.comment.CommentDto
+此游戏要倒闭了，竞技场故意匹配给你战力高N倍的对手，经常闪退，谁玩谁知道，策划吃粪长大的！
+U7366***
+OPPO R9m
+https://fs-uc-nearme-com-cn.oss-cn-hangzhou.aliyuncs.com/avatar/7.png
+com.oppo.cdo.common.domain.dto.comment.CommentDto
+很好玩     值得推荐
+车银优王子异李东敏
+OPPO A83
+https://fs-uc-nearme-com-cn.oss-cn-hangzhou.aliyuncs.com/994/194/424/424491499.jpg
+com.oppo.cdo.common.domain.dto.comment.CommentDto
+其实蛮不错的 画风、声优都超级棒! !我本命配了三个角色 幸福 然后，本人来自非洲，微笑面对生活:）
+U14800***
+OPPO R11t
+https://fs-uc-nearme-com-cn.oss-cn-hangzhou.aliyuncs.com/avatar/1.png
+com.oppo.cdo.common.domain.dto.comment.CommentDto
+现在最喜欢的一个游戏，就是闯关要求等级有点高，其余的都特别喜欢，玩了半个月了，已经39级了。现在我有：腊八粥，朗姆酒，鸡蛋仔，北京烤鸭，竹筒饭，过桥米线，红酒，牛排，菠萝油，饺子，凤梨酥……虽然我抽的算一般般吧，但是真的很可爱超卡哇伊。不过我特别希望椰浆饭把等级提高一些，sr就行了，因为椰浆饭很好看，r有点那啥，况且我获得椰浆饭也不容易
+莪会一直在丶纵使一切苍白
+OPPO A33m
+https://fs-uc-nearme-com-cn.oss-cn-hangzhou.aliyuncs.com/972/295/052/250592279.jpg
+com.oppo.cdo.common.domain.dto.comment.CommentDto
+很好的一个游戏，建议大家下载👍👍👍
+U15601***
+OPPO A37m
+https://fs-uc-nearme-com-cn.oss-cn-hangzhou.aliyuncs.com/015/224/852/258422510.jpg
+com.oppo.cdo.common.domain.dto.comment.CommentDto
+我忍不住了，两次打皇家对战都给我闪退了。。佛了，其它都很好，就是闪退之后再登陆是记录我对战失败的→_→
+梵音X
+OPPO A77
+https://fs-uc-nearme-com-cn.oss-cn-hangzhou.aliyuncs.com/348/442/592/295244843.jpg
+com.oppo.cdo.common.domain.dto.comment.CommentDto
+推荐一下，还是好玩的。
+玖靚***
+OPPO R9tm
+https://fs-uc-nearme-com-cn.oss-cn-hangzhou.aliyuncs.com/871/658/883/388856178.jpg
+com.oppo.cdo.common.domain.dto.comment.CommentDto
+肝都要炸了1551
+沐梓笙v
+OPPO R11t
+https://fs-uc-nearme-com-cn.oss-cn-hangzhou.aliyuncs.com/215/103/992/299301512.jpg
+com.oppo.cdo.common.domain.dto.comment.CommentDto
+号丢了！Σ(ﾟдﾟ；)不知所措
+用户0032606***
+OPPO A57
+https://fs-uc-nearme-com-cn.oss-cn-hangzhou.aliyuncs.com/avatar/3.png
+com.oppo.cdo.common.domain.dto.comment.CommentDto
+评论里有人说玩了好几年？我想告诉你这游戏才一周年，哪来好几年？没下游戏吗
+米敖耶
+OPPO R15x
+https://fs-uc-nearme-com-cn.oss-cn-hangzhou.aliyuncs.com/348/472/514/415274843.jpg
+com.oppo.cdo.common.domain.dto.comment.CommentDto
+真的很好玩，我都玩了好几年了╭(╯ε╰)╮
+梦子轻舟
+OPPO A53m
+https://fs-uc-nearme-com-cn.oss-cn-hangzhou.aliyuncs.com/424/651/204/402156424.jpg
+com.oppo.cdo.common.domain.dto.comment.CommentDto
+玩法一般，特色就是声优和立绘，有时候分享会自动退出去很烦，ssr 还算容易抽吧，喜欢抽卡的朋友可以尝试玩下
+用户0027667***
+OPPO A83
+https://fs-uc-nearme-com-cn.oss-cn-hangzhou.aliyuncs.com/168/753/283/382357861.jpg
+com.oppo.cdo.common.domain.dto.comment.CommentDto
+哇哇哇哇！画风真的超可爱，好喜欢，强烈推荐。
+小一冉
+OPPO A77
+https://fs-uc-nearme-com-cn.oss-cn-hangzhou.aliyuncs.com/788/329/213/312923887.jpg
+com.oppo.cdo.common.domain.dto.comment.CommentDto
+对非酋很友好，画质挺好，日本声优skr
+精致女孩er
+OPPO A33
+https://fs-uc-nearme-com-cn.oss-cn-hangzhou.aliyuncs.com/668/501/521/125105866.jpg
+com.oppo.cdo.common.domain.dto.comment.CommentDto
+是一款比较好玩的游戏
+弱寒
+OPPO R15x
+https://fs-uc-nearme-com-cn.oss-cn-hangzhou.aliyuncs.com/382/588/201/102885283.jpg
+com.oppo.cdo.common.domain.dto.comment.CommentDto
+强推，超好玩，角色好看，而且想抽中好角色一点都不难
+U2318***
+OPPO R7
+https://fs-uc-nearme-com-cn.oss-cn-hangzhou.aliyuncs.com/774/316/580/85613477.jpg
+com.oppo.cdo.common.domain.dto.comment.CommentDto
+总体来说很喜欢这款游戏，但是后期老是卡级，卡的我痛不欲生，抽卡的时候比较非洲人，而且后期有的时候特别容易，有的时候特别难，希望能改进一下。
+U白团子
+OPPO R9s
+https://fs-uc-nearme-com-cn.oss-cn-hangzhou.aliyuncs.com/266/451/223/322154662.jpg
+com.oppo.cdo.common.domain.dto.comment.CommentDto
+真的超级好玩，配音太棒了
+U11820***
+OPPO R9s
+https://fs-uc-nearme-com-cn.oss-cn-hangzhou.aliyuncs.com/avatar/4.png
+com.oppo.cdo.common.domain.dto.comment.CommentDto
+为什么首充了还不送奖励
+用户0028014***
+OPPO R15
+https://fs-uc-nearme-com-cn.oss-cn-hangzhou.aliyuncs.com/avatar/6.png
+com.oppo.cdo.common.domain.dto.comment.CommentDto
+欧不欧真的差好多
+用户22839***
+OPPO A37m
+https://fs-uc-nearme-com-cn.oss-cn-hangzhou.aliyuncs.com/avatar/5.png
+com.oppo.cdo.common.domain.dto.comment.CommentDto
+就有一个已经看开了户籍卡
+哈喽52152***
+OPPO R9sk
+https://fs-uc-nearme-com-cn.oss-cn-hangzhou.aliyuncs.com/876/618/482/284816678.jpg
+com.oppo.cdo.common.domain.dto.comment.CommentDto
+画风我喜欢，但早上玩还可以玩，到下午登就死活登不上去了，忍住卸载的冲动在等一天。
+玲2000***
+OPPO A5
+https://fs-uc-nearme-com-cn.oss-cn-hangzhou.aliyuncs.com/avatar/5.png
+com.oppo.cdo.common.domain.dto.comment.CommentDto
+里面的人物都很好看，也很好玩。
+桅情情
+OPPO A77
+https://fs-uc-nearme-com-cn.oss-cn-hangzhou.aliyuncs.com/837/777/933/339777738.jpg
+com.oppo.cdo.common.domain.dto.comment.CommentDto
+游戏很好玩啊，我感觉我还是挺欧的第二天就单抽到了UR，我超喜欢红茶和牛奶，还有烤鸭和寿喜锅声音超苏的好吗！我感觉体力挺够用的，我的体力一直都是超标的哈哈，不知道为什么，现有九百多颗心！
+一开始就是冲着边江大大来的，下载了之后，游戏制作很用心，设计的很好！
+强烈推荐！
+墨33875***
+OPPO A33
+https://fs-uc-nearme-com-cn.oss-cn-hangzhou.aliyuncs.com/008/410/734/437014800.jpg
+com.oppo.cdo.common.domain.dto.comment.CommentDto
+画面精美，每个人物都有不同的剧情，但是一出活动就要氪金，不氪金就玩不下去，我这个老玩家都心累，，但也是很不错的
+U6627***
+OPPO N3
+https://fs-uc-nearme-com-cn.oss-cn-hangzhou.aliyuncs.com/avatar/10.png
+com.oppo.cdo.common.domain.dto.comment.CommentDto
+这个游戏好玩吗？
+用户24513***
+OPPO R11s Plus
+https://fs-uc-nearme-com-cn.oss-cn-hangzhou.aliyuncs.com/avatar/7.png
+com.oppo.cdo.common.domain.dto.comment.CommentDto
+问下关卡角色为什么没有声音了?
+颖心柠檬
+OPPO R9km
+https://fs-uc-nearme-com-cn.oss-cn-hangzhou.aliyuncs.com/957/321/812/218123759.jpg
+com.oppo.cdo.common.domain.dto.comment.CommentDto
+真心推荐。几年来第一次有那么喜欢的游戏（毫不夸张！），刚好情人节开始玩的啊哈哈哈哈哈哈哈……然后因为这个游戏喜欢上日语日漫日歌我是不是没救了……能和游戏人物互动（心动的感觉！）老夫的少女心啊……
+U4598***
+OPPO R7sm
+https://fs-uc-nearme-com-cn.oss-cn-hangzhou.aliyuncs.com/avatar/1.png
+com.oppo.cdo.common.domain.dto.comment.CommentDto
+超级卡哇伊，不需要氪金也能玩，画风可爱
+柚柚柚litter
+OPPO R15梦镜版
+https://fs-uc-nearme-com-cn.oss-cn-hangzhou.aliyuncs.com/957/579/414/414975759.jpg
+com.oppo.cdo.common.domain.dto.comment.CommentDto
+这个游戏对我这个零氪玩家不错(*๓´╰╯`๓)♡
+除了打天城闪退之外没有什么不好的实力推荐
+提拉米苏鸡丁区
+OPPO A83
+https://fs-uc-nearme-com-cn.oss-cn-hangzhou.aliyuncs.com/420/814/093/390418024.jpg
+com.oppo.cdo.common.domain.dto.comment.CommentDto
+还好 ，就是概率太差了。老是抽到R
+雨生百蛊
+OPPO A79
+https://fs-uc-nearme-com-cn.oss-cn-hangzhou.aliyuncs.com/246/453/283/382354642.jpg
+com.oppo.cdo.common.domain.dto.comment.CommentDto
+我靠，爆率好高，第一次十连就走了两个ur一个酥油茶，一个北京烤鸭，之后单抽得到了朗姆酒，sr也挺多
+用户23700***
+OPPO R11s
+https://fs-uc-nearme-com-cn.oss-cn-hangzhou.aliyuncs.com/avatar/10.png
+com.oppo.cdo.common.domain.dto.comment.CommentDto
+被战斗场面的人物形象吓退。
+不是我的风格，溜了溜了
+安澜_
+OPPO R15
+https://fs-uc-nearme-com-cn.oss-cn-hangzhou.aliyuncs.com/451/486/293/392684154.jpg
+com.oppo.cdo.common.domain.dto.comment.CommentDto
+除了卡级难受，卡关难受，r五星了还没有集齐sr，还没有一队ur之外挺好的
+落楹故梦
+OPPO R11
+https://fs-uc-nearme-com-cn.oss-cn-hangzhou.aliyuncs.com/337/616/242/242616733.jpg
+com.oppo.cdo.common.domain.dto.comment.CommentDto
+画风不错，人物还好看
+感性的小猛虎
+OPPO R9m
+https://fs-uc-nearme-com-cn.oss-cn-hangzhou.aliyuncs.com/902/876/261/162678209.jpg
+com.oppo.cdo.common.domain.dto.comment.CommentDto
+不行不行你胡说八道肯定不得好的吧
+星辰边缘angel
+OPPO A33
+https://fs-uc-nearme-com-cn.oss-cn-hangzhou.aliyuncs.com/701/830/431/134038107.jpg
+com.oppo.cdo.common.domain.dto.comment.CommentDto
+真令老玩家心碎
+颜玖q
+OPPO A37m
+https://fs-uc-nearme-com-cn.oss-cn-hangzhou.aliyuncs.com/044/822/761/167228440.jpg
+com.oppo.cdo.common.domain.dto.comment.CommentDto
+炒鸡炒鸡炒鸡喜欢，力荐
+U6123***
+OPPO R9m
+https://fs-uc-nearme-com-cn.oss-cn-hangzhou.aliyuncs.com/543/719/641/146917345.jpg
+com.oppo.cdo.common.domain.dto.comment.CommentDto
+虽然不是那么好，但是我觉得😊妹子卡哇伊啊😊
+U5834***
+OPPO A3
+https://fs-uc-nearme-com-cn.oss-cn-hangzhou.aliyuncs.com/270/082/341/143280072.jpg
+com.oppo.cdo.common.domain.dto.comment.CommentDto
+不错，就是会闪退，希望改进一下。如果不闪退就满分了！加油！
+用户0031913***
+OPPO A31
+https://fs-uc-nearme-com-cn.oss-cn-hangzhou.aliyuncs.com/856/148/124/421841658.jpg
+com.oppo.cdo.common.domain.dto.comment.CommentDto
+为了福山润来的，声优和画风真的很棒
+丞星呀
+OPPO A77t
+https://fs-uc-nearme-com-cn.oss-cn-hangzhou.aliyuncs.com/avatar/7.png
+com.oppo.cdo.common.domain.dto.comment.CommentDto
+好喜欢这个游戏，我原本是个非洲人，到这里就成欧洲人了，玩了2，3天，我就抽到了法式鹅肝，鸡排，珍珠奶茶，蔬菜沙拉，菠萝油，巧克力，好开心呀！
+爱抱抱的小园丁
+OPPO A59s
+https://fs-uc-nearme-com-cn.oss-cn-hangzhou.aliyuncs.com/506/962/223/322269605.jpg
+com.oppo.cdo.common.domain.dto.comment.CommentDto
+画风好稀饭，妹子好萌，卡哇伊ฅฅ*
+风嚣
+OPPO A5
+https://fs-uc-nearme-com-cn.oss-cn-hangzhou.aliyuncs.com/682/488/812/218884286.jpg
+com.oppo.cdo.common.domain.dto.comment.CommentDto
+主要是因为我是学美术的，这个画风我喜欢，但是为什么要氪金啊我*！！
+张彧瑄本瑄
+OPPO R15
+https://fs-uc-nearme-com-cn.oss-cn-hangzhou.aliyuncs.com/812/968/083/380869218.jpg
+com.oppo.cdo.common.domain.dto.comment.CommentDto
+不闪退，喜欢，推荐ヾ(≧∪≦*)ノ〃
+用户0031241***
+OPPO A5
+https://fs-uc-nearme-com-cn.oss-cn-hangzhou.aliyuncs.com/avatar/4.png
+com.oppo.cdo.common.domain.dto.comment.CommentDto
+非常好玩，不知道为什么分这么低，超级好玩
+仙女32659***
+OPPO R11s
+https://fs-uc-nearme-com-cn.oss-cn-hangzhou.aliyuncs.com/250/551/524/425155052.jpg
+com.oppo.cdo.common.domain.dto.comment.CommentDto
+很好(´｡✪ω✪｡｀)
+零之五
+OPPO R17
+https://fs-uc-nearme-com-cn.oss-cn-hangzhou.aliyuncs.com/431/044/504/405440134.jpg
+com.oppo.cdo.common.domain.dto.comment.CommentDto
+有点无聊。。许愿腊八粥，虽说能力不强，但我想要一个看板飨灵~~
+榴莲战士小刺猬
+OPPO A73
+https://fs-uc-nearme-com-cn.oss-cn-hangzhou.aliyuncs.com/959/601/163/361106959.jpg
+com.oppo.cdo.common.domain.dto.comment.CommentDto
+打发时间还是很好的，美工很棒！许愿冰激凌和翻糖蛋糕(>^ω^<)
+U21773***
+OPPO A57
+https://fs-uc-nearme-com-cn.oss-cn-hangzhou.aliyuncs.com/avatar/7.png
+com.oppo.cdo.common.domain.dto.comment.CommentDto
+不错啊，抽卡ur和sr爆率还可以，升级虽然难点，但太简单了还有意思吗？抽卡抽到r也不是运气不好什么的，没有r，餐厅探索谁去干？进不去和闪退的，可能是手机问题吧，里面的人物都很好看，声音也很好听，表白我的石锅小姐姐～许愿双球～
+U12354***
+OPPO A59m
+https://fs-uc-nearme-com-cn.oss-cn-hangzhou.aliyuncs.com/723/965/522/225569327.jpg
+com.oppo.cdo.common.domain.dto.comment.CommentDto
+让每一只飨灵都能拥有属于自己的位置 真是太棒了😊
+U20103***
+OPPO A33m
+https://fs-uc-nearme-com-cn.oss-cn-hangzhou.aliyuncs.com/avatar/7.png
+com.oppo.cdo.common.domain.dto.comment.CommentDto
+没钱的别来了，策划吃相有点难看，已卖号退游了，临别前来告诉你们下，换个游戏玩吧
+U18624***
+OPPO A37m
+https://fs-uc-nearme-com-cn.oss-cn-hangzhou.aliyuncs.com/811/251/982/289152118.jpg
+com.oppo.cdo.common.domain.dto.comment.CommentDto
+很好玩👍👍👍👍
+用户0030990***
+OPPO R9sk
+https://fs-uc-nearme-com-cn.oss-cn-hangzhou.aliyuncs.com/avatar/7.png
+com.oppo.cdo.common.domain.dto.comment.CommentDto
+嗯，蛮有趣的，不过，想问，兑换码怎么弄来着？我忘了，，，求解答😌
+宝30253***
+OPPO R15
+https://fs-uc-nearme-com-cn.oss-cn-hangzhou.aliyuncs.com/289/115/593/395511982.jpg
+com.oppo.cdo.common.domain.dto.comment.CommentDto
+关卡一直过不去
+无芜箜
+OPPO A5
+https://fs-uc-nearme-com-cn.oss-cn-hangzhou.aliyuncs.com/avatar/2.png
+com.oppo.cdo.common.domain.dto.comment.CommentDto
+超级好玩，画风超级美腻
+用户0133643***
+OPPO R7
+https://fs-uc-nearme-com-cn.oss-cn-hangzhou.aliyuncs.com/avatar/1.png
+com.oppo.cdo.common.domain.dto.comment.CommentDto
+可以的不错不错
+用户0232941***
+OPPO A7
+https://fs-uc-nearme-com-cn.oss-cn-hangzhou.aliyuncs.com/avatar/7.png
+com.oppo.cdo.common.domain.dto.comment.CommentDto
+怎么老是卡死呢最近？
+用户0027789***
+OPPO R15梦镜版
+https://fs-uc-nearme-com-cn.oss-cn-hangzhou.aliyuncs.com/avatar/1.png
+com.oppo.cdo.common.domain.dto.comment.CommentDto
+这和阴阳师差不多吧
+用户0133133***
+OPPO A5
+https://fs-uc-nearme-com-cn.oss-cn-hangzhou.aliyuncs.com/avatar/9.png
+com.oppo.cdo.common.domain.dto.comment.CommentDto
+好评，超级好玩👍
+用户0031907***
+OPPO A57
+https://fs-uc-nearme-com-cn.oss-cn-hangzhou.aliyuncs.com/avatar/7.png
+com.oppo.cdo.common.domain.dto.comment.CommentDto
+饺子碎片的问题有人解决下吗？只领了一个碎片啊，应该是六十个啊，背包只有一个，我又没有饺子飨灵，肯定不是我弄错了啊
+U12842***
+OPPO A59s
+https://fs-uc-nearme-com-cn.oss-cn-hangzhou.aliyuncs.com/avatar/5.png
+com.oppo.cdo.common.domain.dto.comment.CommentDto
+画风很可爱丫.....就是有点无聊吧....
+梨冉曦
+OPPO A37m
+https://fs-uc-nearme-com-cn.oss-cn-hangzhou.aliyuncs.com/349/170/513/315071943.jpg
+com.oppo.cdo.common.domain.dto.comment.CommentDto
+太差劲了。。。
+用户0032666***
+OPPO A33
+https://fs-uc-nearme-com-cn.oss-cn-hangzhou.aliyuncs.com/avatar/8.png
+com.oppo.cdo.common.domain.dto.comment.CommentDto
+超级棒的，不过我头发肝干没了。
+用户24631***
+OPPO A37m
+https://fs-uc-nearme-com-cn.oss-cn-hangzhou.aliyuncs.com/029/677/053/350776920.jpg
+com.oppo.cdo.common.domain.dto.comment.CommentDto
+非常不错，每个食灵的语音特效非常好听。背景版也做的不错。不仅有闯关，还有经营，开发，市场。似乎是真的自己进入到飨灵多世界。
+29q4885***
+OPPO A59st
+https://fs-uc-nearme-com-cn.oss-cn-hangzhou.aliyuncs.com/220/015/550/55510022.jpg
+com.oppo.cdo.common.domain.dto.comment.CommentDto
+很好玩，画风很好
+U3223***
+OPPO A51
+https://fs-uc-nearme-com-cn.oss-cn-hangzhou.aliyuncs.com/avatar/4.png
+com.oppo.cdo.common.domain.dto.comment.CommentDto
+超级好玩啊啊啊啊啊！玩一天就抽到了法式鹅肝，但我想要蔬菜沙拉，许愿
+U16911***
+OPPO A57
+https://fs-uc-nearme-com-cn.oss-cn-hangzhou.aliyuncs.com/avatar/4.png
+com.oppo.cdo.common.domain.dto.comment.CommentDto
+写差评说进不去的！那是你们自己的问题！！把不用的软件删一删就好了！我之前也这样！别一登录不进去就怪游戏！为什么你们最开始想到的不是如何解决而是来写差评！
+本将名曰花木兰
+OPPO A57t
+https://fs-uc-nearme-com-cn.oss-cn-hangzhou.aliyuncs.com/367/173/003/300371763.jpg
+com.oppo.cdo.common.domain.dto.comment.CommentDto
+玩好久了，特意来给个好评！ur爆率还可以，m爆率太低太低太低！活动都很有趣，不太要氪，但是要肝肝肝。
+林溪酱
+OPPO R7s
+https://fs-uc-nearme-com-cn.oss-cn-hangzhou.aliyuncs.com/265/707/640/46707562.jpg
+com.oppo.cdo.common.domain.dto.comment.CommentDto
+好玩，太好玩啦！人物很精致，建议大家下载哦！！！
+用户27618***
+OPPO R7
+https://fs-uc-nearme-com-cn.oss-cn-hangzhou.aliyuncs.com/avatar/7.png
+com.oppo.cdo.common.domain.dto.comment.CommentDto
+好玩，爱死啦，不过好像在抽到ur食灵啊！
+稀芪
+OPPO A5
+https://fs-uc-nearme-com-cn.oss-cn-hangzhou.aliyuncs.com/761/004/034/430400167.jpg
+com.oppo.cdo.common.domain.dto.comment.CommentDto
+玩了一年了，强烈推荐！表白强大声优阵容！画风也超级对口味！剧情超赞！真的强烈推荐！
+自由囧神
+OPPO A73
+https://fs-uc-nearme-com-cn.oss-cn-hangzhou.aliyuncs.com/473/663/532/235366374.jpg
+com.oppo.cdo.common.domain.dto.comment.CommentDto
+我刚下载还没有玩。但是去我同学家那时候和我同学玩了开头感觉还不错就给五星吧。我听别的评论说力荐，但是也有的评论说有点绕但是我还是热心推荐大家玩的。👍👍👍👏👏👏😊
+U19628***
+OPPO R11st
+https://fs-uc-nearme-com-cn.oss-cn-hangzhou.aliyuncs.com/avatar/3.png
+com.oppo.cdo.common.domain.dto.comment.CommentDto
+感觉剧情和游戏特色都满不错的，非常喜欢，但是好像人物的战斗形象有点崩，身为画风控有点遗憾
+中秋之月居然被占用了
+OPPO A83t
+https://fs-uc-nearme-com-cn.oss-cn-hangzhou.aliyuncs.com/538/233/073/370332835.jpg
+com.oppo.cdo.common.domain.dto.comment.CommentDto
+不错，一次抽到两个ur，么么哒
+杏子33074***
+OPPO R15x
+https://fs-uc-nearme-com-cn.oss-cn-hangzhou.aliyuncs.com/542/304/724/427403245.jpg
+com.oppo.cdo.common.domain.dto.comment.CommentDto
+好玩！真的好玩！强烈推荐！也就是我非了点…🌚
+用户0031220***
+OPPO PBBT00
+https://fs-uc-nearme-com-cn.oss-cn-hangzhou.aliyuncs.com/avatar/6.png
+com.oppo.cdo.common.domain.dto.comment.CommentDto
+好玩不过非洲人的本性难移
+陌千勿散
+OPPO A83
+https://fs-uc-nearme-com-cn.oss-cn-hangzhou.aliyuncs.com/057/986/283/382689750.jpg
+com.oppo.cdo.common.domain.dto.comment.CommentDto
+画风特别喜欢，可是这么玩啊？有点蒙圈
+TREASURE520
+OPPO A33m
+https://fs-uc-nearme-com-cn.oss-cn-hangzhou.aliyuncs.com/745/577/083/380775547.jpg
+com.oppo.cdo.common.domain.dto.comment.CommentDto
+为什么开始闪退了？可以解决一下吗？谢谢
+言之叶
+OPPO A31
+https://fs-uc-nearme-com-cn.oss-cn-hangzhou.aliyuncs.com/295/486/704/407684592.jpg
+com.oppo.cdo.common.domain.dto.comment.CommentDto
+超好玩啊，画风超赞。不用充钱也能抽到UR和SR。说真的当我二十几级时抽到了朗姆酒，还是刚永久加到卡池里的UR！超开心！还有，登不上去的是因为手机内存不足吧，别说游戏不好了，去换一个手机吧
+系统错误1***
+OPPO A37m
+https://fs-uc-nearme-com-cn.oss-cn-hangzhou.aliyuncs.com/691/292/851/158292196.jpg
+com.oppo.cdo.common.domain.dto.comment.CommentDto
+超级推荐！！！对穷人特友好！！而且声优也超好听！！我就是为了食之契约去学的日语！！
+猫巷十六
+OPPO A37t
+https://fs-uc-nearme-com-cn.oss-cn-hangzhou.aliyuncs.com/559/027/903/309720955.jpg
+com.oppo.cdo.common.domain.dto.comment.CommentDto
+希望本游戏可以出个QQ登陆。谢谢良心建议
+知33050***
+OPPO A83
+https://fs-uc-nearme-com-cn.oss-cn-hangzhou.aliyuncs.com/avatar/1.png
+com.oppo.cdo.common.domain.dto.comment.CommentDto
+超级喜欢呐，，，，
+言32243***
+OPPO A57t
+https://fs-uc-nearme-com-cn.oss-cn-hangzhou.aliyuncs.com/754/613/353/353316457.jpg
+com.oppo.cdo.common.domain.dto.comment.CommentDto
+一直很喜欢玩，好玩。
+傀祭慕白
+OPPO R9m
+https://fs-uc-nearme-com-cn.oss-cn-hangzhou.aliyuncs.com/636/386/151/151683636.jpg
+com.oppo.cdo.common.domain.dto.comment.CommentDto
+特别好玩，里面画风好又满足我的欲望，力荐
+U22445***
+OPPO A59m
+https://fs-uc-nearme-com-cn.oss-cn-hangzhou.aliyuncs.com/516/522/823/328225615.jpg
+com.oppo.cdo.common.domain.dto.comment.CommentDto
+不错，对平民很友善
+佳31366***
+OPPO R17 Pro
+https://fs-uc-nearme-com-cn.oss-cn-hangzhou.aliyuncs.com/946/215/251/152512649.jpg
+com.oppo.cdo.common.domain.dto.comment.CommentDto
+很好玩 不用克金也拿的到UR和SR 画风非常好故事情节也很精彩 CV还有花泽香菜 是一种卡牌和经营相结合的好游戏 也不会闪退 只是一开始的登陆会慢一点点 非常力荐 果断五星好评ouo
+用户0028591***
+OPPO A79
+https://fs-uc-nearme-com-cn.oss-cn-hangzhou.aliyuncs.com/avatar/3.png
+com.oppo.cdo.common.domain.dto.comment.CommentDto
+有点非，五星⭐⭐⭐⭐⭐，希望欧气满满，还有表白一下杰大配的麻辣小龙虾
+小子给我哭哈哈哈哈哈哈哈哈哈哈哈哈哈
+OPPO A57
+https://fs-uc-nearme-com-cn.oss-cn-hangzhou.aliyuncs.com/300/556/643/346655003.jpg
+com.oppo.cdo.common.domain.dto.comment.CommentDto
+好玩，就是玩法太复杂了。。
+沐月Z
+OPPO A31
+https://fs-uc-nearme-com-cn.oss-cn-hangzhou.aliyuncs.com/312/456/303/303654213.jpg
+com.oppo.cdo.common.domain.dto.comment.CommentDto
+好玩，但就是会吃菜，明明做了10
+份，居然只显示有9份出来，好几次了，是卡了吗？？？
+公玉澜止
+OPPO A37m
+https://fs-uc-nearme-com-cn.oss-cn-hangzhou.aliyuncs.com/464/648/510/15846464.jpg
+com.oppo.cdo.common.domain.dto.comment.CommentDto
+红酒啤酒秋刀鱼，樱饼豆花意大利。
+一言子
+OPPO A57t
+https://fs-uc-nearme-com-cn.oss-cn-hangzhou.aliyuncs.com/662/390/263/362093266.jpg
+com.oppo.cdo.common.domain.dto.comment.CommentDto
+好！就是希望UR多些，少点重复(特別是M和R)
+用户0029914***
+OPPO R15
+https://fs-uc-nearme-com-cn.oss-cn-hangzhou.aliyuncs.com/avatar/6.png
+com.oppo.cdo.common.domain.dto.comment.CommentDto
+ヾ(●´∇｀●)ﾉ好玩
+U13233***
+OPPO A33
+https://fs-uc-nearme-com-cn.oss-cn-hangzhou.aliyuncs.com/096/264/432/234462690.jpg
+com.oppo.cdo.common.domain.dto.comment.CommentDto
+这个游戏真的很好，还能送外卖🌚，你们进不去是因为自己手机太卡，不然我们怎么进去的
+用户23996***
+OPPO A73t
+https://fs-uc-nearme-com-cn.oss-cn-hangzhou.aliyuncs.com/549/962/443/344269945.jpg
+com.oppo.cdo.common.domain.dto.comment.CommentDto
+很好玩，只是有时候有点闪退，总体效果很好
+墨30011***
+OPPO R15
+https://fs-uc-nearme-com-cn.oss-cn-hangzhou.aliyuncs.com/352/949/393/393949253.jpg
+com.oppo.cdo.common.domain.dto.comment.CommentDto
+还行，就是出人物太快了
+肝图王
+OPPO A59s
+https://fs-uc-nearme-com-cn.oss-cn-hangzhou.aliyuncs.com/269/325/882/288523962.jpg
+com.oppo.cdo.common.domain.dto.comment.CommentDto
+游戏真的好，不用充钱，建议两个号，一个新手号用来了解游戏，一个大号可以通过新手号的经验少走很多弯路，还有就是你们进不去因为手机渣，画风和声优都很好，策略对战，死打当然过不去
+情32596***
+OPPO A33m
+https://fs-uc-nearme-com-cn.oss-cn-hangzhou.aliyuncs.com/418/992/733/337299814.jpg
+com.oppo.cdo.common.domain.dto.comment.CommentDto
+超级赞的说，不但人物好看，而且声优也很赞啊！（就是UR难养了点）一起来玩啊！
+Akfbbdi
+OPPO A83t
+https://fs-uc-nearme-com-cn.oss-cn-hangzhou.aliyuncs.com/603/738/783/387837306.jpg
+com.oppo.cdo.common.domain.dto.comment.CommentDto
+人物画风超喜欢的
+U18159***
+OPPO R11
+https://fs-uc-nearme-com-cn.oss-cn-hangzhou.aliyuncs.com/219/844/482/284448912.jpg
+com.oppo.cdo.common.domain.dto.comment.CommentDto
+好好玩呀！有人觉得好玩吗
+用户27606***
+OPPO R15
+https://fs-uc-nearme-com-cn.oss-cn-hangzhou.aliyuncs.com/959/237/183/381732959.jpg
+com.oppo.cdo.common.domain.dto.comment.CommentDto
+差评根本就进不去。
+用户0031965***
+OPPO R15
+https://fs-uc-nearme-com-cn.oss-cn-hangzhou.aliyuncs.com/avatar/9.png
+com.oppo.cdo.common.domain.dto.comment.CommentDto
+还可以，就是求多一点UR.
+U19600***
+OPPO A33
+https://fs-uc-nearme-com-cn.oss-cn-hangzhou.aliyuncs.com/959/570/992/299075959.jpg
+com.oppo.cdo.common.domain.dto.comment.CommentDto
+进不去😡😡
+U6374***
+OPPO R9m
+https://fs-uc-nearme-com-cn.oss-cn-hangzhou.aliyuncs.com/avatar/7.png
+com.oppo.cdo.common.domain.dto.comment.CommentDto
+游戏不错，人不太好
+妃玉香
+OPPO A5
+https://fs-uc-nearme-com-cn.oss-cn-hangzhou.aliyuncs.com/844/225/593/395522448.jpg
+com.oppo.cdo.common.domain.dto.comment.CommentDto
+画风好可爱的游戏啊，很喜欢，作为一个吃货
+四叶草喵
+OPPO R17
+https://fs-uc-nearme-com-cn.oss-cn-hangzhou.aliyuncs.com/749/228/731/137822947.jpg
+com.oppo.cdo.common.domain.dto.comment.CommentDto
+太非了，，，，，，
+老抱抱
+OPPO K1
+https://fs-uc-nearme-com-cn.oss-cn-hangzhou.aliyuncs.com/202/247/092/290742202.jpg
+com.oppo.cdo.common.domain.dto.comment.CommentDto
+画风超漂亮的，抱走我家冰糖葫芦啊~（其实喜欢这个游戏很大原因是出于吃货属性）
+在下言兮
+OPPO R7Plusm
+https://fs-uc-nearme-com-cn.oss-cn-hangzhou.aliyuncs.com/687/675/512/215576786.jpg
+com.oppo.cdo.common.domain.dto.comment.CommentDto
+声优满分，极力推荐的养成
+赤羽丶凌降
+OPPO R9s
+https://fs-uc-nearme-com-cn.oss-cn-hangzhou.aliyuncs.com/611/514/252/252415116.jpg
+com.oppo.cdo.common.domain.dto.comment.CommentDto
+人物好看，让人爱不释手
+哲32423***
+OPPO A31
+https://fs-uc-nearme-com-cn.oss-cn-hangzhou.aliyuncs.com/653/572/833/338275356.jpg
+com.oppo.cdo.common.domain.dto.comment.CommentDto
+真的非常好！日常许愿麻小。
+用户24182***
+OPPO A57
+https://fs-uc-nearme-com-cn.oss-cn-hangzhou.aliyuncs.com/avatar/8.png
+com.oppo.cdo.common.domain.dto.comment.CommentDto
+许愿麻小！！！快到妈妈这来吧呜呜呜
+陌轩小可爱啊
+OPPO A59s
+https://fs-uc-nearme-com-cn.oss-cn-hangzhou.aliyuncs.com/060/143/062/260341060.jpg
+com.oppo.cdo.common.domain.dto.comment.CommentDto
+抱走红酒🙊哈哈哈
+瑾凌小仙女
+OPPO R11s Plust
+https://fs-uc-nearme-com-cn.oss-cn-hangzhou.aliyuncs.com/265/983/842/248389562.jpg
+com.oppo.cdo.common.domain.dto.comment.CommentDto
+扣一星是因为偏氪金，不氪金是玩不下去的，后面关卡难到爆，有些关卡需要一些特定角色才好过，不过人物画风，以及声优超赞的，萌新登陆完成任务送的鹅肝麻麻超赞的，好看又能打。
+用户0028833***
+OPPO R15
+https://fs-uc-nearme-com-cn.oss-cn-hangzhou.aliyuncs.com/avatar/2.png
+com.oppo.cdo.common.domain.dto.comment.CommentDto
+玩小号，6-8打不了 大号过了一次后就也打不了 可能是我手机的问题吧
+但我是真的喜欢这个画风和声优角色啊啊啊啊
+抱走我樱饼、鸡尾酒~
+谧琉
+OPPO A31c
+https://fs-uc-nearme-com-cn.oss-cn-hangzhou.aliyuncs.com/429/744/611/116447924.jpg
+com.oppo.cdo.common.domain.dto.comment.CommentDto
+手机有问题还怪到游戏了
+妍31350***
+OPPO A57
+https://fs-uc-nearme-com-cn.oss-cn-hangzhou.aliyuncs.com/087/007/614/416700780.jpg
+com.oppo.cdo.common.domain.dto.comment.CommentDto
+好玩死咯！啊哈哈哈
+嗯呐呐呐呐呐呐呐
+OPPO A5
+https://fs-uc-nearme-com-cn.oss-cn-hangzhou.aliyuncs.com/avatar/9.png
+com.oppo.cdo.common.domain.dto.comment.CommentDto
+蛮不错的！画面很清晰，游戏角色长得都好好看啊！！
+一团艾玛啾
+OPPO A83t
+https://fs-uc-nearme-com-cn.oss-cn-hangzhou.aliyuncs.com/131/814/614/416418131.jpg
+com.oppo.cdo.common.domain.dto.comment.CommentDto
+嘤嘤嘤.表示玩了这么久了只有一张UR！！！苦涩👌
+ZJ夫人
+OPPO A31
+https://fs-uc-nearme-com-cn.oss-cn-hangzhou.aliyuncs.com/389/225/562/265522983.jpg
+com.oppo.cdo.common.domain.dto.comment.CommentDto
+好喜欢画风       力荐
+逝水a流年
+OPPO A57
+https://fs-uc-nearme-com-cn.oss-cn-hangzhou.aliyuncs.com/837/398/301/103893738.jpg
+com.oppo.cdo.common.domain.dto.comment.CommentDto
+真的超nice，画风超赞
+U20994***
+OPPO A59s
+https://fs-uc-nearme-com-cn.oss-cn-hangzhou.aliyuncs.com/avatar/10.png
+com.oppo.cdo.common.domain.dto.comment.CommentDto
+花泽香菜辛苦了，配音鸡蛋仔和姜饼很累吧
+U2224***
+OPPO A5
+https://fs-uc-nearme-com-cn.oss-cn-hangzhou.aliyuncs.com/220/801/170/71108022.jpg
+com.oppo.cdo.common.domain.dto.comment.CommentDto
+超好的一款游戏，两种风格结合，很不错
+你家程程
+OPPO A83
+https://fs-uc-nearme-com-cn.oss-cn-hangzhou.aliyuncs.com/768/820/473/374028867.jpg
+com.oppo.cdo.common.domain.dto.comment.CommentDto
+我觉得非常棒❤
+U11523***
+OPPO A57
+https://fs-uc-nearme-com-cn.oss-cn-hangzhou.aliyuncs.com/avatar/3.png
+com.oppo.cdo.common.domain.dto.comment.CommentDto
+我觉得很棒!画风是我见过最精致的，让人很舒服!!欧一点的抽UR很简单，所以力荐!!
+谪古
+OPPO R9st
+https://fs-uc-nearme-com-cn.oss-cn-hangzhou.aliyuncs.com/713/498/192/291894317.jpg
+com.oppo.cdo.common.domain.dto.comment.CommentDto
+里面的福利超级多，一个活动完了，还要下一个马上就来。
+画风超级好
+藤柳
+OPPO A33
+https://fs-uc-nearme-com-cn.oss-cn-hangzhou.aliyuncs.com/433/552/353/353255334.jpg
+com.oppo.cdo.common.domain.dto.comment.CommentDto
+24级两个UR，好开心！
+伊思然
+OPPO A83
+https://fs-uc-nearme-com-cn.oss-cn-hangzhou.aliyuncs.com/883/874/863/368478388.jpg
+com.oppo.cdo.common.domain.dto.comment.CommentDto
+我喜欢这个游戏，但是我二十连抽都是r，我很生气，所以差评
+U16695***
+OPPO R9sk
+https://fs-uc-nearme-com-cn.oss-cn-hangzhou.aliyuncs.com/avatar/7.png
+com.oppo.cdo.common.domain.dto.comment.CommentDto
+超墨迹，带强制性的
+用户0030441***
+OPPO A83
+https://fs-uc-nearme-com-cn.oss-cn-hangzhou.aliyuncs.com/158/310/904/409013851.jpg
+com.oppo.cdo.common.domain.dto.comment.CommentDto
+特好玩！！喜欢～
+莉29826***
+OPPO A59m
+https://fs-uc-nearme-com-cn.oss-cn-hangzhou.aliyuncs.com/323/205/832/238502323.jpg
+com.oppo.cdo.common.domain.dto.comment.CommentDto
+很好玩，就是好难抽到稀有的，强烈推荐给大家！
+用户0028475***
+OPPO A3
+https://fs-uc-nearme-com-cn.oss-cn-hangzhou.aliyuncs.com/716/944/093/390449617.jpg
+com.oppo.cdo.common.domain.dto.comment.CommentDto
+巨好玩！！！每天都玩好几次！！！每次至少一小时！！
+神明大人呢
+OPPO R15
+https://fs-uc-nearme-com-cn.oss-cn-hangzhou.aliyuncs.com/724/429/583/385924427.jpg
+com.oppo.cdo.common.domain.dto.comment.CommentDto
+很好玩啊。但是。。。。谁能告诉我这个是恐怖手游？？？？？我怎么没看出来
+橙子味的影晗
+OPPO A77t
+https://fs-uc-nearme-com-cn.oss-cn-hangzhou.aliyuncs.com/680/296/492/294692086.jpg
+com.oppo.cdo.common.domain.dto.comment.CommentDto
+好玩！！！！！
+U10589***
+OPPO A37m
+https://fs-uc-nearme-com-cn.oss-cn-hangzhou.aliyuncs.com/484/540/602/206045484.jpg
+com.oppo.cdo.common.domain.dto.comment.CommentDto
+超级好玩啊！！！  停不下来！！！ 没有闪退过！！！
+U17795***
+OPPO R11t
+https://fs-uc-nearme-com-cn.oss-cn-hangzhou.aliyuncs.com/014/167/082/280761410.jpg
+com.oppo.cdo.common.domain.dto.comment.CommentDto
+画面不错，可玩性很强，人物造型也很萌，个人很喜欢玩
+始山彤
+OPPO R2017
+https://fs-uc-nearme-com-cn.oss-cn-hangzhou.aliyuncs.com/avatar/1.png
+com.oppo.cdo.common.domain.dto.comment.CommentDto
+很好玩的游戏，玩了一周就有新版本更新，添加新内容，很用心在做
+宏智伟
+OPPO A73
+https://fs-uc-nearme-com-cn.oss-cn-hangzhou.aliyuncs.com/avatar/7.png
+com.oppo.cdo.common.domain.dto.comment.CommentDto
+新版本添加了好多新内容，诚意满满！好游戏！
+睢冉冉
+OPPO A37m
+https://fs-uc-nearme-com-cn.oss-cn-hangzhou.aliyuncs.com/avatar/2.png
+com.oppo.cdo.common.domain.dto.comment.CommentDto
+人物超萌，男生女生都能玩！
+集寄蕾
+OPPO A83
+https://fs-uc-nearme-com-cn.oss-cn-hangzhou.aliyuncs.com/avatar/1.png
+com.oppo.cdo.common.domain.dto.comment.CommentDto
+吃货来给游戏加油助阵，祝食契越来越好
+茹宏浚
+OPPO R7c
+https://fs-uc-nearme-com-cn.oss-cn-hangzhou.aliyuncs.com/avatar/8.png
+com.oppo.cdo.common.domain.dto.comment.CommentDto
+超赞，玩了近3个月了，挺有趣的，画面很好，玩法也很有趣
+布弘雅
+OPPO A73
+https://fs-uc-nearme-com-cn.oss-cn-hangzhou.aliyuncs.com/avatar/2.png
+com.oppo.cdo.common.domain.dto.comment.CommentDto
+绝对好评，很棒的游戏，很有趣，不充钱也可以靠技术玩不错
+隋琼思
+OPPO R7 Plus
+https://fs-uc-nearme-com-cn.oss-cn-hangzhou.aliyuncs.com/avatar/4.png
+com.oppo.cdo.common.domain.dto.comment.CommentDto
+游戏充不充钱都可以玩，好游戏
+游典丽
+OPPO A3
+https://fs-uc-nearme-com-cn.oss-cn-hangzhou.aliyuncs.com/avatar/2.png
+com.oppo.cdo.common.domain.dto.comment.CommentDto
+游戏很不错，要自己体验了才知道游戏的乐趣
+公冶泰平
+OPPO R7s
+https://fs-uc-nearme-com-cn.oss-cn-hangzhou.aliyuncs.com/avatar/3.png
+com.oppo.cdo.common.domain.dto.comment.CommentDto
+很好玩的游戏，玩了一周就有新版本更新，添加新内容，很用心在做
+罕涵韵
+OPPO A59s
+https://fs-uc-nearme-com-cn.oss-cn-hangzhou.aliyuncs.com/avatar/1.png
+com.oppo.cdo.common.domain.dto.comment.CommentDto
+一般吧，画风可以，但是总是突然卡住被迫退出重来就真的没什么意思了。果然玩游戏还是得看大公司……
+U3209***
+OPPO R15
+https://fs-uc-nearme-com-cn.oss-cn-hangzhou.aliyuncs.com/avatar/10.png
+com.oppo.cdo.common.domain.dto.comment.CommentDto
+喜欢这种画风和人设
+九九九遥
+OPPO R9s
+https://fs-uc-nearme-com-cn.oss-cn-hangzhou.aliyuncs.com/264/546/912/219645462.jpg
+com.oppo.cdo.common.domain.dto.comment.CommentDto
+前天刚下昨天单抽出龙虾，飘了飘了
+不听八卦诸葛青
+OPPO A57t
+https://fs-uc-nearme-com-cn.oss-cn-hangzhou.aliyuncs.com/467/064/423/324460764.jpg
+com.oppo.cdo.common.domain.dto.comment.CommentDto
+www好棒！
+就是番糖爸爸请多给点UR！
+軽蔑
+OPPO A33
+https://fs-uc-nearme-com-cn.oss-cn-hangzhou.aliyuncs.com/551/936/314/413639155.jpg
+com.oppo.cdo.common.domain.dto.comment.CommentDto
+不错，一个很好玩的游戏，画风也很棒老夫的少女心
+甜30172***
+OPPO A57
+https://fs-uc-nearme-com-cn.oss-cn-hangzhou.aliyuncs.com/268/992/743/347299862.jpg
+com.oppo.cdo.common.domain.dto.comment.CommentDto
+超喜欢这个画风的！少女心爆发qwq
+若若的叶子
+OPPO A5
+https://fs-uc-nearme-com-cn.oss-cn-hangzhou.aliyuncs.com/565/519/293/392915565.jpg
+com.oppo.cdo.common.domain.dto.comment.CommentDto
+画面很精致很可爱，又能做菜又能战斗，能玩的地方还是蛮多的，最喜欢飨灵强化后一路无敌打怪啦！
+U4102***
+OPPO A57
+https://fs-uc-nearme-com-cn.oss-cn-hangzhou.aliyuncs.com/305/538/321/123835503.jpg
+com.oppo.cdo.common.domain.dto.comment.CommentDto
+挺不错的游戏，下了游戏之后一直不停的在玩
+婷31634***
+OPPO R7s
+https://fs-uc-nearme-com-cn.oss-cn-hangzhou.aliyuncs.com/536/332/104/401233635.jpg
+com.oppo.cdo.common.domain.dto.comment.CommentDto
+比较满意的一款游戏，不充钱也可以很好的玩下去，多花费一点时间就好了，喜欢这种卡片收集的感觉。而且模型和人物的海报绘制都很不错，而且看着餐厅里的小人超级治愈！给4星！推荐！！
+U17872***
+OPPO R11
+https://fs-uc-nearme-com-cn.oss-cn-hangzhou.aliyuncs.com/avatar/4.png
+com.oppo.cdo.common.domain.dto.comment.CommentDto
+这是我玩过的最好的，最有趣的，最爱的卡牌类游戏，不需要氪金也能玩下去，第一次对一个卡牌类游戏那么认真。
+喻与叶
+OPPO R9 Plustm A
+https://fs-uc-nearme-com-cn.oss-cn-hangzhou.aliyuncs.com/493/326/102/201623394.jpg
+com.oppo.cdo.common.domain.dto.comment.CommentDto
+不错，画风挺美的
+用户25767***
+OPPO A83t
+https://fs-uc-nearme-com-cn.oss-cn-hangzhou.aliyuncs.com/788/858/263/362858887.jpg
+com.oppo.cdo.common.domain.dto.comment.CommentDto
+从暑假到现在！！！切实感受到了这款游戏的乐趣，炒鸡喜欢这种画风，更何况我是个小吃货哈哈哈哈..但是  坚持到现在没有氪金的我始终得不到麻小嘤嘤嘤  过几天决定为了麻小冰激凌氪金啦嘻嘻  为食之契约疯狂打call   我是最可爱的御侍大人啦啦啦啦
+ID昵称：七安卿君
+U18163***
+OPPO A59s
+https://fs-uc-nearme-com-cn.oss-cn-hangzhou.aliyuncs.com/993/584/482/284485399.jpg
+com.oppo.cdo.common.domain.dto.comment.CommentDto
+这是我觉得还好玩的一部游戏
+U22194***
+OPPO A37m
+https://fs-uc-nearme-com-cn.oss-cn-hangzhou.aliyuncs.com/avatar/9.png
+com.oppo.cdo.common.domain.dto.comment.CommentDto
+刚入坑萌新一枚，萌芽卡池第一发就出了小龙虾，做梦一样 hhhh
+用户0031222***
+OPPO R7s
+https://fs-uc-nearme-com-cn.oss-cn-hangzhou.aliyuncs.com/avatar/5.png
+com.oppo.cdo.common.domain.dto.comment.CommentDto
+游戏还不错
+淘集集   更新后很不错
+用户0031222***
+vivo vivo y35
+https://fs-uc-nearme-com-cn.oss-cn-hangzhou.aliyuncs.com/avatar/2.png
+com.oppo.cdo.common.domain.dto.comment.CommentDto
+感觉还不错吧（作为一个玩了几星期的人），感觉还是玩法太少，希望主线任务不用等级解锁，外卖点餐也希望合理一点。
+用户0031222***
+OPPO R7sPlus
+https://fs-uc-nearme-com-cn.oss-cn-hangzhou.aliyuncs.com/avatar/2.png
+com.oppo.cdo.common.domain.dto.comment.CommentDto
+四星，音乐立绘配音剧情都挺好的。
+用户0031228***
+vivo vivo y35
+https://fs-uc-nearme-com-cn.oss-cn-hangzhou.aliyuncs.com/avatar/4.png
+com.oppo.cdo.common.domain.dto.comment.CommentDto
+游戏战斗打击感也很强，画面也很赞，很好玩的一款游戏
+用户0031228***
+vivo vivo y35
+https://fs-uc-nearme-com-cn.oss-cn-hangzhou.aliyuncs.com/avatar/4.png
+com.oppo.cdo.common.domain.dto.comment.CommentDto
+继承了二次元卡牌的经典玩法，画面很好，会一直玩
+用户0031228***
+OPPO A51
+https://fs-uc-nearme-com-cn.oss-cn-hangzhou.aliyuncs.com/avatar/5.png
+com.oppo.cdo.common.domain.dto.comment.CommentDto
+游戏画面很好，CV配音也到位，再结合对战玩法，好游戏
+用户0031228***
+vivo vivo y35
+https://fs-uc-nearme-com-cn.oss-cn-hangzhou.aliyuncs.com/avatar/4.png
+com.oppo.cdo.common.domain.dto.comment.CommentDto
+游戏玩法方面做得不错，还能加强！加油！
+用户0031228***
+vivo vivo y35
+https://fs-uc-nearme-com-cn.oss-cn-hangzhou.aliyuncs.com/avatar/6.png
+com.oppo.cdo.common.domain.dto.comment.CommentDto
+二次元资深玩家，和朋友一起转战来的，非常好玩，有继承也有创新
+用户0031228***
+OPPO A59s
+https://fs-uc-nearme-com-cn.oss-cn-hangzhou.aliyuncs.com/avatar/2.png
+com.oppo.cdo.common.domain.dto.comment.CommentDto
+游戏非常好，非常酷炫
+用户0031228***
+OPPO R11
+https://fs-uc-nearme-com-cn.oss-cn-hangzhou.aliyuncs.com/avatar/4.png
+com.oppo.cdo.common.domain.dto.comment.CommentDto
+花小钱抽UR，从此迈入土豪的人生！
+用户0031228***
+vivo vivo y35
+https://fs-uc-nearme-com-cn.oss-cn-hangzhou.aliyuncs.com/avatar/9.png
+com.oppo.cdo.common.domain.dto.comment.CommentDto
+没花钱也可以玩很好，动作流畅，战斗打击感强，游戏非常棒
+用户0031113***
+vivo vivo y35
+https://fs-uc-nearme-com-cn.oss-cn-hangzhou.aliyuncs.com/avatar/9.png
+com.oppo.cdo.common.domain.dto.comment.CommentDto
+很给力的手游，玩了就知道，对战很好玩，画面也很好
+用户0031113***
+OPPO R1C
+https://fs-uc-nearme-com-cn.oss-cn-hangzhou.aliyuncs.com/avatar/9.png
+com.oppo.cdo.common.domain.dto.comment.CommentDto
+画面不错，可玩性很强，人物造型也很萌，个人很喜欢玩
+用户0031113***
+vivo vivo y35
+https://fs-uc-nearme-com-cn.oss-cn-hangzhou.aliyuncs.com/avatar/9.png
+com.oppo.cdo.common.domain.dto.comment.CommentDto
+新版本添加了好多新内容，诚意满满！好游戏！
+用户0031113***
+vivo vivo y35
+https://fs-uc-nearme-com-cn.oss-cn-hangzhou.aliyuncs.com/avatar/8.png
+com.oppo.cdo.common.domain.dto.comment.CommentDto
+很喜欢这个卡牌养成游戏
+用户0031113***
+OPPO R11 Plus
+https://fs-uc-nearme-com-cn.oss-cn-hangzhou.aliyuncs.com/avatar/10.png
+com.oppo.cdo.common.domain.dto.comment.CommentDto
+更新后，游戏比过去更好玩了，支持
+用户0031113***
+vivo vivo y35
+https://fs-uc-nearme-com-cn.oss-cn-hangzhou.aliyuncs.com/avatar/8.png
+com.oppo.cdo.common.domain.dto.comment.CommentDto
+游戏做得很良心，体验很好，收费也厚道，玩家在手游里很新，值得玩
+用户0031113***
+vivo vivo y35
+https://fs-uc-nearme-com-cn.oss-cn-hangzhou.aliyuncs.com/avatar/1.png
+com.oppo.cdo.common.domain.dto.comment.CommentDto
+游戏的食灵好多啊，绝对能满足收集欲望
+用户0031113***
+OPPO A53m
+https://fs-uc-nearme-com-cn.oss-cn-hangzhou.aliyuncs.com/avatar/5.png
+com.oppo.cdo.common.domain.dto.comment.CommentDto
+游戏画面很清新，配合Q版的人物造型和皮肤，良心之作
+用户0031113***
+OPPO R9sk
+https://fs-uc-nearme-com-cn.oss-cn-hangzhou.aliyuncs.com/avatar/4.png
+com.oppo.cdo.common.domain.dto.comment.CommentDto
+游戏很好玩，经常出新卡和皮肤，总能带来新意
+用户0031113***
+vivo vivo y35
+https://fs-uc-nearme-com-cn.oss-cn-hangzhou.aliyuncs.com/avatar/4.png
+com.oppo.cdo.common.domain.dto.comment.CommentDto
+玩游戏很久了，很好玩
+用户0031113***
+OPPO A59s
+https://fs-uc-nearme-com-cn.oss-cn-hangzhou.aliyuncs.com/avatar/8.png
+com.oppo.cdo.common.domain.dto.comment.CommentDto
+游戏可和玩家交互的内容。游戏设计非常贴心
+用户0031113***
+vivo vivo y35
+https://fs-uc-nearme-com-cn.oss-cn-hangzhou.aliyuncs.com/avatar/7.png
+com.oppo.cdo.common.domain.dto.comment.CommentDto
+喜欢游戏的系统设计，奖励不少，设计也很贴心，体验优化得很好
+用户0031113***
+OPPO R7
+https://fs-uc-nearme-com-cn.oss-cn-hangzhou.aliyuncs.com/avatar/3.png
+com.oppo.cdo.common.domain.dto.comment.CommentDto
+游戏系统非常贴心的设计，从每个细节看出游戏的玩家体验都非常好
+用户0031113***
+OPPO R1C
+https://fs-uc-nearme-com-cn.oss-cn-hangzhou.aliyuncs.com/avatar/6.png
+com.oppo.cdo.common.domain.dto.comment.CommentDto
+立绘太好看了，ur是真的好用，不过r卡也很可爱啊
+用户0031113***
+OPPO A11
+https://fs-uc-nearme-com-cn.oss-cn-hangzhou.aliyuncs.com/avatar/8.png
+com.oppo.cdo.common.domain.dto.comment.CommentDto
+喜欢堕神系统，有了以后养成变快了，又有了新的交互点。非常好！
+用户0031113***
+OPPO A53m
+https://fs-uc-nearme-com-cn.oss-cn-hangzhou.aliyuncs.com/avatar/5.png
+com.oppo.cdo.common.domain.dto.comment.CommentDto
+妈呀画风是我喜欢的类型 不过隔壁好像也有个食物题材的
+用户0031113***
+vivo vivo y35
+https://fs-uc-nearme-com-cn.oss-cn-hangzhou.aliyuncs.com/avatar/9.png
+com.oppo.cdo.common.domain.dto.comment.CommentDto
+好像要酒酿圆子酒酿圆子酒酿圆子!!50个碎片好难攒!
+用户0031113***
+OPPO R9m
+https://fs-uc-nearme-com-cn.oss-cn-hangzhou.aliyuncs.com/avatar/4.png
+com.oppo.cdo.common.domain.dto.comment.CommentDto
+很多的趣味，非常棒的设计，点赞
+用户0031113***
+OPPO A33m
+https://fs-uc-nearme-com-cn.oss-cn-hangzhou.aliyuncs.com/avatar/9.png
+com.oppo.cdo.common.domain.dto.comment.CommentDto
+很不错的游戏，市场系统由其好。很棒的交互系统，值得推荐
+用户0031113***
+OPPO A59s
+https://fs-uc-nearme-com-cn.oss-cn-hangzhou.aliyuncs.com/avatar/5.png
+com.oppo.cdo.common.domain.dto.comment.CommentDto
+要肝的游戏，不过挺有意思的
+用户0031113***
+vivo vivo y35
+https://fs-uc-nearme-com-cn.oss-cn-hangzhou.aliyuncs.com/avatar/4.png
+com.oppo.cdo.common.domain.dto.comment.CommentDto
+游戏就算不充钱也能玩下去，时间可以慢慢积累，也需要一点技术
+用户0031113***
+vivo vivo y35
+https://fs-uc-nearme-com-cn.oss-cn-hangzhou.aliyuncs.com/avatar/2.png
+com.oppo.cdo.common.domain.dto.comment.CommentDto
+游戏非常好，画质很好，活动给力，每次更新都有新意
+用户0031113***
+OPPO A59s
+https://fs-uc-nearme-com-cn.oss-cn-hangzhou.aliyuncs.com/avatar/8.png
+com.oppo.cdo.common.domain.dto.comment.CommentDto
+个人玩过最好的卡牌手游，战斗有趣，画面很好
+用户0031113***
+OPPO R7c
+https://fs-uc-nearme-com-cn.oss-cn-hangzhou.aliyuncs.com/avatar/3.png
+com.oppo.cdo.common.domain.dto.comment.CommentDto
+超好玩，非常拟人手游，喜欢收集各类漂亮小哥哥，小姐姐
+用户0031113***
+OPPO A59m
+https://fs-uc-nearme-com-cn.oss-cn-hangzhou.aliyuncs.com/avatar/5.png
+com.oppo.cdo.common.domain.dto.comment.CommentDto
+游戏很用心，经常更新版本，对内容也时常进行优化，祝游戏越来越好
+用户0031113***
+vivo vivo y35
+https://fs-uc-nearme-com-cn.oss-cn-hangzhou.aliyuncs.com/avatar/10.png
+com.oppo.cdo.common.domain.dto.comment.CommentDto
+和朋友一起来玩，觉得非常有意思，玩法很吸引人
+用户0031113***
+OPPO U3
+https://fs-uc-nearme-com-cn.oss-cn-hangzhou.aliyuncs.com/avatar/9.png
+com.oppo.cdo.common.domain.dto.comment.CommentDto
+游戏很不错，战力相差不大的情况下可用技术来弥补，良心游戏
+用户0031113***
+OPPO R1C
+https://fs-uc-nearme-com-cn.oss-cn-hangzhou.aliyuncs.com/avatar/3.png
+com.oppo.cdo.common.domain.dto.comment.CommentDto
+游戏画面很精致，堕神很多，阵容强大，对战玩起来很刺激
+用户0031113***
+OPPO R9sk
+https://fs-uc-nearme-com-cn.oss-cn-hangzhou.aliyuncs.com/avatar/1.png
+com.oppo.cdo.common.domain.dto.comment.CommentDto
+游戏很好玩，也能经常更新版本，活动也多，给力
+用户0031113***
+vivo vivo y35
+https://fs-uc-nearme-com-cn.oss-cn-hangzhou.aliyuncs.com/avatar/7.png
+com.oppo.cdo.common.domain.dto.comment.CommentDto
+游戏画面不错，可玩性很高，贫富玩家差异不大，值得玩
+用户0031113***
+vivo vivo y35
+https://fs-uc-nearme-com-cn.oss-cn-hangzhou.aliyuncs.com/avatar/5.png
+com.oppo.cdo.common.domain.dto.comment.CommentDto
+很不错的游戏，二次元经典拟人推图，其他系统也做得很到位
+用户0031113***
+OPPO R7sPlus
+https://fs-uc-nearme-com-cn.oss-cn-hangzhou.aliyuncs.com/avatar/4.png
+com.oppo.cdo.common.domain.dto.comment.CommentDto
+CV整容强大，卡设计好漂亮
+用户0031113***
+vivo vivo y35
+https://fs-uc-nearme-com-cn.oss-cn-hangzhou.aliyuncs.com/avatar/8.png
+com.oppo.cdo.common.domain.dto.comment.CommentDto
+很难找到可以玩这么久的游戏，内容很多，可以慢慢探索
+用户0031113***
+OPPO R11 Plus
+https://fs-uc-nearme-com-cn.oss-cn-hangzhou.aliyuncs.com/avatar/6.png
+com.oppo.cdo.common.domain.dto.comment.CommentDto
+游戏好玩，经常有活动，遇到问题客服解答也很及时热心
+用户0031113***
+vivo vivo y35
+https://fs-uc-nearme-com-cn.oss-cn-hangzhou.aliyuncs.com/avatar/3.png
+com.oppo.cdo.common.domain.dto.comment.CommentDto
+游戏品质很高，而且不需要花很多也可以好好玩，良心游戏
+用户0031113***
+OPPO R9 Plusm A
+https://fs-uc-nearme-com-cn.oss-cn-hangzhou.aliyuncs.com/avatar/3.png
+com.oppo.cdo.common.domain.dto.comment.CommentDto
+很好用的购物软件，我经常用，东西实惠又便宜，还可以拼团，砍价。
+
+淘集集
+用户0031113***
+OPPO R7sPlus
+https://fs-uc-nearme-com-cn.oss-cn-hangzhou.aliyuncs.com/avatar/4.png
+com.oppo.cdo.common.domain.dto.comment.CommentDto
+淘集集   我很喜欢淘集集， 每天都有大量的活动 ，东西便宜又实惠 ，真的很划算 ，推荐大伙一起使用。
+用户0031113***
+vivo vivo y35
+https://fs-uc-nearme-com-cn.oss-cn-hangzhou.aliyuncs.com/avatar/3.png
+com.oppo.cdo.common.domain.dto.comment.CommentDto
+这个软件太好了，很多实惠的宝贝都非常的便宜！太好了
+
+淘集集
+用户0031113***
+OPPO R7
+https://fs-uc-nearme-com-cn.oss-cn-hangzhou.aliyuncs.com/avatar/5.png
+com.oppo.cdo.common.domain.dto.comment.CommentDto
+淘集集   淘集集好用好用！东西便宜实惠又好用！
+用户0031113***
+vivo vivo y35
+https://fs-uc-nearme-com-cn.oss-cn-hangzhou.aliyuncs.com/avatar/4.png
+com.oppo.cdo.common.domain.dto.comment.CommentDto
+买东西很便宜，生活用品，吃穿啥都有，价格超实惠的
+
+淘集集
+用户0031113***
+OPPO A53m
+https://fs-uc-nearme-com-cn.oss-cn-hangzhou.aliyuncs.com/avatar/1.png
+com.oppo.cdo.common.domain.dto.comment.CommentDto
+画风很舒服，通用卡牌战斗方式，微创新，结合餐厅美食很有新意，有玩下去的欲望
+用户0031113***
+vivo vivo y35
+https://fs-uc-nearme-com-cn.oss-cn-hangzhou.aliyuncs.com/avatar/2.png
+com.oppo.cdo.common.domain.dto.comment.CommentDto
+玩了两天，觉得游戏制作很精良，玩家体验也很好。非常喜欢
+用户0031113***
+vivo vivo y35
+https://fs-uc-nearme-com-cn.oss-cn-hangzhou.aliyuncs.com/avatar/4.png
+com.oppo.cdo.common.domain.dto.comment.CommentDto
+游戏画面很漂亮，人物也很可爱，玩下去觉得内容也好玩
+用户0031113***
+OPPO N3
+https://fs-uc-nearme-com-cn.oss-cn-hangzhou.aliyuncs.com/avatar/9.png
+com.oppo.cdo.common.domain.dto.comment.CommentDto
+很好的游戏，画面很不错，内容玩法也丰富
+用户0031113***
+vivo vivo y35
+https://fs-uc-nearme-com-cn.oss-cn-hangzhou.aliyuncs.com/avatar/6.png
+com.oppo.cdo.common.domain.dto.comment.CommentDto
+游戏整体感觉易于上手，后期内容也有，值得下载
+用户0031113***
+OPPO N3
+https://fs-uc-nearme-com-cn.oss-cn-hangzhou.aliyuncs.com/avatar/2.png
+com.oppo.cdo.common.domain.dto.comment.CommentDto
+游戏很棒，玩了很久，内容比较丰富，也会不时有更新，值得持久玩
+用户0031113***
+vivo vivo y35
+https://fs-uc-nearme-com-cn.oss-cn-hangzhou.aliyuncs.com/avatar/3.png
+com.oppo.cdo.common.domain.dto.comment.CommentDto
+这款游戏非常棒，画面也好。推荐大家玩
+用户0031113***
+OPPO R11 Plus
+https://fs-uc-nearme-com-cn.oss-cn-hangzhou.aliyuncs.com/avatar/3.png
+com.oppo.cdo.common.domain.dto.comment.CommentDto
+很棒的一款游戏，玩法容易上手，内容也丰富
+用户0031113***
+vivo vivo y35
+https://fs-uc-nearme-com-cn.oss-cn-hangzhou.aliyuncs.com/avatar/10.png
+com.oppo.cdo.common.domain.dto.comment.CommentDto
+游戏玩法很有趣味，画面很不错，战斗画面很流畅，会一直玩下去
+用户0031113***
+OPPO N3
+https://fs-uc-nearme-com-cn.oss-cn-hangzhou.aliyuncs.com/avatar/3.png
+com.oppo.cdo.common.domain.dto.comment.CommentDto
+不充钱也能玩得下去，需求一点技术，很好玩的游戏
+用户0031113***
+vivo vivo y35
+https://fs-uc-nearme-com-cn.oss-cn-hangzhou.aliyuncs.com/avatar/3.png
+com.oppo.cdo.common.domain.dto.comment.CommentDto
+很喜欢飨灵，游戏画面也好，有自己的创新，好游戏
+用户0031113***
+vivo vivo y35
+https://fs-uc-nearme-com-cn.oss-cn-hangzhou.aliyuncs.com/avatar/5.png
+com.oppo.cdo.common.domain.dto.comment.CommentDto
+真心觉得是款好游戏，玩法很喜欢，画面也做得到位
+用户0031113***
+OPPO A59s
+https://fs-uc-nearme-com-cn.oss-cn-hangzhou.aliyuncs.com/avatar/1.png
+com.oppo.cdo.common.domain.dto.comment.CommentDto
+有点兴趣，赞一个，这游戏就是我要的！
+用户0031113***
+vivo vivo y35
+https://fs-uc-nearme-com-cn.oss-cn-hangzhou.aliyuncs.com/avatar/8.png
+com.oppo.cdo.common.domain.dto.comment.CommentDto
+游戏很好，玩了很久一直没有弃坑，也不时会有新内容更新，赞一个
+用户0031113***
+OPPO R7
+https://fs-uc-nearme-com-cn.oss-cn-hangzhou.aliyuncs.com/avatar/4.png
